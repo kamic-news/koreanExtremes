@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-05-14T06:02:00+00:00,,0.4431010180756185,1,2,ko,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-05-14T06:02:00+00:00,,0.5267858803642758,2,2,ko,,
 '560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-05-01T05:54:00+00:00,,0.4423545245381551,1,2,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-05-07T05:46:00+00:00,,0.4422749545815708,1,2,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-04-27T05:39:00+00:00,,0.4276398227796837,1,2,ko,,
@@ -10,7 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-05-12T05:53:00+00:00,South Korea,0.3867889124125571,1,1,ko,EAS,Asia
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-05-14T06:02:00+00:00,South Korea,0.3806192324235628,1,1,ko,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,태풍,2026-05-03T05:43:00+00:00,,0.3796339445117518,4,1,ko,,
-'3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.37068628726671976,2,1,ko,EAS,Asia
+'3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.3706862872667197,2,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.370021577524549,1,1,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-05-08T05:16:00+00:00,North Korea,0.3694210683086413,2,1,ko,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,화산 폭발,2026-04-27T05:39:00+00:00,,0.3485064152251044,1,1,ko,,
@@ -53,5 +53,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,먼지폭풍,2026-04-28T05:44:00+00:00,,0.2897201421824552,1,1,ko,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-05-07T05:46:00+00:00,,0.2884446157545737,2,1,ko,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,기상전선,2026-05-13T06:02:00+00:00,,0.2883437829885817,1,1,ko,,
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-04-26T05:25:00+00:00,,0.28617740675617404,1,1,ko,,
-'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,열대 저기압 괌,2026-05-05T05:29:00+00:00,Guam,0.27184621761918026,1,1,ko,NPO,Oceania
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-04-26T05:25:00+00:00,,0.286177406756174,1,1,ko,,
+'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,열대 저기압 괌,2026-05-05T05:29:00+00:00,Guam,0.2718462176191802,1,1,ko,NPO,Oceania
