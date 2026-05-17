@@ -11,7 +11,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.3706862872667197,2,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.370021577524549,1,1,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-05-08T05:16:00+00:00,North Korea,0.3694210683086413,2,1,ko,EAS,Asia
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,히트 돔,2026-05-16T05:40:00+00:00,,0.3690771233088429,0,1,ko,,
 'f90601fa23',extremes,Volcano,#b83202,random,화산 폭발,2026-04-27T05:39:00+00:00,,0.3485064152251044,1,1,ko,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,가장 더운 날,2026-05-17T06:01:00+00:00,,0.3472378430271442,0,1,ko,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,북극해의 얼음,2026-05-06T05:43:00+00:00,,0.3405988902757442,1,1,ko,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,ko,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,수은 방울,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,ko,,
@@ -36,6 +38,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,태즈메이니아 산불,2026-04-29T05:41:00+00:00,Australia,0.3194593973309889,0,1,ko,SAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,태즈메이니아 강수량,2026-05-04T05:50:00+00:00,Australia,0.319444101092315,0,1,ko,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,호주 남부의 폭염,2026-05-04T05:50:00+00:00,Australia,0.3194433136307953,0,1,ko,CAU,Oceania
+'d0ad361cd5',extremes,Precipitation,#d60d2b,acwe,습한 빅토리아,2026-05-04T05:50:00+00:00,Australia,0.31943449580158423,0,1,ko,SAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,호주 남부의 돌발 홍수,2026-05-04T05:50:00+00:00,Australia,0.3194273971750887,0,1,ko,CAU,Oceania
+'a0fea22150',extremes,Heat Wave,#c40202,acwe,폭염 뉴 사우스 웨일즈,2026-05-04T05:50:00+00:00,Australia,0.31942244998548996,0,1,ko,EAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,뉴사우스웨일스,2026-05-04T05:50:00+00:00,Australia,0.3194195364855966,0,1,ko,EAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,호주의 따뜻한 주문,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,ko,CAU,Oceania
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 하구피트,2026-05-07T05:46:00+00:00,,0.31919561237605754,0,1,ko,EPO,Pacific Ocean
+'2595e5c49a',extremes,Flood,#030ba1,acwe,호주의 높은 수위,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,ko,CAU,Oceania
+'248cc444aa',extremes,Heat Wave,#c40202,acwe,호주 서부의 온화한 겨울,2026-05-04T05:50:00+00:00,Australia,0.3189919128310656,0,1,ko,CAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,남극 해빙,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ko,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,폭풍우,2026-05-06T05:43:00+00:00,,0.3126841250056201,1,1,ko,,
@@ -51,7 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-05-15T06:09:00+00:00,,0.2876667759175501,1,1,ko,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,가장 추운 겨울,2026-05-03T05:43:00+00:00,,0.2866371202769857,1,1,ko,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-04-26T05:25:00+00:00,,0.286177406756174,1,1,ko,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-05-14T06:02:00+00:00,,0.28136727058332583,1,1,ko,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-05-03T05:43:00+00:00,,0.27969274850951054,2,1,ko,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,ko,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-05-03T05:43:00+00:00,,0.2796927485095105,2,1,ko,,
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,열대 저기압 괌,2026-05-05T05:29:00+00:00,Guam,0.2718462176191802,1,1,ko,NPO,Oceania
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,폭풍 미네소타,2026-05-05T05:29:00+00:00,United States,0.27179438346605894,1,1,ko,WNA,North-America
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,폭풍 미네소타,2026-05-05T05:29:00+00:00,United States,0.2717943834660589,1,1,ko,WNA,North-America
