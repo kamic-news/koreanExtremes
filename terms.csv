@@ -42,6 +42,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 하구피트,2026-05-07T05:46:00+00:00,,0.3191956123760575,0,1,ko,EPO,Pacific Ocean
 '2595e5c49a',extremes,Flood,#030ba1,acwe,호주의 높은 수위,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,ko,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,호주 서부의 온화한 겨울,2026-05-04T05:50:00+00:00,Australia,0.3189919128310656,0,1,ko,CAU,Oceania
+'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,호주 서부의 습한 날씨,2026-05-04T05:50:00+00:00,Australia,0.3179863264112316,0,1,ko,CAU,Oceania
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,폭염 퀸즈랜드,2026-05-04T05:50:00+00:00,Australia,0.3179722418644156,0,1,ko,CAU,Oceania
+'9f0423d739',extremes,Drought,#edc291,random,건조함,2026-05-10T05:51:00+00:00,,0.3178850037485913,0,1,ko,,
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-07T05:46:00+00:00,,0.31696443878705965,0,1,ko,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,빙산 arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,0,1,ko,,
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,2016년 6월 7월 태즈매니아 홍수,2026-05-12T05:53:00+00:00,Australia,0.315486567028991,0,1,ko,SAU,Oceania
+'f9a3abc8c2',extremes,Landslide,#572c03,random,이류,2026-05-05T05:28:00+00:00,,0.31515885162446033,0,1,ko,,
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,홍수 호바트 돌발 홍수 태즈매니아 2018,2026-05-09T05:36:00+00:00,Australia,0.3151399933770028,0,1,ko,SAU,Oceania
+'152914913d',extremes,Heat Wave,#c40202,acwe,폭염 태즈메이니아,2026-04-28T05:45:00+00:00,Australia,0.31472552711875673,0,1,ko,SAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-04-29T05:40:00+00:00,Australia,0.31441545495299583,0,1,ko,EAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,남극 해빙,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ko,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,히트 돔,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ko,,
