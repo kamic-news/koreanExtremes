@@ -1,9 +1,68 @@
 ,phrase,label,sentiment,subjectivity,language,count
 this year,this year,DATE,,,en,2.8
+33 degrees,33 degrees,QUANTITY,,,en,2.4
 2026,2026,DATE,,,en,1.8
+Sunday,Sunday,DATE,,,en,1.8
+the weekend,the weekend,DATE,,,en,1.7
+Early summer,Early summer,DATE,,,en,1.7
+daytime,daytime,TIME,,,en,1.7
 2,2,CARDINAL,,,en,1.3000000000000003
 Vandenberg Space Force Base,Vandenberg Space Force Base,FAC,,,en,1.1
+19,19,CARDINAL,,,en,1.0
+14 degrees,14 degrees,QUANTITY,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+27 degrees,27 degrees,QUANTITY,,,en,1.0
+the 17th,the 17th,DATE,,,en,1.0
+21,21,CARDINAL,,,en,1.0
+24 degrees,24 degrees,QUANTITY,,,en,1.0
+10th,10th,ORDINAL,,,en,1.0
+the 9th,the 9th,DATE,,,en,1.0
+Yeouido Park,Yeouido Park,FAC,,,en,1.0
+daily,daily,DATE,,,en,1.0
+6 to 12 degrees,6 to 12 degrees,QUANTITY,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+between day,between day,DATE,,,en,1.0
+15 to 20,15 to 20,CARDINAL,,,en,1.0
+33,33,CARDINAL,,,en,1.0
+August 13 last year,August 13 last year,DATE,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+three,three,CARDINAL,,,en,1.0
+the hottest year,the hottest year,DATE,,,en,1.0
+the 13th,the 13th,DATE,,,en,1.0
+this fall,this fall,DATE,,,en,1.0
+more than 2 degrees,more than 2 degrees,CARDINAL,,,en,1.0
+more than three months,more than three months,DATE,,,en,1.0
+November this year,November this year,DATE,,,en,1.0
+the day,the day,DATE,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+midday,midday,TIME,,,en,1.0
+the 6th century,the 6th century,DATE,,,en,1.0
+Norwegian,Norwegian,NORP,,,en,1.0
+about 6 cm,about 6 cm,QUANTITY,,,en,1.0
+about 40,about 40,CARDINAL,,,en,1.0
+3:59 pm,3:59 pm,TIME,,,en,1.0
+Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
+the 2nd,the 2nd,DATE,,,en,1.0
+20 years,20 years,DATE,,,en,1.0
+the Tongil-ro Memorial Park,the Tongil-ro Memorial Park,FAC,,,en,1.0
+2022,2022,DATE,,,en,1.0
+the 22nd,the 22nd,DATE,,,en,1.0
 "about 1,500 years ago","about 1,500 years ago",DATE,,,en,1.0
+Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+last Thursday,last Thursday,DATE,,,en,1.0
+a spring day,a spring day,DATE,,,en,1.0
+morning,morning,TIME,,,en,1.0
+spring,spring,DATE,,,en,1.0
+Korean,Korean,NORP,,,en,1.0
+3rd,3rd,ORDINAL,,,en,1.0
+the past 30 days,the past 30 days,DATE,,,en,1.0
+first,first,ORDINAL,,,en,1.0
+summer,summer,DATE,,,en,1.0
+January,January,DATE,,,en,1.0
+12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
+March 2026,March 2026,DATE,,,en,1.0
+7.4,7.4,CARDINAL,,,en,1.0
 1.3,1.3,CARDINAL,,,en,1.0
 6.1,6.1,CARDINAL,,,en,1.0
 months,months,DATE,,,en,1.0
@@ -11,40 +70,5 @@ months,months,DATE,,,en,1.0
 2018,2018,DATE,,,en,1.0
 March,March,DATE,,,en,1.0
 British,British,NORP,,,en,1.0
-Norwegian,Norwegian,NORP,,,en,1.0
-about 6 cm,about 6 cm,QUANTITY,,,en,1.0
-March 2026,March 2026,DATE,,,en,1.0
-33,33,CARDINAL,,,en,1.0
-the 6th century,the 6th century,DATE,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-August 13 last year,August 13 last year,DATE,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-the hottest year,the hottest year,DATE,,,en,1.0
-the 13th,the 13th,DATE,,,en,1.0
-this fall,this fall,DATE,,,en,1.0
-more than 2 degrees,more than 2 degrees,CARDINAL,,,en,1.0
-more than three months,more than three months,DATE,,,en,1.0
-7.4,7.4,CARDINAL,,,en,1.0
 Beep beep,Beep beep,WORK_OF_ART,,,en,1.0
-12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
-spring,spring,DATE,,,en,1.0
-morning,morning,TIME,,,en,1.0
-a spring day,a spring day,DATE,,,en,1.0
-last Thursday,last Thursday,DATE,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
-the 22nd,the 22nd,DATE,,,en,1.0
-about 40,about 40,CARDINAL,,,en,1.0
-2022,2022,DATE,,,en,1.0
-the Tongil-ro Memorial Park,the Tongil-ro Memorial Park,FAC,,,en,1.0
-20 years,20 years,DATE,,,en,1.0
-the 2nd,the 2nd,DATE,,,en,1.0
-Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
-3:59 pm,3:59 pm,TIME,,,en,1.0
-Korean,Korean,NORP,,,en,1.0
-3rd,3rd,ORDINAL,,,en,1.0
-the past 30 days,the past 30 days,DATE,,,en,1.0
-first,first,ORDINAL,,,en,1.0
-summer,summer,DATE,,,en,1.0
-January,January,DATE,,,en,1.0
-November this year,November this year,DATE,,,en,1.0
+the morning of the 16th,the morning of the 16th,TIME,,,en,1.0

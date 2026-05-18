@@ -1,5 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
 [ZDNet Korea],[ZDNet Korea],PERSON,0.06778309409888357,0.21929824561403508,en,1.9
 El Nino,El Nino,PERSON,0.08701754385964913,0.7129824561403509,en,1.9
+Gimpo Cheongsol Tree Ranch,Gimpo Cheongsol Tree Ranch,PERSON,0.29090909090909095,0.9272727272727272,en,1.1
+Lim Geun-bae,Lim Geun-bae,PERSON,0.0,0.0,en,1.0
+Lee Jung-ho,Lee Jung-ho,PERSON,0.0,0.0,en,1.0
+Ga-eun Yoon,Ga-eun Yoon,PERSON,0.0,0.0,en,1.0
+Seong-min Park,Seong-min Park,PERSON,0.0,0.0,en,1.0
 Su-bin Han,Su-bin Han,PERSON,0.17500000000000002,0.5083333333333333,en,1.0
 Ye Sang-wook,Ye Sang-wook,PERSON,0.0,0.0,en,1.0
+Muryang Tree Ranch,Muryang Tree Ranch,PERSON,0.1,0.4,en,1.0
+Namyangju Muryang Tree Ranch,Namyangju Muryang Tree Ranch,PERSON,0.22000000000000003,0.62,en,1.0

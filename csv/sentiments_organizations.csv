@@ -1,14 +1,18 @@
 ,phrase,label,sentiment,subjectivity,language,count
 POSCO Future M,POSCO Future M,ORG,0.0,0.08928571428571429,en,1.4
-ZD Net Korea,ZD Net Korea,ORG,0.0,0.0,en,1.0
+ZD Net Korea,ZD Net Korea,ORG,0.0,0.052083333333333336,en,1.2
+the Space Agency,the Space Agency,ORG,0.0,0.0,en,1.0
 Atmospheric Administration,Atmospheric Administration,ORG,0.13333333333333333,0.0,en,1.0
 United States,United States,ORG,0.13333333333333333,0.0,en,1.0
 Super El Niño,Super El Niño,ORG,0.3466666666666666,0.0,en,1.0
 Gizmodo,Gizmodo,ORG,0.08333333333333333,0.0,en,1.0
+​,​,ORG,0.5,0.0,en,1.0
+Ilsan Natural Forest Tree Ranch,Ilsan Natural Forest Tree Ranch,ORG,0.1,0.0,en,1.0
+Yonhap News,Yonhap News,ORG,0.10000000000000002,0.0,en,1.0
 Carbon Brief,Carbon Brief,ORG,0.0,0.0,en,1.0
 the Korea Meteorological Administration,the Korea Meteorological Administration,ORG,0.0375,0.0,en,1.0
-the Space Agency,the Space Agency,ORG,0.0,0.0,en,1.0
 Korea Aerospace Industries,Korea Aerospace Industries,ORG,0.0,0.0,en,1.0
+POSTECH,POSTECH,ORG,0.1,0.0,en,1.0
 Falcon 9',Falcon 9',ORG,0.0,0.0,en,1.0
 SpaceX,SpaceX,ORG,0.0,0.0,en,1.0
 "the Ministry of Land, Infrastructure and Transport","the Ministry of Land, Infrastructure and Transport",ORG,0.0,0.0,en,1.0
@@ -16,4 +20,6 @@ The Aerospace Administration,The Aerospace Administration,ORG,0.0,0.0,en,1.0
 ZD Net Korea],ZD Net Korea],ORG,0.0,0.0,en,1.0
 Falcon 9,Falcon 9,ORG,0.0,0.0,en,1.0
 KAI,KAI,ORG,0.0,0.0,en,1.0
+the Department of Mechanical Engineering,the Department of Mechanical Engineering,ORG,0.0,0.0,en,1.0
+Pohang University of Science and Technology,Pohang University of Science and Technology,ORG,0.1,0.0,en,1.0
 NOAA,NOAA,ORG,0.13333333333333333,0.0,en,1.0
