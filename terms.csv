@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.4761114709605238,2,2,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-05-07T05:46:00+00:00,,0.4422749545815708,1,2,ko,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-05-09T05:35:00+00:00,,0.4347268908180964,3,1,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-04-27T05:39:00+00:00,,0.4276398227796837,1,2,ko,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,산불,2026-05-18T06:38:00+00:00,,0.4228979175630113,1,3,ko,,
 '9f0423d739',extremes,Drought,#edc291,random,건조함,2026-05-10T05:51:00+00:00,,0.4203522681863025,1,2,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-05-19T06:33:00+00:00,North Korea,0.4145421783459598,3,1,ko,EAS,Asia
+'15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.40634491531644523,3,2,ko,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.4052684158958666,2,2,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-04-27T05:39:00+00:00,,0.3916743137408658,2,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-05-19T06:33:00+00:00,,0.3911583274971437,1,2,ko,,
@@ -52,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,남아프리카에 폭우,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,ko,WSAF,Africa
 '0877c3e614',extremes,Precipitation,#d60d2b,wmo,호우 지역,2026-04-30T05:46:00+00:00,Ecuador,0.3080908213612825,0,1,ko,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,아마존 강우 지역,2026-05-03T05:44:00+00:00,Ecuador,0.308062466264118,0,1,ko,NWS,South-America
-'50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,그라보우에 폭우,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,ko,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,몰도바 강수량 공화국,2026-05-09T05:36:00+00:00,Republic of Moldova,0.3080316867825511,0,1,ko,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,브라질 호우,2026-04-30T05:46:00+00:00,Brazil,0.3079946387921132,0,1,ko,SAM,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,남아프리카에 비,2026-05-06T05:43:00+00:00,South Africa,0.3079943839372556,0,1,ko,WSAF,Africa
@@ -70,15 +69,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,집중호우 서해구,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,ko,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,아마존 집중호우 지역,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,ko,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,남아프리카공화국의 뇌우,2026-05-06T05:43:00+00:00,South Africa,0.3069985065275658,0,1,ko,WSAF,Africa
-'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,의심스러운 소리 북쪽의 피오르드랜드에 폭우,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,ko,NZ,Oceania
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,의심스러운 소리 북쪽의 피오르드랜드에 폭우,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,ko,NZ,Oceania
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,비 베차르,2026-05-10T05:51:00+00:00,Algeria,0.3066587830791596,0,1,ko,SAH,Africa
-'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,강수량 태국,2026-05-09T05:36:00+00:00,Thailand,0.30658768401297887,0,1,ko,SEA,Asia
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-05-01T05:54:00+00:00,Argentina,0.30658249583710684,0,1,ko,SES,South-America
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,캐나다가 얼어붙다,2026-05-03T05:44:00+00:00,Canada,0.30653908567332455,0,1,ko,NEN,North-America
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,강수량 태국,2026-05-09T05:36:00+00:00,Thailand,0.3065876840129788,0,1,ko,SEA,Asia
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-05-01T05:54:00+00:00,Argentina,0.3065824958371068,0,1,ko,SES,South-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,캐나다가 얼어붙다,2026-05-03T05:44:00+00:00,Canada,0.3065390856733245,0,1,ko,NEN,North-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,비 탄자니아,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,ko,SEAF,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,브라질 영하,2026-05-11T06:14:00+00:00,Brazil,0.30614702790141163,0,1,ko,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,브라질 영하,2026-05-11T06:14:00+00:00,Brazil,0.3061470279014116,0,1,ko,SAM,South-America
 '016d682943',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 남아프리카공화국,2026-05-11T06:14:00+00:00,South Africa,0.3060438468889501,0,1,ko,WSAF,Africa
-'7fced7e700',extremes,Precipitation,#d60d2b,wmo,폭우 룩셈부르크,2026-05-10T05:51:00+00:00,Luxembourg,0.30590619678526604,0,1,ko,WCE,Europe
+'7fced7e700',extremes,Precipitation,#d60d2b,wmo,폭우 룩셈부르크,2026-05-10T05:51:00+00:00,Luxembourg,0.305906196785266,0,1,ko,WCE,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,ko,,
 'c948617fef',extremes,Heat Wave,#c40202,random,극심한 열 노출,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,ko,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,토네이도,2026-05-19T06:33:00+00:00,,0.2966611231386404,1,1,ko,,
@@ -131,6 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,폭풍우,2026-05-20T06:32:00+00:00,,0.2653651320093725,1,1,ko,,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,비가 부족 빅토리아,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,ko,SAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,폭우 호주,2026-05-17T06:01:00+00:00,Australia,0.2630703685335558,1,1,ko,SAU,Oceania
+'50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,그라보우에 폭우,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,ko,WSAF,Africa
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,브라질 강수량,2026-05-02T05:24:00+00:00,Brazil,0.2616078023304781,1,1,ko,SAM,South-America
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,스노우팩,2026-05-10T05:51:00+00:00,,0.2539089647323463,2,1,ko,,
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,폭우 탄자니아,2026-05-01T05:54:00+00:00,Tanzania,0.2221589836655335,2,1,ko,SEAF,Africa
