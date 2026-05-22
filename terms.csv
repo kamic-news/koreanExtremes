@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9f0423d739',extremes,Drought,#edc291,random,건조함,2026-05-10T05:51:00+00:00,,0.5074494429583571,2,2,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-05-21T06:34:00+00:00,,0.4521566389247607,1,2,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-05-07T05:46:00+00:00,,0.4422749545815708,1,2,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-04-27T05:39:00+00:00,,0.4367472997083214,3,2,ko,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-05-09T05:35:00+00:00,,0.4347268908180964,3,1,ko,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,산불,2026-05-18T06:38:00+00:00,,0.42805008856492327,2,3,ko,,
+'9f0423d739',extremes,Drought,#edc291,random,건조함,2026-05-10T05:51:00+00:00,,0.43148204151460356,3,2,ko,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,산불,2026-05-18T06:38:00+00:00,,0.4280500885649232,2,3,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-05-19T06:33:00+00:00,North Korea,0.4145421783459598,3,1,ko,EAS,Asia
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-05-22T06:31:00+00:00,,0.4143993507370792,1,2,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.4063449153164452,3,2,ko,,
@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-05-14T06:02:00+00:00,South Korea,0.3235263475600284,2,1,ko,EAS,Asia
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,기온이 급락,2026-05-08T05:16:00+00:00,,0.3204276545755503,1,1,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.3150833441767117,3,1,ko,EAS,Asia
-'44211c95de',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,ko,EAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,남극 해빙,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ko,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,히트 돔,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ko,,
@@ -131,6 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,이류,2026-05-05T05:28:00+00:00,,0.2678850238807912,1,1,ko,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,홍수 호바트 돌발 홍수 태즈매니아 2018,2026-05-09T05:36:00+00:00,Australia,0.2678689943704524,1,1,ko,SAU,Oceania
 '152914913d',extremes,Heat Wave,#c40202,acwe,폭염 태즈메이니아,2026-04-28T05:45:00+00:00,Australia,0.2675166980509432,1,1,ko,SAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-05-17T06:01:00+00:00,Australia,0.26726528964478913,1,1,ko,EAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-04-29T05:40:00+00:00,Australia,0.2672531367100464,1,1,ko,EAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,돌발 홍수 호주,2026-05-08T05:16:00+00:00,Australia,0.2672039934345523,1,1,ko,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,강이 범람하는 호주,2026-05-01T05:55:00+00:00,Australia,0.2671959743001235,1,1,ko,SAU,Oceania
