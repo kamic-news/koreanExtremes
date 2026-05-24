@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-05-19T06:33:00+00:00,,0.42364013725954336,3,2,ko,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-05-19T06:33:00+00:00,,0.4236401372595433,3,2,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-05-19T06:33:00+00:00,North Korea,0.4145421783459598,3,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.4052684158958666,2,2,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-04-27T05:39:00+00:00,,0.3916743137408658,2,1,ko,,
@@ -56,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4d5bf1603',extremes,Drought,#edc291,edo,가뭄 헝가리,2026-05-06T05:43:00+00:00,Hungary,0.3054511932720833,0,1,ko,WCE,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,플래시플러드 사우스 오스트레일리아 쿠퍼 크릭,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ko,CAU,Oceania
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,폭염 reg. 3개의 프리코디예라,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,ko,SWS,South-America
+'907a393546',extremes,Precipitation,#d60d2b,wmo,호우 나우자트,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ko,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,ko,SAM,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,폭풍 해일 에콰도르,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,ko,NWS,South-America
 '64058b2dc1',extremes,Drought,#edc291,edo,헝가리 건기,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,ko,WCE,Europe
@@ -68,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,눈 브라질,2026-05-19T06:33:00+00:00,Brazil,0.3042407519763586,0,1,ko,SAM,South-America
 '9e020e244e',extremes,Drought,#edc291,edo,건조함 폴란드,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,ko,WCE,Europe
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,폭풍 바레인,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,ko,ARP,Asia
+'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,폭풍 해일 나이지리아,2026-05-24T06:22:00+00:00,Nigeria,0.30414762966400666,0,1,ko,WAF,Africa
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,폭풍 칠레,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,ko,SWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,폭풍 해일 브라질,2026-05-08T05:16:00+00:00,Brazil,0.3040660330263942,0,1,ko,SAM,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,폭풍 해일 아르헨티나,2026-05-16T05:40:00+00:00,Argentina,0.3039754998436308,0,1,ko,SES,South-America
@@ -91,6 +93,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,폭풍 해일 바누아투의 북부 해안 해역.,2026-05-13T06:03:00+00:00,Vanuatu,0.3032345397551917,0,1,ko,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,폭풍 해일 바누아투,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,ko,SPO,Oceania
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,눈 남아프리카 공화국,2026-05-06T05:43:00+00:00,South Africa,0.3032073354416345,0,1,ko,WSAF,Africa
+'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,폭우 overstrand hermanus,2026-05-10T05:51:00+00:00,South Africa,0.30320145767486817,0,1,ko,WSAF,Africa
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,폭풍 해일 지역 2 - 보통,2026-05-07T05:46:00+00:00,Paraguay,0.3031954448764587,0,1,ko,SES,South-America
+'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,강우 지역,2026-05-12T05:52:00+00:00,Ecuador,0.3031784060855318,0,1,ko,NWS,South-America
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,폭풍 해일 뉴질랜드,2026-05-07T05:46:00+00:00,New Zealand,0.3031542502442765,0,1,ko,NZ,Oceania
+'74126f3d38',extremes,Drought,#edc291,edo,가뭄 브루나이,2026-05-23T05:53:00+00:00,Brunei,0.30314030930061525,0,1,ko,SEA,Asia
+'007fd2f525',extremes,Storm,#b3b2b1,wmo,폭풍 해일 m_table bay 테이블 베이,2026-05-12T05:52:00+00:00,South Africa,0.3031278938221363,0,1,ko,WSAF,Africa
+'f6159d54ec',extremes,Heat Wave,#c40202,wmo,폭염 알제리,2026-05-13T06:03:00+00:00,Algeria,0.3031144721827813,0,1,ko,SAH,Africa
+'e9816a8a17',extremes,Snow&Ice,#d60d2b,wmo,남아프리카공화국의 얼음,2026-05-05T05:29:00+00:00,South Africa,0.30311003076584475,0,1,ko,WSAF,Africa
 'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,ko,,
 'c948617fef',extremes,Heat Wave,#c40202,random,극심한 열 노출,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,ko,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,토네이도,2026-05-19T06:33:00+00:00,,0.2966611231386404,1,1,ko,,
@@ -144,7 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,폭풍우,2026-05-20T06:32:00+00:00,,0.2653651320093725,1,1,ko,,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,뉴 사우스 웨일즈의 홍수,2026-05-05T05:29:00+00:00,Australia,0.2650140493713013,1,1,ko,EAU,Oceania
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-05-07T05:46:00+00:00,,0.2648945347909973,1,1,ko,,
-'6c34512524',extremes,Drought,#edc291,edo,비 부족 스리랑카,2026-05-16T05:40:00+00:00,Sri Lanka,0.26489278746035433,1,1,ko,BOB,Asia
+'6c34512524',extremes,Drought,#edc291,edo,비 부족 스리랑카,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,ko,BOB,Asia
 '4d446959e2',extremes,Drought,#edc291,edo,가뭄 에스토니아,2026-05-04T05:50:00+00:00,Estonia,0.2648314873944263,1,1,ko,NEU,Europe
 'f6774fb5b2',extremes,Drought,#edc291,acwe,비가 부족 빅토리아,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,ko,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,폭풍 우박 폭풍 시드니 뉴 사우스 웨일즈 2015,2026-05-11T06:14:00+00:00,,0.2647366577733619,1,1,ko,EAU,Oceania
@@ -155,9 +165,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,가뭄 폴란드,2026-05-05T05:29:00+00:00,Poland,0.2631394629759461,1,1,ko,WCE,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,폭우 호주,2026-05-17T06:01:00+00:00,Australia,0.2630703685335558,1,1,ko,SAU,Oceania
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,남아프리카공화국에 폭우,2026-05-09T05:36:00+00:00,South Africa,0.2622788662091757,1,1,ko,WSAF,Africa
-'9f05eaaf90',extremes,Drought,#edc291,edo,건기 아이슬란드,2026-05-21T06:35:00+00:00,Iceland,0.26213875333435505,1,1,ko,GIC,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,건기 아이슬란드,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,ko,GIC,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,체코의 건기,2026-05-04T05:50:00+00:00,Czechia,0.2621148858670977,1,1,ko,WCE,Europe
-'f89b96cf78',extremes,Drought,#edc291,edo,건조함 체코,2026-05-06T05:43:00+00:00,Czechia,0.26202738670354697,1,1,ko,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,건조함 체코,2026-05-06T05:43:00+00:00,Czechia,0.2620273867035469,1,1,ko,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,에콰도르에 폭우,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,ko,NWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,브라질 비,2026-05-01T05:54:00+00:00,Brazil,0.261985021234305,1,1,ko,SAM,South-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,강수량 남아프리카,2026-05-05T05:29:00+00:00,South Africa,0.2619642622387933,1,1,ko,WSAF,Africa
@@ -180,7 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,뉴질랜드 강수량,2026-05-06T05:43:00+00:00,New Zealand,0.2612038250605629,1,1,ko,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,뉴질랜드 폭우,2026-05-06T05:43:00+00:00,New Zealand,0.2611639034008977,1,1,ko,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,비 에콰도르,2026-05-18T06:38:00+00:00,Ecuador,0.2611541376780783,1,1,ko,NWS,South-America
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 아르헨티나,2026-05-01T05:54:00+00:00,Argentina,0.26109959295978363,1,1,ko,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 아르헨티나,2026-05-01T05:54:00+00:00,Argentina,0.2610995929597836,1,1,ko,SES,South-America
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,웨스트랜드 지역의 강수량,2026-05-21T06:35:00+00:00,New Zealand,0.2610548253812801,1,1,ko,NZ,Oceania
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,강수량 태국,2026-05-09T05:36:00+00:00,Thailand,0.260599531411032,1,1,ko,SEA,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-05-01T05:54:00+00:00,Argentina,0.2605951214615407,1,1,ko,SES,South-America
