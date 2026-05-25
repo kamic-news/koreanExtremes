@@ -1,74 +1,281 @@
 ,phrase,label,sentiment,subjectivity,language,count
-this year,this year,DATE,,,en,2.8
+this year,this year,DATE,,,en,5.5
+the 25th,the 25th,DATE,,,en,5.5
+summer,summer,DATE,,,en,4.6
+2026,2026,DATE,,,en,4.300000000000001
+Korean,Korean,NORP,,,en,4.2
+the 22nd,the 22nd,DATE,,,en,4.2
+this spring,this spring,DATE,,,en,3.6999999999999997
+the 14th,the 14th,DATE,,,en,3.6999999999999997
+Gyeongsangbuk,Gyeongsangbuk,NORP,,,en,3.6999999999999997
+American,American,NORP,,,en,3.3
+the 12th,the 12th,DATE,,,en,3.3
+the 29th,the 29th,DATE,,,en,3.3
+first,first,ORDINAL,,,en,2.9
+3,3,CARDINAL,,,en,2.8
+the rainy season,the rainy season,DATE,,,en,2.8
+"1,000","1,000",CARDINAL,,,en,2.8
+year,year,DATE,,,en,2.8
+last year,last year,DATE,,,en,2.8
+this month,this month,DATE,,,en,2.8
+Mythos,Mythos,WORK_OF_ART,,,en,2.8
+Gyeongbuk,Gyeongbuk,NORP,0.20500000000000002,1.3733333333333333,en,2.8
+spring,spring,DATE,,,en,2.8
+this summer,this summer,DATE,,,en,2.8
+Survival Beauty,Survival Beauty,WORK_OF_ART,,,en,2.8
+this day,this day,DATE,,,en,2.7
+2024,2024,DATE,,,en,2.5999999999999996
 33 degrees,33 degrees,QUANTITY,,,en,2.4
-2026,2026,DATE,,,en,1.8
+the weekend,the weekend,DATE,,,en,2.4
+the 17th,the 17th,DATE,,,en,2.3
+19,19,CARDINAL,,,en,2.05
+the summer,the summer,DATE,,,en,2.0
+the 2nd,the 2nd,DATE,,,en,2.0
+6,6,CARDINAL,,,en,1.9
+daily,daily,DATE,,,en,1.9
+March last year,March last year,DATE,,,en,1.9
+4th,4th,ORDINAL,,,en,1.9
+1m,1m,QUANTITY,,,en,1.9
+more than 10,more than 10,CARDINAL,,,en,1.9
+the 3rd of next month,the 3rd of next month,DATE,,,en,1.9
+March 14 to April 19,March 14 to April 19,DATE,,,en,1.9
+1,1,CARDINAL,,,en,1.9
+the 13th,the 13th,DATE,,,en,1.9
+today,today,DATE,,,en,1.9
+five,five,CARDINAL,,,en,1.9
+August 13 last year,August 13 last year,DATE,,,en,1.9
+13,13,CARDINAL,,,en,1.9
+38 degrees,38 degrees,QUANTITY,,,en,1.9
+September,September,DATE,,,en,1.9
+1 hour and 30 minutes,1 hour and 30 minutes,TIME,,,en,1.9
+the Blue House,the Blue House,FAC,,,en,1.9
+800,800,CARDINAL,,,en,1.9
+between day,between day,DATE,,,en,1.8
+British,British,NORP,,,en,1.8
+21,21,CARDINAL,,,en,1.8
 Sunday,Sunday,DATE,,,en,1.8
-the weekend,the weekend,DATE,,,en,1.7
-Early summer,Early summer,DATE,,,en,1.7
+the 21st,the 21st,DATE,,,en,1.8
+March,March,DATE,,,en,1.8
 daytime,daytime,TIME,,,en,1.7
-2,2,CARDINAL,,,en,1.3000000000000003
+Early summer,Early summer,DATE,,,en,1.7
+Jiri Mountain National Park,Jiri Mountain National Park,FAC,,,en,1.5
+Jirisan National Park,Jirisan National Park,FAC,,,en,1.5
+One,One,CARDINAL,,,en,1.5
+June 3,June 3,DATE,,,en,1.5
+three,three,CARDINAL,,,en,1.4333333333333333
+2,2,CARDINAL,,,en,1.4000000000000004
+Last year,Last year,DATE,,,en,1.4
+7th,7th,ORDINAL,,,en,1.4
+5 years,5 years,DATE,,,en,1.3333333333333333
+Today,Today,DATE,,,en,1.3333333333333333
+second,second,ORDINAL,,,en,1.3333333333333333
+four,four,CARDINAL,,,en,1.3
+Le Space,Le Space,WORK_OF_ART,,,en,1.25
+the 30th,the 30th,DATE,,,en,1.25
+just one year,just one year,DATE,,,en,1.2
 Vandenberg Space Force Base,Vandenberg Space Force Base,FAC,,,en,1.1
-19,19,CARDINAL,,,en,1.0
-14 degrees,14 degrees,QUANTITY,,,en,1.0
-9,9,CARDINAL,,,en,1.0
-27 degrees,27 degrees,QUANTITY,,,en,1.0
-the 17th,the 17th,DATE,,,en,1.0
-21,21,CARDINAL,,,en,1.0
-24 degrees,24 degrees,QUANTITY,,,en,1.0
-10th,10th,ORDINAL,,,en,1.0
-the 9th,the 9th,DATE,,,en,1.0
-Yeouido Park,Yeouido Park,FAC,,,en,1.0
-daily,daily,DATE,,,en,1.0
+"1,300 km","1,300 km",QUANTITY,,,en,1.0
 6 to 12 degrees,6 to 12 degrees,QUANTITY,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-between day,between day,DATE,,,en,1.0
-15 to 20,15 to 20,CARDINAL,,,en,1.0
+about 6 cm,about 6 cm,QUANTITY,,,en,1.0
 33,33,CARDINAL,,,en,1.0
-August 13 last year,August 13 last year,DATE,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-three,three,CARDINAL,,,en,1.0
+the 6th century,the 6th century,DATE,,,en,1.0
+one day,one day,DATE,,,en,1.0
+24 degrees,24 degrees,QUANTITY,,,en,1.0
+1300km,1300km,QUANTITY,,,en,1.0
+14 degrees,14 degrees,QUANTITY,,,en,1.0
+the Jiri Mountain Trail,the Jiri Mountain Trail,FAC,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+Yeouido Park,Yeouido Park,FAC,,,en,1.0
+27 degrees,27 degrees,QUANTITY,,,en,1.0
+just half a century ago,just half a century ago,DATE,,,en,1.0
+the 9th,the 9th,DATE,,,en,1.0
+10th,10th,ORDINAL,,,en,1.0
+Mars Exploration Rover,Mars Exploration Rover,PRODUCT,,,en,1.0
+May 15,May 15,DATE,,,en,1.0
+"about 1,500 years ago","about 1,500 years ago",DATE,,,en,1.0
+Norwegian,Norwegian,NORP,,,en,1.0
+as few as dozens or as many as hundreds,as few as dozens or as many as hundreds,CARDINAL,,,en,1.0
+every year,every year,DATE,,,en,1.0
+these days,these days,DATE,,,en,1.0
+35 cm,35 cm,QUANTITY,,,en,1.0
+July 30th last year,July 30th last year,DATE,,,en,1.0
+hundreds of meters,hundreds of meters,QUANTITY,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
+Alaskan,Alaskan,NORP,,,en,1.0
+every two weeks,every two weeks,DATE,,,en,1.0
+two years,two years,DATE,,,en,1.0
+Seoul Drum Festival,Seoul Drum Festival,EVENT,,,en,1.0
+75%,75%,PERCENT,,,en,1.0
+one o'clock,one o'clock,TIME,,,en,1.0
+less than 70%,less than 70%,PERCENT,,,en,1.0
+10 to 40%,10 to 40%,PERCENT,,,en,1.0
+44%,44%,PERCENT,,,en,1.0
+'2026 AI Expo','2026 AI Expo',EVENT,,,en,1.0
+two,two,CARDINAL,,,en,1.0
+"May 26, 2024","May 26, 2024",DATE,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+up to 8 hours,up to 8 hours,TIME,,,en,1.0
+"690,000 won","690,000 won",QUANTITY,,,en,1.0
+that day,that day,DATE,,,en,1.0
+15 to 20,15 to 20,CARDINAL,,,en,1.0
+the 1970s,the 1970s,DATE,,,en,1.0
+the Korean War,the Korean War,EVENT,,,en,1.0
+the 15th,the 15th,DATE,,,en,1.0
+48 hours,48 hours,TIME,,,en,1.0
+April,April,DATE,,,en,1.0
+Squid Game,Squid Game,WORK_OF_ART,,,en,1.0
 the hottest year,the hottest year,DATE,,,en,1.0
-the 13th,the 13th,DATE,,,en,1.0
+2 degrees,2 degrees,QUANTITY,,,en,1.0
+5th,5th,ORDINAL,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+the Nogodan Shelter,the Nogodan Shelter,FAC,,,en,1.0
 this fall,this fall,DATE,,,en,1.0
+a media day,a media day,DATE,,,en,1.0
 more than 2 degrees,more than 2 degrees,CARDINAL,,,en,1.0
 more than three months,more than three months,DATE,,,en,1.0
 November this year,November this year,DATE,,,en,1.0
-the day,the day,DATE,,,en,1.0
-this weekend,this weekend,DATE,,,en,1.0
+the morning of the 16th,the morning of the 16th,TIME,,,en,1.0
 midday,midday,TIME,,,en,1.0
-the 6th century,the 6th century,DATE,,,en,1.0
-Norwegian,Norwegian,NORP,,,en,1.0
-about 6 cm,about 6 cm,QUANTITY,,,en,1.0
-about 40,about 40,CARDINAL,,,en,1.0
-3:59 pm,3:59 pm,TIME,,,en,1.0
-Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
-the 2nd,the 2nd,DATE,,,en,1.0
-20 years,20 years,DATE,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+January 20,January 20,DATE,,,en,1.0
+the day,the day,DATE,,,en,1.0
+7 am on the 12th,7 am on the 12th,TIME,,,en,1.0
+the middle of this year,the middle of this year,DATE,,,en,1.0
+5 days,5 days,DATE,,,en,1.0
+Gonjiam,Gonjiam,NORP,,,en,1.0
+4 million,4 million,CARDINAL,,,en,1.0
+third,third,ORDINAL,,,en,1.0
+Hwadam Forest',Hwadam Forest',FAC,,,en,1.0
+the past 50 years,the past 50 years,DATE,,,en,1.0
+the afternoon of the 11th,the afternoon of the 11th,TIME,,,en,1.0
+the 4th week,the 4th week,DATE,,,en,1.0
+April 15,April 15,DATE,,,en,1.0
+May 14,May 14,DATE,,,en,1.0
+May 15 to October 15,May 15 to October 15,DATE,,,en,1.0
+1 million to 2 million,1 million to 2 million,CARDINAL,,,en,1.0
+the 20th,the 20th,DATE,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+Wolgye 1 Bridge,Wolgye 1 Bridge,FAC,,,en,1.0
+the Dongbu Main Road,the Dongbu Main Road,FAC,,,en,1.0
+1 million to 4 million,1 million to 4 million,MONEY,,,en,1.0
+1.04 billion tons,1.04 billion tons,QUANTITY,,,en,1.0
+May,May,DATE,,,en,1.0
+57,57,CARDINAL,,,en,1.0
+July 17 last year,July 17 last year,DATE,,,en,1.0
+Sindaebang Bridge 1,Sindaebang Bridge 1,FAC,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+the Synthetic Aperture Radar,the Synthetic Aperture Radar,PRODUCT,,,en,1.0
+March 30,March 30,DATE,,,en,1.0
+35cm,35cm,QUANTITY,,,en,1.0
+Forest,Forest,WORK_OF_ART,0.0,0.0,en,1.0
+around 6:58 p.m.,around 6:58 p.m.,TIME,,,en,1.0
+April 28th,April 28th,DATE,,,en,1.0
+Every year,Every year,DATE,,,en,1.0
+the year,the year,DATE,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+Sinjin Port,Sinjin Port,FAC,,,en,1.0
+10:30 am,10:30 am,TIME,,,en,1.0
+3 hours,3 hours,TIME,,,en,1.0
+all morning,all morning,TIME,,,en,1.0
+the second half,the second half,DATE,,,en,1.0
 the Tongil-ro Memorial Park,the Tongil-ro Memorial Park,FAC,,,en,1.0
+20 years,20 years,DATE,,,en,1.0
+Friends of Mountains and Nature,Friends of Mountains and Nature,WORK_OF_ART,,,en,1.0
+the 19th,the 19th,DATE,,,en,1.0
+last December,last December,DATE,,,en,1.0
+July,July,DATE,,,en,1.0
+the 24th,the 24th,DATE,,,en,1.0
+around 5:33 p.m.,around 5:33 p.m.,TIME,,,en,1.0
+the 26th,the 26th,DATE,,,en,1.0
+8,8,CARDINAL,,,en,1.0
+around 1:12 p.m.,around 1:12 p.m.,TIME,,,en,1.0
+67,67,CARDINAL,,,en,1.0
+7,7,CARDINAL,,,en,1.0
+approximately 1:53 p.m.,approximately 1:53 p.m.,TIME,,,en,1.0
+about 13,about 13,CARDINAL,,,en,1.0
+the afternoon of the 22nd,the afternoon of the 22nd,TIME,,,en,1.0
 2022,2022,DATE,,,en,1.0
-the 22nd,the 22nd,DATE,,,en,1.0
-"about 1,500 years ago","about 1,500 years ago",DATE,,,en,1.0
-Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-last Thursday,last Thursday,DATE,,,en,1.0
-a spring day,a spring day,DATE,,,en,1.0
+about 40,about 40,CARDINAL,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
+the 16th,the 16th,DATE,,,en,1.0
+18th,18th,ORDINAL,,,en,1.0
+the Press Center,the Press Center,FAC,,,en,1.0
+2:30 p.m.,2:30 p.m.,TIME,,,en,1.0
+Beep beep,Beep beep,WORK_OF_ART,,,en,1.0
 morning,morning,TIME,,,en,1.0
-spring,spring,DATE,,,en,1.0
-Korean,Korean,NORP,,,en,1.0
+a spring day,a spring day,DATE,,,en,1.0
+last Thursday,last Thursday,DATE,,,en,1.0
+138 minutes → 51 minutes,138 minutes → 51 minutes,TIME,,,en,1.0
+3.1,3.1,CARDINAL,,,en,1.0
+0.2,0.2,CARDINAL,,,en,1.0
+'2026,'2026,DATE,,,en,1.0
+Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
+approximately 6:50 p.m.,approximately 6:50 p.m.,TIME,,,en,1.0
+Around 6:50 p.m. on the 21st,Around 6:50 p.m. on the 21st,TIME,,,en,1.0
+about 20,about 20,CARDINAL,,,en,1.0
+about 50,about 50,CARDINAL,,,en,1.0
+6:10 a.m.,6:10 a.m.,TIME,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+0.7 m,0.7 m,QUANTITY,,,en,1.0
+minutes,minutes,TIME,,,en,1.0
+10 a.m.,10 a.m.,TIME,,,en,1.0
+2026-2030,2026-2030,DATE,,,en,1.0
+the 27th,the 27th,DATE,,,en,1.0
+9.44 billion,9.44 billion,MONEY,,,en,1.0
+38.92,38.92,CARDINAL,,,en,1.0
+12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
+exhibition&mid,exhibition&mid,WORK_OF_ART,,,en,1.0
+Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
+3:59 pm,3:59 pm,TIME,,,en,1.0
 3rd,3rd,ORDINAL,,,en,1.0
 the past 30 days,the past 30 days,DATE,,,en,1.0
-first,first,ORDINAL,,,en,1.0
-summer,summer,DATE,,,en,1.0
+27,27,CARDINAL,,,en,1.0
+"3,000","3,000",CARDINAL,,,en,1.0
+34%,34%,PERCENT,,,en,1.0
+"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
+one,one,CARDINAL,,,en,1.0
 January,January,DATE,,,en,1.0
-12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
 March 2026,March 2026,DATE,,,en,1.0
+the same period last year,the same period last year,DATE,,,en,1.0
 7.4,7.4,CARDINAL,,,en,1.0
 1.3,1.3,CARDINAL,,,en,1.0
 6.1,6.1,CARDINAL,,,en,1.0
 months,months,DATE,,,en,1.0
 9 consecutive years,9 consecutive years,DATE,,,en,1.0
 2018,2018,DATE,,,en,1.0
-March,March,DATE,,,en,1.0
-British,British,NORP,,,en,1.0
-Beep beep,Beep beep,WORK_OF_ART,,,en,1.0
-the morning of the 16th,the morning of the 16th,TIME,,,en,1.0
+only 67%,only 67%,PERCENT,,,en,1.0
+July last year,July last year,DATE,,,en,1.0
+last spring,last spring,DATE,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+rainy season next month,rainy season next month,DATE,,,en,1.0
+weekends,weekends,DATE,,,en,1.0
+16,16,CARDINAL,,,en,1.0
+around 4:10 p.m. on the 27th,around 4:10 p.m. on the 27th,TIME,,,en,1.0
+15 degrees,15 degrees,QUANTITY,,,en,1.0
+156,156,CARDINAL,,,en,1.0
+24,24,CARDINAL,,,en,1.0
+about 100,about 100,CARDINAL,,,en,1.0
+around 5:40 p.m.,around 5:40 p.m.,TIME,,,en,1.0
+the same day,the same day,DATE,,,en,1.0
+Development of hometown with mother and daughter-in-law,Development of hometown with mother and daughter-in-law,WORK_OF_ART,,,en,1.0
+Intervention in presidential election,Intervention in presidential election,WORK_OF_ART,,,en,1.0
+The last day of April,The last day of April,DATE,,,en,1.0
+Thursday the 30th,Thursday the 30th,DATE,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+17 to 23 degrees,17 to 23 degrees,QUANTITY,,,en,1.0
+FutureNet,FutureNet,PRODUCT,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+season 2,season 2,DATE,,,en,1.0
+The Inspire exhibition hall,The Inspire exhibition hall,WORK_OF_ART,,,en,1.0
+'Le Space','Le Space',WORK_OF_ART,,,en,1.0
+the Inspire Entertainment Resort,the Inspire Entertainment Resort,FAC,,,en,1.0
+Le Space Season,Le Space Season,EVENT,,,en,1.0
+the 1st of next month,the 1st of next month,DATE,,,en,1.0
+"6,142","6,142",CARDINAL,,,en,1.0
+more than several weeks,more than several weeks,DATE,,,en,1.0
+70%,70%,PERCENT,,,en,1.0
+nearly 70%,nearly 70%,PERCENT,,,en,1.0
+the 1st,the 1st,DATE,,,en,1.0
+This summer,This summer,DATE,,,en,1.0
