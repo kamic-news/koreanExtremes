@@ -17,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,집중호우 지역,2026-05-11T06:14:00+00:00,Ecuador,0.3468110367485401,2,2,ko,NWS,South-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,ko,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,기록적인 강수량,2026-04-25T05:00:00+00:00,,0.336356420446111,1,1,ko,,
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-05-22T06:32:00+00:00,Brazil,0.3343402464635665,1,2,ko,SAM,South-America
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,폭풍우,2026-05-25T06:52:00+00:00,,0.3325307186175415,1,1,ko,,
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-04-29T05:40:00+00:00,South Korea,0.3323699571395053,4,1,ko,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-05-14T06:02:00+00:00,,0.3294749924539448,3,1,ko,,
@@ -43,13 +42,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,수은 방울,2026-04-30T05:45:00+00:00,,0.2885601953829425,2,1,ko,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-05-07T05:46:00+00:00,,0.2884446157545737,2,1,ko,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,기상전선,2026-05-13T06:02:00+00:00,,0.2883437829885817,1,1,ko,,
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.28793702977558266,2,1,ko,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,ko,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-05-15T06:09:00+00:00,,0.2876667759175501,1,1,ko,,
 '0053afc92f',extremes,Volcano,#b83202,random,라하르,2026-05-20T06:32:00+00:00,,0.2876311746749206,2,1,ko,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,가장 추운 겨울,2026-05-03T05:43:00+00:00,,0.2866371202769857,1,1,ko,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-04-26T05:25:00+00:00,,0.286177406756174,1,1,ko,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-05-08T05:16:00+00:00,,0.285593911338904,1,1,ko,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,온화한 겨울,2026-05-12T05:52:00+00:00,,0.2845598852159955,2,1,ko,,
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-05-22T06:32:00+00:00,Brazil,0.28448923949403154,2,2,ko,SAM,South-America
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,맹렬한 온도,2026-05-25T06:52:00+00:00,,0.2840529264040586,1,1,ko,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,폭풍 해일,2026-05-05T05:28:00+00:00,,0.2827226531286963,1,1,ko,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,ko,,
@@ -128,7 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,강수량 지역(아마조니카),2026-05-06T05:43:00+00:00,Ecuador,0.261763050608809,1,1,ko,NWS,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,브라질 강수량,2026-05-02T05:24:00+00:00,Brazil,0.2616078023304781,1,1,ko,SAM,South-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,호주 남부의 따뜻한 날씨,2026-05-05T05:29:00+00:00,Australia,0.2615666183735609,1,1,ko,SAU,Oceania
-'70bf96ce01',extremes,Thunderstorm,#53785a,wmo,악천후 리비아,2026-05-26T06:31:00+00:00,Libya,0.26153670919891603,1,1,ko,SAH,Africa
+'70bf96ce01',extremes,Thunderstorm,#53785a,wmo,악천후 리비아,2026-05-26T06:31:00+00:00,Libya,0.261536709198916,1,1,ko,SAH,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,폭우 브라질,2026-05-03T05:44:00+00:00,Brazil,0.2614144091918499,1,1,ko,SAM,South-America
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,남아프리카공화국의 서리,2026-05-06T05:43:00+00:00,South Africa,0.2613890487895663,1,1,ko,WSAF,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,탄자니아에 폭우,2026-05-07T05:46:00+00:00,Tanzania,0.2613364493008454,1,1,ko,SEAF,Africa
@@ -228,14 +228,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,폭염 에티오피아,2026-05-14T06:02:00+00:00,Ethiopia,0.257362351105508,1,1,ko,NEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,비 세이셸,2026-05-07T05:46:00+00:00,Seychelles,0.2573347770501426,1,1,ko,EIO,Africa
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,강수량 에콰도르,2026-05-09T05:36:00+00:00,Ecuador,0.2573094583374142,1,1,ko,NWS,South-America
-'922fde2aea',extremes,Drought,#edc291,edo,건기 주문 베냉,2026-05-16T05:40:00+00:00,Benin,0.25730253855795904,1,1,ko,WAF,Africa
-'7fb436f320',extremes,Storm,#b3b2b1,wmo,폭풍 m_table bay 테이블 베이,2026-05-11T06:14:00+00:00,South Africa,0.25728513317300655,1,1,ko,WSAF,Africa
-'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,미국이 얼어붙는다,2026-05-16T05:40:00+00:00,United States,0.25716828661975405,1,1,ko,CNA,North-America
+'922fde2aea',extremes,Drought,#edc291,edo,건기 주문 베냉,2026-05-16T05:40:00+00:00,Benin,0.257302538557959,1,1,ko,WAF,Africa
+'7fb436f320',extremes,Storm,#b3b2b1,wmo,폭풍 m_table bay 테이블 베이,2026-05-11T06:14:00+00:00,South Africa,0.2572851331730065,1,1,ko,WSAF,Africa
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,미국이 얼어붙는다,2026-05-16T05:40:00+00:00,United States,0.257168286619754,1,1,ko,CNA,North-America
 '4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,차드 호우,2026-05-14T06:02:00+00:00,Chad,0.2571477604966157,1,1,ko,SAH,Africa
-'13197f48c0',extremes,Precipitation,#d60d2b,wmo,비 overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.25714407552102136,1,1,ko,WSAF,Africa
-'a47d8d0227',extremes,Drought,#edc291,edo,건기 슬로바키아,2026-05-07T05:46:00+00:00,Slovakia,0.25714227867736184,1,1,ko,WCE,Europe
-'7b847d91ac',extremes,Storm,#b3b2b1,wmo,폭풍 해일 피오르드랜드 블라이 사운드 북쪽,2026-05-08T05:16:00+00:00,New Zealand,0.25713097847241395,1,1,ko,NZ,Oceania
-'0b0bfa28bb',extremes,Fog,#d60d2b,wmo,안개 연못 입구,2026-05-10T05:51:00+00:00,Canada,0.25711839892159527,1,1,ko,NEN,North-America
+'13197f48c0',extremes,Precipitation,#d60d2b,wmo,비 overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.2571440755210213,1,1,ko,WSAF,Africa
+'a47d8d0227',extremes,Drought,#edc291,edo,건기 슬로바키아,2026-05-07T05:46:00+00:00,Slovakia,0.2571422786773618,1,1,ko,WCE,Europe
+'7b847d91ac',extremes,Storm,#b3b2b1,wmo,폭풍 해일 피오르드랜드 블라이 사운드 북쪽,2026-05-08T05:16:00+00:00,New Zealand,0.2571309784724139,1,1,ko,NZ,Oceania
+'0b0bfa28bb',extremes,Fog,#d60d2b,wmo,안개 연못 입구,2026-05-10T05:51:00+00:00,Canada,0.2571183989215952,1,1,ko,NEN,North-America
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,폭염 랴잔 지역,2026-05-07T05:46:00+00:00,Russia,0.257081392394303,1,1,ko,ESB,Europe
 '7d638b1952',extremes,Precipitation,#d60d2b,wmo,비 theewaterskloof Grabouw,2026-05-10T05:51:00+00:00,South Africa,0.2570763057461341,1,1,ko,WSAF,Africa
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,스노우팩,2026-05-10T05:51:00+00:00,,0.2539089647323463,2,1,ko,,
