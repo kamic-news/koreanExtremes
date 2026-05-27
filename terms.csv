@@ -22,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-05-14T06:02:00+00:00,,0.3294749924539448,3,1,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-05-12T05:53:00+00:00,South Korea,0.3287705755506735,2,1,ko,EAS,Asia
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-05-14T06:02:00+00:00,South Korea,0.3235263475600284,2,1,ko,EAS,Asia
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-05-17T06:01:00+00:00,,0.32321648253272456,0,1,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-05-07T05:46:00+00:00,,0.3196936824351849,3,1,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.3150833441767117,3,1,ko,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,증발산,2026-05-26T06:31:00+00:00,,0.3136404114588921,1,1,ko,,
@@ -29,6 +30,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,산불,2026-05-18T06:38:00+00:00,,0.309267049238157,4,1,ko,,
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-05-11T06:14:00+00:00,North Korea,0.3075733046632736,3,1,ko,EAS,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-07T05:46:00+00:00,,0.3061444307736505,2,1,ko,,
+'6eaf39d77f',extremes,Precipitation,#d60d2b,wmo,집중호우 본토 남부,2026-05-07T05:46:00+00:00,New Zealand,0.3024148128978703,0,1,ko,NZ,Oceania
+'c81100c57c',extremes,Earthquake,#870007,usgs,지진 아닥,2026-05-10T05:51:00+00:00,Alaska,0.3023721075681961,0,1,ko,NPO,Pacific Ocean
+'45ad0e811d',extremes,Storm,#b3b2b1,wmo,바누아투 연안 해역 전체에 폭풍 해일이 발생합니다.,2026-05-11T06:14:00+00:00,Vanuatu,0.3023527925862008,0,1,ko,SPO,Oceania
+'0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,한파 중국,2026-05-07T05:46:00+00:00,China,0.3023364831120746,0,1,ko,EAS,Asia
+'7e83ea89df',extremes,Precipitation,#d60d2b,wmo,폭우 지역,2026-05-12T05:52:00+00:00,Ecuador,0.30231544296732354,0,1,ko,NWS,South-America
+'31e0110198',extremes,Storm,#b3b2b1,wmo,폭풍 해일 모든 솔로몬 제도 해역,2026-05-11T06:14:00+00:00,Solomon Islands,0.3022893314544646,0,1,ko,EPO,Oceania
+'cf99db758d',extremes,Fog,#d60d2b,wmo,안개 라트비아,2026-05-12T05:52:00+00:00,Latvia,0.30228585643051936,0,1,ko,WCE,Europe
+'71042959f2',extremes,Flood,#030ba1,wmo,늙은 까마귀 유콘에 범람,2026-05-09T05:36:00+00:00,Canada,0.3022671224791824,0,1,ko,NEN,North-America
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,폭풍 해일 bechar,2026-05-08T05:16:00+00:00,Algeria,0.30225947402055886,0,1,ko,SAH,Africa
 'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,ko,,
 'c948617fef',extremes,Heat Wave,#c40202,random,극심한 열 노출,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,ko,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,토네이도,2026-05-19T06:33:00+00:00,,0.2966611231386404,1,1,ko,,
@@ -49,7 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-04-26T05:25:00+00:00,,0.286177406756174,1,1,ko,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-05-08T05:16:00+00:00,,0.285593911338904,1,1,ko,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,온화한 겨울,2026-05-12T05:52:00+00:00,,0.2845598852159955,2,1,ko,,
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-05-22T06:32:00+00:00,Brazil,0.28448923949403154,2,2,ko,SAM,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-05-22T06:32:00+00:00,Brazil,0.2844892394940315,2,2,ko,SAM,South-America
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,맹렬한 온도,2026-05-25T06:52:00+00:00,,0.2840529264040586,1,1,ko,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,폭풍 해일,2026-05-05T05:28:00+00:00,,0.2827226531286963,1,1,ko,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,ko,,
