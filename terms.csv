@@ -38,7 +38,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,호키티카 남쪽 서쪽 강수량,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,ko,NZ,Oceania
 '8e0946a5f2',extremes,Drought,#edc291,edo,비 부족 에스토니아,2026-05-10T05:51:00+00:00,Estonia,0.3046353543761177,0,1,ko,NEU,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,가뭄 리투아니아,2026-05-17T06:01:00+00:00,Lithuania,0.304407301810373,0,1,ko,WCE,Europe
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,캐나다 비,2026-05-15T06:09:00+00:00,Canada,0.30416039500342584,0,1,ko,NEN,North-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,폭풍 해일 파라과이,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,ko,SES,South-America
+'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,몰도바 폭풍 공화국,2026-05-29T06:38:00+00:00,Republic of Moldova,0.3032454567949423,0,1,ko,WCE,Europe
+'d56de5f4df',extremes,Drought,#edc291,edo,비가 부족함 라트비아,2026-05-29T06:39:00+00:00,Latvia,0.30307876332767975,0,1,ko,WCE,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,ko,,
+'179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,눈사태 소치,2026-05-10T05:51:00+00:00,Russia,0.30128943957442317,0,1,ko,ESB,Europe
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,스노우 캐나다,2026-05-19T06:33:00+00:00,Canada,0.3012326543531866,0,1,ko,NEN,North-America
+'994fe03563',extremes,Snow Avalanche,#deddd5,wmo,눈사태 슬로베니아,2026-05-17T06:01:00+00:00,Slovenia,0.3012319773443436,0,1,ko,WCE,Europe
+'4a4191209b',extremes,Heat Wave,#c40202,wmo,폭염 스몰렌스크 지역,2026-05-16T05:40:00+00:00,Russia,0.30122301257322476,0,1,ko,ESB,Europe
+'570a505031',extremes,Heat Wave,#c40202,wmo,폭염 파마 크라이,2026-05-15T06:09:00+00:00,Russia,0.30119436232379826,0,1,ko,ESB,Europe
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,아이스 캐나다,2026-05-22T06:32:00+00:00,Canada,0.3011566017354719,0,1,ko,NEN,North-America
 'c948617fef',extremes,Heat Wave,#c40202,random,극심한 열 노출,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.2962094638161316,5,2,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-05-07T05:46:00+00:00,North Korea,0.2955148930946172,5,1,ko,EAS,Asia
