@@ -4,10 +4,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,폭염 파리,2026-05-29T06:39:00+00:00,France,0.4316762742919228,3,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-05-19T06:33:00+00:00,,0.4236401372595433,3,2,ko,,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,유럽 폭염 파리,2026-05-28T06:38:00+00:00,France,0.4207097991824801,5,1,ko,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-21T06:34:00+00:00,,0.4159759301902537,1,2,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-05-19T06:33:00+00:00,North Korea,0.4145421783459598,3,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.4052684158958666,2,2,ko,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-21T06:34:00+00:00,,0.4004422002238279,0,1,ko,,
-'283b154c38',extremes,Wet Spell,#d60d2b,random,젖은 주문,2026-05-31T06:40:00+00:00,,0.39922267128205285,0,1,ko,,
+'283b154c38',extremes,Wet Spell,#d60d2b,random,젖은 주문,2026-05-31T06:40:00+00:00,,0.3992226712820528,0,1,ko,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,수은 딥,2026-05-16T05:40:00+00:00,,0.3966119968187661,0,1,ko,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,가장 추운 겨울,2026-05-03T05:43:00+00:00,,0.3937915672354378,2,2,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-05-21T06:34:00+00:00,,0.3843333080860466,2,1,ko,,
@@ -34,7 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,지진 칠레,2026-05-16T05:40:00+00:00,Chile,0.3016237001876903,0,1,ko,SWS,South-America
 '38d6fb4787',extremes,Earthquake,#870007,usgs,지진 오웬 골절대 지역,2026-05-27T06:46:00+00:00,,0.301237269873381,0,1,ko,ARS,Indian Ocean
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,폭염 인도,2026-05-19T06:33:00+00:00,India,0.3008297960964039,0,1,ko,SAS,Asia
-'07f7c2e78c',extremes,Heat Wave,#c40202,wmo,폭염 툴라 지역,2026-05-16T05:40:00+00:00,Russia,0.30071723903018205,0,1,ko,ESB,Europe
+'07f7c2e78c',extremes,Heat Wave,#c40202,wmo,폭염 툴라 지역,2026-05-16T05:40:00+00:00,Russia,0.300717239030182,0,1,ko,ESB,Europe
 'b0a627b1e6',extremes,Earthquake,#870007,usgs,지진 앤티가 바부다,2026-05-17T06:01:00+00:00,Antigua and Barbuda,0.3007077732550065,0,1,ko,NAO,Atlantic Ocean
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.2962094638161316,5,2,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-05-07T05:46:00+00:00,North Korea,0.2955148930946172,5,1,ko,EAS,Asia
