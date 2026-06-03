@@ -30,6 +30,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-05-09T05:35:00+00:00,,0.3143677063660746,5,1,ko,,
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-05-11T06:14:00+00:00,North Korea,0.3075733046632736,3,1,ko,EAS,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-07T05:46:00+00:00,,0.3061444307736505,2,1,ko,,
+'22828af238',extremes,Wildfire,#d60d2b,cmeter,런던 산불,2026-06-02T07:08:00+00:00,France,0.30074048412951015,0,1,ko,,
+'97185764af',extremes,Snow Avalanche,#deddd5,wmo,눈사태 인드레 피요르단,2026-05-23T05:53:00+00:00,Norway,0.30021614302977234,0,1,ko,NEU,Europe
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,폭염 칠레,2026-05-25T06:53:00+00:00,Chile,0.3001866271130127,0,1,ko,SWS,South-America
+'71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,눈사태 트롬쇠,2026-05-22T06:32:00+00:00,Norway,0.30013238585706103,0,1,ko,NEU,Europe
+'8b4587c763',extremes,Storm,#b3b2b1,random,먼지폭풍,2026-05-19T06:33:00+00:00,,0.30012681060957935,0,1,ko,,
+'3ca12a416d',extremes,Precipitation,#d60d2b,wmo,콩고 공화국에 비,2026-05-29T06:38:00+00:00,Republic of the Congo,0.30012057147200033,0,1,ko,CAF,Africa
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-05-11T06:14:00+00:00,,0.2962094638161316,5,2,ko,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ko,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,북극해의 얼음,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ko,,
@@ -354,6 +360,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,가뭄 폴란드,2026-05-05T05:29:00+00:00,Poland,0.2236685435295541,2,1,ko,WCE,Europe
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,강수량 지역(아마조니카),2026-05-06T05:43:00+00:00,Ecuador,0.2224985930174876,2,1,ko,NWS,South-America
 '53fda39314',extremes,Drought,#edc291,edo,비 부족 리투아니아,2026-05-06T05:43:00+00:00,Lithuania,0.2220899993857705,2,1,ko,WCE,Europe
-'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,캐나다의 악천후,2026-05-30T06:01:00+00:00,Canada,0.22187996862813822,2,1,ko,NEN,North-America
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,캐나다의 악천후,2026-05-30T06:01:00+00:00,Canada,0.2218799686281382,2,1,ko,NEN,North-America
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,강수량 태국,2026-05-09T05:36:00+00:00,Thailand,0.2215096016993771,2,1,ko,SEA,Asia
 '71042959f2',extremes,Flood,#030ba1,wmo,늙은 까마귀 유콘에 범람,2026-05-09T05:36:00+00:00,Canada,0.2183879959912092,2,1,ko,NEN,North-America
