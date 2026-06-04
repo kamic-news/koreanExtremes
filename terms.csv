@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-05-30T06:01:00+00:00,North Korea,0.4085484469188295,3,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.4052684158958666,2,2,ko,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,가장 더운 날,2026-05-17T06:01:00+00:00,,0.4010987408460632,4,1,ko,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-05-27T06:46:00+00:00,,0.3938455574208052,0,1,ko,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,가장 추운 겨울,2026-05-03T05:43:00+00:00,,0.3937915672354378,2,2,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-05-21T06:34:00+00:00,,0.3843333080860466,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-05-14T06:02:00+00:00,,0.3807528263131892,4,1,ko,,
@@ -19,15 +18,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-05-18T06:38:00+00:00,,0.3576020522587947,1,2,ko,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-05-14T06:02:00+00:00,,0.3556538035858531,4,2,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-21T06:34:00+00:00,,0.3535796006617157,2,1,ko,,
-'3e2894fd0c',extremes,Iceberg,#d60d2b,random,남극 해빙,2026-05-30T06:01:00+00:00,,0.3532086175785003,0,1,ko,,
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-05-22T06:31:00+00:00,,0.3522394781265173,2,1,ko,,
-'f4e1bf0fdf',extremes,Flood,#030ba1,random,빙하호 발생,2026-06-04T07:06:00+00:00,,0.3503748822839058,0,1,ko,,
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,집중호우 지역,2026-05-11T06:14:00+00:00,Ecuador,0.3468110367485401,2,2,ko,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,미국의 눈,2026-05-16T05:40:00+00:00,United States,0.3460840949036703,2,1,ko,CNA,North-America
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-05-27T06:46:00+00:00,,0.3347687238076844,1,1,ko,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,산불,2026-05-18T06:38:00+00:00,,0.3322439285191001,5,1,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-05-12T05:53:00+00:00,South Korea,0.3287705755506735,2,1,ko,EAS,Asia
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-05-14T06:02:00+00:00,South Korea,0.3235263475600284,2,1,ko,EAS,Asia
-'95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-06-01T07:30:00+00:00,,0.32290723969625995,1,1,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-05-07T05:46:00+00:00,,0.3196936824351849,3,1,ko,,
 '1405131905',extremes,Thunderstorm,#53785a,random,우박,2026-06-03T07:22:00+00:00,,0.3167262057948747,0,1,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-05-06T05:43:00+00:00,South Korea,0.3150833441767117,3,1,ko,EAS,Asia
@@ -35,6 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,인디언 썸머,2026-05-23T05:52:00+00:00,,0.3122601072685585,0,1,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-07T05:46:00+00:00,,0.3061444307736505,2,1,ko,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-05-06T05:43:00+00:00,,0.3018177268221423,2,2,ko,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,남극 해빙,2026-05-30T06:01:00+00:00,,0.30022732494172527,1,1,ko,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,빙하호 발생,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,ko,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ko,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,북극해의 얼음,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ko,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-05-07T05:46:00+00:00,,0.2884446157545737,2,1,ko,,
@@ -45,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,수은 방울,2026-05-23T05:52:00+00:00,,0.2810925545032074,2,1,ko,,
 '54927bfe65',extremes,Flood,#030ba1,random,해안 홍수,2026-05-13T06:02:00+00:00,,0.2804898361944962,2,1,ko,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-05-21T06:34:00+00:00,,0.2787454845455303,2,1,ko,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-06-01T07:30:00+00:00,,0.2746211687418209,2,1,ko,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,기온이 급락,2026-05-08T05:16:00+00:00,,0.2723635063892177,2,1,ko,,
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,뉴사우스웨일스,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,ko,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,호주의 따뜻한 주문,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,ko,CAU,Oceania
