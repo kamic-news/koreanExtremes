@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-05-21T06:34:00+00:00,,0.42126698389067085,4,2,ko,,
+'560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-05-21T06:34:00+00:00,,0.4212669838906708,4,2,ko,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,태풍,2026-05-23T05:52:00+00:00,,0.4126654547269969,1,2,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-05-30T06:01:00+00:00,North Korea,0.4085484469188295,3,1,ko,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-05-05T05:28:00+00:00,,0.4052684158958666,2,2,ko,,
@@ -30,6 +30,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-05-07T05:46:00+00:00,,0.3061444307736505,2,1,ko,,
 'b6cef22543',extremes,Drought,#edc291,random,물 제한,2026-06-08T07:13:00+00:00,,0.3040291416237642,1,1,ko,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-05-06T05:43:00+00:00,,0.3018177268221423,2,2,ko,,
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,폭풍 남아프리카,2026-06-03T07:23:00+00:00,South Africa,0.30087180556495563,0,1,ko,WSAF,Africa
+'39edbba161',extremes,Wildfire,#d60d2b,wmo,산불 라트비아,2026-05-30T06:01:00+00:00,Latvia,0.3008617796278568,0,1,ko,WCE,Europe
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 아이슬란드,2026-05-28T06:38:00+00:00,Iceland,0.30073904988192424,0,1,ko,GIC,Europe
+'6b892b36d0',extremes,Storm,#b3b2b1,wmo,폭풍 지역 1 - 보통,2026-06-08T07:13:00+00:00,Paraguay,0.3002216758653861,0,1,ko,SES,South-America
+'103eea7ff7',extremes,Drought,#edc291,edo,비 부족 체코,2026-06-07T06:48:00+00:00,Czechia,0.3000449858107683,0,1,ko,WCE,Europe
+'fee1ae9537',extremes,Heat Wave,#c40202,wmo,폭염 안드라프라데시주 19개 지역,2026-05-20T06:33:00+00:00,India,0.3000174614597084,0,1,ko,SAS,Asia
+'51bddee5d6',extremes,Earthquake,#870007,usgs,지진 푸나카,2026-06-08T07:13:00+00:00,Bhutan,0.2999728323318074,0,1,ko,TIB,Asia
+'d7b5dc98dc',extremes,Flood,#030ba1,wmo,러시아 홍수,2026-05-27T06:46:00+00:00,Russia,0.29993628006642564,0,1,ko,ESB,Europe
+'13b7157ed9',extremes,Earthquake,#870007,usgs,지진 바베이도스,2026-05-31T06:40:00+00:00,Barbados,0.2998951155249694,0,1,ko,NSA,South-America
+'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,말리 비,2026-06-07T06:48:00+00:00,Mali,0.2998919768512777,0,1,ko,SAH,Africa
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-05-28T06:38:00+00:00,,0.289721334286223,1,1,ko,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ko,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,ko,,
