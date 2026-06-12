@@ -8,7 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,가장 추운 겨울,2026-05-03T05:43:00+00:00,,0.3937915672354378,2,2,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-05-21T06:34:00+00:00,,0.3843333080860466,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-05-14T06:02:00+00:00,,0.3807528263131892,4,1,ko,,
-'560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-05-21T06:34:00+00:00,,0.37706887302480274,6,2,ko,,
+'560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-05-21T06:34:00+00:00,,0.3770688730248027,6,2,ko,,
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,프로스트 미국,2026-05-16T05:40:00+00:00,United States,0.3691225374850191,2,2,ko,CNA,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,폭염 파리,2026-05-29T06:39:00+00:00,France,0.3670748481481343,4,1,ko,,
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-05-22T06:32:00+00:00,South Korea,0.3628926421556183,3,1,ko,EAS,Asia
@@ -26,6 +26,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-03T07:22:00+00:00,,0.3211326041616901,2,2,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-06-01T07:30:00+00:00,South Korea,0.3199099807310593,2,1,ko,EAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-05-06T05:43:00+00:00,,0.3018177268221423,2,2,ko,,
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,안개 미국,2026-06-02T07:08:00+00:00,United States,0.3001018445171631,0,1,ko,CNA,North-America
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,강수량 태국,2026-05-29T06:38:00+00:00,Thailand,0.29986987135944376,0,1,ko,SEA,Asia
+'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,렘히 카운티 동부 동결,2026-06-11T07:14:00+00:00,United States,0.2996730039411557,0,1,ko,CNA,North-America
+'e6f88f4558',extremes,Fog,#d60d2b,wmo,안개 포르투갈,2026-06-11T07:14:00+00:00,Portugal,0.29960257889535297,0,1,ko,MED,Europe
+'74eaec292f',extremes,Earthquake,#870007,usgs,지진 엘 토쿠요,2026-06-06T06:08:00+00:00,Venezuela,0.29958976887534633,0,1,ko,NSA,South-America
+'4299cdd13a',extremes,Storm,#b3b2b1,wmo,폭풍 해일 가나,2026-06-06T06:08:00+00:00,Ghana,0.2995862212876427,0,1,ko,WAF,Africa
+'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,트롬의 산불 부분,2026-06-06T06:08:00+00:00,Norway,0.2995592518910416,0,1,ko,NEU,Europe
+'07d92b2cd9',extremes,Snow&Ice,#d60d2b,wmo,아이스 짐바브웨,2026-05-29T06:38:00+00:00,Zimbabwe,0.2995417001402923,0,1,ko,ESAF,Africa
+'05396a2590',extremes,Storm,#b3b2b1,wmo,폭풍우,2026-06-06T06:08:00+00:00,Qatar,0.29952732912008045,0,1,ko,ARP,Asia
+'d389bc4f63',extremes,Earthquake,#870007,usgs,멕시코 지진,2026-06-08T07:13:00+00:00,Mexico,0.29951796510606815,0,1,ko,SCA,North-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ko,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,ko,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-05-27T06:46:00+00:00,,0.2845534152365317,2,1,ko,,
@@ -348,10 +358,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,빙하분리,2026-05-30T06:01:00+00:00,,0.2189520920121514,2,1,ko,,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,폭풍 칠레,2026-05-27T06:46:00+00:00,Chile,0.2188138583788115,2,1,ko,SWS,South-America
 'e82c94efda',extremes,Earthquake,#870007,usgs,지진 발파라이소,2026-06-02T07:08:00+00:00,Chile,0.218686031941386,2,1,ko,SWS,South-America
-'5c657726ab',extremes,Drought,#edc291,edo,가뭄 라트비아,2026-05-20T06:33:00+00:00,Latvia,0.21863163125465532,2,1,ko,WCE,Europe
+'5c657726ab',extremes,Drought,#edc291,edo,가뭄 라트비아,2026-05-20T06:33:00+00:00,Latvia,0.2186316312546553,2,1,ko,WCE,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,안개 라트비아,2026-05-12T05:52:00+00:00,Latvia,0.2184015312710502,2,1,ko,WCE,Europe
-'95b5264574',extremes,Heat Wave,#c40202,wmo,캐나다 폭염,2026-05-18T06:38:00+00:00,Canada,0.21821688177310195,2,1,ko,NEN,North-America
+'95b5264574',extremes,Heat Wave,#c40202,wmo,캐나다 폭염,2026-05-18T06:38:00+00:00,Canada,0.2182168817731019,2,1,ko,NEN,North-America
 '35047b6041',extremes,Heat Wave,#c40202,wmo,폭염 모스크바 지역,2026-05-16T05:40:00+00:00,Russia,0.2179861402387079,2,1,ko,ESB,Europe
-'6d8d284096',extremes,Storm,#b3b2b1,wmo,폭풍 카타르,2026-05-19T06:33:00+00:00,Qatar,0.21783720324843242,2,1,ko,ARP,Asia
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,폭풍 카타르,2026-05-19T06:33:00+00:00,Qatar,0.2178372032484324,2,1,ko,ARP,Asia
 'e649f95a38',extremes,Precipitation,#d60d2b,wmo,강수량 지역 및 연안 지역,2026-05-23T05:53:00+00:00,Ecuador,0.2172431716106461,2,1,ko,NWS,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,캐나다의 악천후,2026-05-30T06:01:00+00:00,Canada,0.1885979733339174,3,1,ko,NEN,North-America
