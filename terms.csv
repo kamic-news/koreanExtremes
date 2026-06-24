@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.445111097048408,1,2,ko,,
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-06-11T07:14:00+00:00,,0.4444436532708976,1,2,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-06-01T07:30:00+00:00,South Korea,0.4325756305039618,5,1,ko,EAS,Asia
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-06-06T06:08:00+00:00,,0.4281531280106593,0,1,ko,,
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-06-12T07:05:00+00:00,South Korea,0.4238381877779201,1,1,ko,EAS,Asia
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3822466164097968,2,1,ko,EAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-06-14T07:06:00+00:00,,0.3822249023284603,1,2,ko,,
@@ -16,13 +17,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-05-18T06:38:00+00:00,,0.3576020522587947,1,2,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-05-29T06:39:00+00:00,North Korea,0.3559179995104014,4,1,ko,EAS,Asia
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-06-04T07:06:00+00:00,North Korea,0.3555901919253365,4,1,ko,EAS,Asia
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,진눈깨비,2026-06-24T06:29:00+00:00,,0.35554012948087055,0,1,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-05-30T06:01:00+00:00,North Korea,0.3472661798810051,4,1,ko,EAS,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3454690559947583,1,2,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-06-12T07:05:00+00:00,,0.3295782867990581,4,1,ko,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-04T07:06:00+00:00,,0.3284534216135923,2,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-06-12T07:05:00+00:00,,0.3209602993500455,2,1,ko,,
+'d306e1819b',extremes,Iceberg,#d60d2b,eonet,빙산 d33a,2026-06-24T06:29:00+00:00,,0.3177282142465205,0,1,ko,EAN,
+'0642c90e96',extremes,Iceberg,#d60d2b,eonet,빙산 b22f,2026-06-24T06:29:00+00:00,Antarctica,0.31703660543155465,0,1,ko,WAN,Antarctica
+'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,빙산 a76c,2026-06-24T06:29:00+00:00,Antarctica,0.3160494325111736,0,1,ko,WAN,Antarctica
+'10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,빙산 a81,2026-06-24T06:29:00+00:00,Antarctica,0.31598149686092153,0,1,ko,EAN,Antarctica
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,빙산 b22h,2026-06-24T06:29:00+00:00,Antarctica,0.3151917905018551,0,1,ko,WAN,Antarctica
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.314784042907004,0,1,ko,,
+'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,빙산 d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,ko,EAN,
 '053bb10e09',extremes,Heat Wave,#c40202,random,인디언 썸머,2026-06-18T07:16:00+00:00,,0.3097124545776585,1,1,ko,,
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,브라질 비,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,ko,SAM,South-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ko,,
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-06-06T06:08:00+00:00,United States,0.2887679877495223,4,1,ko,CNA,North-America
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,ko,,
