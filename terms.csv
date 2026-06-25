@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.4649138854031891,3,2,ko,,
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-06-11T07:14:00+00:00,,0.4444436532708976,1,2,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-06-20T06:46:00+00:00,,0.4433221250196782,3,1,ko,,
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-06-01T07:30:00+00:00,South Korea,0.4325756305039618,5,1,ko,EAS,Asia
+'62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.39742702759271076,4,2,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3822466164097968,2,1,ko,EAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-06-14T07:06:00+00:00,,0.3822249023284603,1,2,ko,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-06-17T07:33:00+00:00,,0.3795772973454438,2,1,ko,,
@@ -81,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-06-09T06:32:00+00:00,Argentina,0.2555419649362133,1,1,ko,SES,South-America
 '8e164fcef9',extremes,Storm,#b3b2b1,wmo,모든 해안 해역에 폭풍 해일이 발생합니다.,2026-06-11T07:14:00+00:00,Vanuatu,0.25545253627559,1,1,ko,SPO,Oceania
 '4847502382',extremes,Storm,#b3b2b1,wmo,폭풍 아드라르,2026-05-28T06:38:00+00:00,Algeria,0.2554292732813387,1,1,ko,SAH,Africa
-'9630c35687',extremes,Earthquake,#870007,usgs,지진 산 페르난도,2026-05-30T06:01:00+00:00,Peru,0.2554284109462142,1,1,ko,NWS,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,미국 산불,2026-06-06T06:08:00+00:00,United States,0.2554265960511583,1,1,ko,CNA,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,비 뉴질랜드,2026-05-29T06:38:00+00:00,New Zealand,0.2553482213792397,1,1,ko,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,안개 캐나다,2026-05-25T06:53:00+00:00,Canada,0.2553248662699728,1,1,ko,NEN,North-America
@@ -343,7 +342,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22828af238',extremes,Wildfire,#d60d2b,cmeter,런던 산불,2026-06-02T07:08:00+00:00,France,0.2174350147835709,2,1,ko,,
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,브라질 한파,2026-06-06T06:08:00+00:00,Brazil,0.2174297946423957,2,1,ko,SAM,South-America
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,폭풍 해일 쿠웨이트,2026-06-12T07:05:00+00:00,Kuwait,0.2174065877769865,2,1,ko,ARP,Asia
-'85213d3f73',extremes,Heat Wave,#c40202,wmo,폭염 LG quatre laforge 및 Fontanges,2026-06-11T07:14:00+00:00,Canada,0.21737757032768457,2,1,ko,NEN,North-America
+'85213d3f73',extremes,Heat Wave,#c40202,wmo,폭염 LG quatre laforge 및 Fontanges,2026-06-11T07:14:00+00:00,Canada,0.2173775703276845,2,1,ko,NEN,North-America
 '39edbba161',extremes,Wildfire,#d60d2b,wmo,산불 라트비아,2026-05-30T06:01:00+00:00,Latvia,0.2173726357811265,2,1,ko,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,독일이 얼다,2026-06-11T07:14:00+00:00,Germany,0.217331884259416,2,1,ko,WCE,Europe
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,폭풍 해일 남아프리카,2026-06-02T07:08:00+00:00,South Africa,0.2173216526674833,2,1,ko,WSAF,Africa
@@ -356,6 +355,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2ab86656b',extremes,Snow&Ice,#d60d2b,wmo,얼음 레소토,2026-06-03T07:23:00+00:00,Lesotho,0.2172015216040599,2,1,ko,ESAF,Africa
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,폭풍 해일 말람파 셰파 및 타페아 지방,2026-06-12T07:05:00+00:00,Vanuatu,0.2171934345629551,2,1,ko,SPO,Oceania
 '81cbe2ec3c',extremes,Earthquake,#870007,usgs,지진 부탄,2026-06-10T06:49:00+00:00,Bhutan,0.2171790703146532,2,1,ko,TIB,Asia
+'9630c35687',extremes,Earthquake,#870007,usgs,지진 산 페르난도,2026-05-30T06:01:00+00:00,Peru,0.21711414930428208,2,1,ko,NWS,South-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,폭풍 뉴질랜드,2026-05-30T06:01:00+00:00,New Zealand,0.2170552005373346,2,1,ko,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,캐나다의 홍수,2026-06-09T06:32:00+00:00,Canada,0.217042407048396,2,1,ko,NEN,North-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,폭풍 해일 지역 2 - 보통,2026-06-10T06:49:00+00:00,Paraguay,0.2170066379693846,2,1,ko,SES,South-America
