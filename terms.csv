@@ -22,6 +22,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-06-12T07:05:00+00:00,,0.3209602993500455,2,1,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.3207640542503104,2,1,ko,,
+'4d446959e2',extremes,Drought,#edc291,edo,가뭄 에스토니아,2026-06-16T08:27:00+00:00,Estonia,0.300412412646861,0,1,ko,NEU,Europe
+'8f4994eef2',extremes,Storm,#b3b2b1,wmo,폭풍 해일 늙은 까마귀,2026-06-24T06:30:00+00:00,Canada,0.3004036969831761,0,1,ko,NEN,North-America
+'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 러시아,2026-06-07T06:48:00+00:00,Russia,0.3003994157158998,0,1,ko,ESB,Europe
+'3d4581651f',extremes,Storm,#b3b2b1,wmo,폭풍 마다가스카르,2026-06-21T07:16:00+00:00,Madagascar,0.30034356575483684,0,1,ko,MDG,Africa
+'e12c49e365',extremes,Storm,#b3b2b1,wmo,폭풍 해일 지역 해안 및 대륙,2026-06-26T06:36:00+00:00,Ecuador,0.30025992259794115,0,1,ko,NWS,South-America
+'5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,아이스 포터가 sh73을 통과합니다.,2026-06-25T06:32:00+00:00,New Zealand,0.30022738054127984,0,1,ko,NZ,Oceania
+'f89b96cf78',extremes,Drought,#edc291,edo,건조함 체코,2026-06-17T07:34:00+00:00,Czechia,0.30021306162537176,0,1,ko,WCE,Europe
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,브라질이 얼어붙다,2026-06-25T06:32:00+00:00,Brazil,0.30016199983797237,0,1,ko,SAM,South-America
+'a23d616ae5',extremes,Wildfire,#d60d2b,wmo,사카공화국 산불 중심지,2026-06-18T07:16:00+00:00,Russia,0.3001181121529861,0,1,ko,ESB,Europe
+'e9f2e1fd37',extremes,Flood,#030ba1,wmo,홍수 애버포일,2026-06-20T06:47:00+00:00,United Kingdom,0.30008526504363775,0,1,ko,NEU,Europe
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-06-06T06:08:00+00:00,United States,0.2887679877495223,4,1,ko,CNA,North-America
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,ko,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,상륙,2026-06-13T06:38:00+00:00,,0.2866079835173374,3,1,ko,,
@@ -184,7 +194,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '729f81e9bb',extremes,Iceberg,#d60d2b,eonet,빙산 b22h,2026-06-24T06:29:00+00:00,Antarctica,0.2277260686375902,2,1,ko,WAN,Antarctica
 'acd0e1409b',extremes,Flood,#030ba1,acwe,뉴 사우스 웨일즈의 홍수,2026-06-13T06:38:00+00:00,Australia,0.22745569381347,2,1,ko,EAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,호주 남부의 온화한 겨울,2026-06-19T07:39:00+00:00,Australia,0.2269717427370962,2,1,ko,CAU,Oceania
-'f314bb7747',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-06-13T06:38:00+00:00,Australia,0.22663835880057823,2,1,ko,EAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,호주의 홍수,2026-06-13T06:38:00+00:00,Australia,0.2266383588005782,2,1,ko,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,호주 남부의 홍수,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,ko,SAU,Oceania
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,2016년 6월 7월 태즈매니아 홍수,2026-06-02T07:08:00+00:00,Australia,0.2263139786777642,2,1,ko,SAU,Oceania
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,빙산 d33b,2026-06-24T06:29:00+00:00,,0.2257364780656016,2,1,ko,EAN,
@@ -370,7 +380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,폭우 벨리즈,2026-06-12T07:05:00+00:00,Belize,0.2169665781773535,2,1,ko,SCA,North-America
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,눈 아이슬란드,2026-05-29T06:38:00+00:00,Iceland,0.2169623314277705,2,1,ko,GIC,Europe
 '110b7f24d4',extremes,Storm,#b3b2b1,wmo,폭풍 해일 모로나 산티아고,2026-06-09T06:32:00+00:00,Ecuador,0.2169040934753778,2,1,ko,NWS,South-America
-'9d4815fd24',extremes,Storm,#b3b2b1,wmo,폭풍 아마존,2026-06-01T07:30:00+00:00,Ecuador,0.21689054601661517,2,1,ko,NWS,South-America
+'9d4815fd24',extremes,Storm,#b3b2b1,wmo,폭풍 아마존,2026-06-01T07:30:00+00:00,Ecuador,0.2168905460166151,2,1,ko,NWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-06-06T06:08:00+00:00,Peru,0.2168739761751371,2,1,ko,NWS,South-America
 '790ae7e53c',extremes,Snow&Ice,#d60d2b,wmo,얼음 산타렘,2026-06-11T07:14:00+00:00,Portugal,0.2168250792975761,2,1,ko,MED,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,안개 미국,2026-06-02T07:08:00+00:00,United States,0.2168235826636503,2,1,ko,CNA,North-America
@@ -378,7 +388,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986239716',extremes,Wildfire,#d60d2b,wmo,구자라트 산불,2026-06-09T06:32:00+00:00,India,0.2167301893639551,2,1,ko,SAS,Asia
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,유럽 폭염 보르도,2026-05-30T06:01:00+00:00,France,0.1909806933138622,3,1,ko,,
 'ecd6c72a27',extremes,Drought,#edc291,edo,비가 부족함 마다가스카르,2026-06-01T07:30:00+00:00,Madagascar,0.19068512325622,3,1,ko,MDG,Africa
-'792a35d4a4',extremes,Flood,#030ba1,random,하천 범람,2026-06-18T07:16:00+00:00,,0.19002205218317003,3,1,ko,,
+'792a35d4a4',extremes,Flood,#030ba1,random,하천 범람,2026-06-18T07:16:00+00:00,,0.19002205218317,3,1,ko,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,캐나다의 악천후,2026-05-30T06:01:00+00:00,Canada,0.1885979733339174,3,1,ko,NEN,North-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,남아프리카에 비,2026-06-03T07:23:00+00:00,South Africa,0.1883154429800345,3,1,ko,WSAF,Africa
 '3bd2789f86',extremes,Earthquake,#870007,usgs,지진 şalālah,2026-06-01T07:30:00+00:00,Oman,0.1859350562687754,3,1,ko,ARS,Indian Ocean
