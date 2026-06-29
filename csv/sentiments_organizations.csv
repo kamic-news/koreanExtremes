@@ -1,316 +1,360 @@
 ,phrase,label,sentiment,subjectivity,language,count
-ZD Net Korea,ZD Net Korea,ORG,0.07648051948051947,0.31734935064935066,en,8.333333333333334
+ZD Net Korea,ZD Net Korea,ORG,0.08740115440115435,0.3256823953823953,en,12.500000000000004
 the Korea Forest Service,the Korea Forest Service,ORG,0.004613095238095238,0.30766369047619047,en,8.0
+The Korea Meteorological Administration,The Korea Meteorological Administration,ORG,-0.015625000000000003,0.1864983974358974,en,6.4
 the Korea Meteorological Administration,the Korea Meteorological Administration,ORG,-0.017548500881834215,0.2873015873015873,en,6.300000000000001
+Yonhap News,Yonhap News,ORG,0.04702380952380952,0.3171296296296296,en,6.300000000000001
 El Niño,El Niño,ORG,0.022169749442476714,0.3038173947264856,en,5.775
-Yonhap News,Yonhap News,ORG,0.05659722222222222,0.314429012345679,en,5.4
-The Korea Meteorological Administration,The Korea Meteorological Administration,ORG,-6.033820786006286e-18,0.1725195094760312,en,4.6
+AI,AI,ORG,0.0,0.12631578947368421,en,4.75
+NASA,NASA,ORG,0.010869565217391306,0.04347826086956522,en,4.6
 ZD Net Korea],ZD Net Korea],ORG,-0.03411458333333334,0.3671875,en,4.0
-AI,AI,ORG,0.0,0.12987012987012989,en,3.8499999999999996
-The Korea Forest Service,The Korea Forest Service,ORG,0.11566924066924068,0.12274774774774777,en,3.6999999999999997
+the Korea Disease Control and Prevention Agency,the Korea Disease Control and Prevention Agency,ORG,-0.02027027027027027,0.1418918918918919,en,3.6999999999999997
 the Ministry of Public Administration and Security,the Ministry of Public Administration and Security,ORG,0.010135135135135137,0.1587837837837838,en,3.6999999999999997
 Forest,Forest,ORG,-0.11711711711711713,0.3378378378378379,en,3.6999999999999997
-the Korea Disease Control and Prevention Agency,the Korea Disease Control and Prevention Agency,ORG,-0.02027027027027027,0.1418918918918919,en,3.6999999999999997
+The Korea Forest Service,The Korea Forest Service,ORG,0.11566924066924068,0.12274774774774777,en,3.6999999999999997
 Uljin,Uljin,ORG,0.032467532467532464,0.030303030303030307,en,3.3
 Seohu-myeon,Seohu-myeon,ORG,-0.03571428571428572,0.03571428571428572,en,2.8
-Sovereign AI,Sovereign AI,ORG,0.044642857142857144,0.07738095238095238,en,2.8
-Intellibix,Intellibix,ORG,0.0625,0.14880952380952384,en,2.8
 the National Forest Service,the National Forest Service,ORG,0.15306122448979592,0.30612244897959184,en,2.8
-Cheorwon,Cheorwon,ORG,0.0,0.08928571428571429,en,2.8
-The World Meteorological Organization (WMO,The World Meteorological Organization (WMO,ORG,-0.07142857142857144,0.0,en,2.8
-the Seoul Metropolitan Government,the Seoul Metropolitan Government,ORG,0.0,0.05654761904761905,en,2.8
+Intellibix,Intellibix,ORG,0.0625,0.14880952380952384,en,2.8
+Space.com,Space.com,ORG,0.09598214285714288,0.2745535714285714,en,2.8
+Sovereign AI,Sovereign AI,ORG,0.044642857142857144,0.07738095238095238,en,2.8
 Korea Forest Service,Korea Forest Service,ORG,0.022767857142857145,0.11830357142857144,en,2.8
-Hyundai Motor Company,Hyundai Motor Company,ORG,0.09722222222222222,0.125,en,2.4
+Cheorwon,Cheorwon,ORG,0.0,0.08928571428571429,en,2.8
+the Seoul Metropolitan Government,the Seoul Metropolitan Government,ORG,0.0,0.05654761904761905,en,2.8
+The World Meteorological Organization (WMO,The World Meteorological Organization (WMO,ORG,-0.07142857142857144,0.0,en,2.8
+Renoma,Renoma,ORG,0.0,0.0,en,2.428571428571429
+Nokjeon-myeon,Nokjeon-myeon,ORG,0.0,0.0,en,2.4
 Hyundai Motors,Hyundai Motors,ORG,0.0,0.04166666666666667,en,2.4
 LG Electronics,LG Electronics,ORG,0.06060606060606061,0.14646464646464646,en,2.4
-Nokjeon-myeon,Nokjeon-myeon,ORG,0.0,0.0,en,2.4
+Hyundai Motor Company,Hyundai Motor Company,ORG,0.09722222222222222,0.125,en,2.4
 Andong City Council,Andong City Council,ORG,-0.12839506172839504,0.16666666666666666,en,2.25
 GD Net Korea,GD Net Korea,ORG,0.011904761904761904,0.05952380952380952,en,2.1
-"The Ministry of Climate, Energy and Environment","The Ministry of Climate, Energy and Environment",ORG,-0.05263157894736842,0.2631578947368421,en,1.9
-Sangnam-myeon,Sangnam-myeon,ORG,0.052631578947368425,0.2105263157894737,en,1.9
-KAIST,KAIST,ORG,0.06315789473684211,0.15789473684210525,en,1.9
-the Gyeongbuk Provincial Crisis Management and Response Center,the Gyeongbuk Provincial Crisis Management and Response Center,ORG,-0.026315789473684213,0.026315789473684213,en,1.9
-Nix,Nix,ORG,0.0,0.5263157894736842,en,1.9
-Super El Niño,Super El Niño,ORG,0.2921052631578947,0.2916666666666667,en,1.9
+Apple,Apple,ORG,0.12500000000000003,0.24722222222222226,en,1.9999999999999998
 BM,BM,ORG,0.13157894736842105,0.17543859649122806,en,1.9
-the Korea Institute of Geoscience and Mineral Resources,the Korea Institute of Geoscience and Mineral Resources,ORG,0.17543859649122806,0.2631578947368421,en,1.9
-Snowflake Korea,Snowflake Korea,ORG,0.09808612440191389,0.25119617224880386,en,1.9
-PTSD,PTSD,ORG,0.07631578947368423,0.14561403508771928,en,1.9
-The Ministry of Labor,The Ministry of Labor,ORG,0.0,0.2631578947368421,en,1.9
-Cabinet,Cabinet,ORG,0.0,0.2631578947368421,en,1.9
-Space.com,Space.com,ORG,0.15789473684210528,0.3223684210526316,en,1.9
-GADCU,GADCU,ORG,0.0,0.0,en,1.9
-WMO,WMO,ORG,0.0,0.0,en,1.9
-Mythos,Mythos,ORG,0.31578947368421056,0.39473684210526316,en,1.9
 Buk-myeon,Buk-myeon,ORG,0.05639097744360902,0.0,en,1.9
+AFP Yonhap News,AFP Yonhap News,ORG,0.008771929824561387,0.19298245614035087,en,1.9
+KAIST,KAIST,ORG,0.06315789473684211,0.15789473684210525,en,1.9
+"The Ministry of Climate, Energy and Environment","The Ministry of Climate, Energy and Environment",ORG,-0.05263157894736842,0.2631578947368421,en,1.9
+WMO,WMO,ORG,0.0,0.0,en,1.9
+Frozen,Frozen,ORG,0.1116427432216906,0.25518341307814996,en,1.9
+GADCU,GADCU,ORG,0.0,0.0,en,1.9
+Korea Meteorological Administration,Korea Meteorological Administration,ORG,-0.052631578947368425,0.2105263157894737,en,1.9
+the Gyeongbuk Provincial Crisis Management and Response Center,the Gyeongbuk Provincial Crisis Management and Response Center,ORG,-0.026315789473684213,0.026315789473684213,en,1.9
+Live Science,Live Science,ORG,-0.03854332801701223,0.22262094630515686,en,1.9
+Snowflake Korea,Snowflake Korea,ORG,0.09808612440191389,0.25119617224880386,en,1.9
+Sangnam-myeon,Sangnam-myeon,ORG,0.052631578947368425,0.2105263157894737,en,1.9
+PTSD,PTSD,ORG,0.07631578947368423,0.14561403508771928,en,1.9
+Seadronics,Seadronics,ORG,0.0,0.0,en,1.9
+Mythos,Mythos,ORG,0.31578947368421056,0.39473684210526316,en,1.9
+GD Net Korea],GD Net Korea],ORG,-0.05847953216374269,0.22697368421052633,en,1.9
+Super El Niño,Super El Niño,ORG,0.2921052631578947,0.2916666666666667,en,1.9
+ISO 22301,ISO 22301,ORG,0.017543859649122806,0.0,en,1.9
 the Ministry of the Interior and Safety,the Ministry of the Interior and Safety,ORG,-0.052631578947368425,0.0,en,1.9
+the Korea Institute of Geoscience and Mineral Resources,the Korea Institute of Geoscience and Mineral Resources,ORG,0.17543859649122806,0.2631578947368421,en,1.9
+Nix,Nix,ORG,0.0,0.5263157894736842,en,1.9
+KOSDAQ,KOSDAQ,ORG,-0.21929824561403508,0.24561403508771928,en,1.9
+Cabinet,Cabinet,ORG,0.0,0.2631578947368421,en,1.9
 CJ Olive Young,CJ Olive Young,ORG,0.10338345864661656,0.2199248120300752,en,1.9
-the National Heritage Administration,the National Heritage Administration,ORG,0.011111111111111112,0.05555555555555556,en,1.8
+Justech,Justech,ORG,-0.14473684210526314,0.14912280701754385,en,1.9
+The Ministry of Labor,The Ministry of Labor,ORG,0.0,0.2631578947368421,en,1.9
 the National Institute of Forest Science,the National Institute of Forest Science,ORG,-0.12037037037037038,0.3611111111111111,en,1.8
 ODA,ODA,ORG,0.005555555555555556,0.05555555555555556,en,1.8
+the National Heritage Administration,the National Heritage Administration,ORG,0.011111111111111112,0.05555555555555556,en,1.8
+"the Ministry of Climate, Energy and Environment","the Ministry of Climate, Energy and Environment",ORG,-0.05555555555555555,0.19907407407407407,en,1.8
 NOAA,NOAA,ORG,0.07912457912457914,0.12962962962962965,en,1.7999999999999998
 Gyeongbuk Provincial Office New City,Gyeongbuk Provincial Office New City,ORG,0.11688311688311688,0.16558441558441558,en,1.75
 NIPA,NIPA,ORG,-0.12000000000000002,0.12000000000000002,en,1.6666666666666665
+Intel,Intel,ORG,0.01,0.05333333333333334,en,1.6666666666666665
 the National Assembly,the National Assembly,ORG,0.05208333333333333,0.23958333333333331,en,1.6
 LG,LG,ORG,0.0,0.08333333333333334,en,1.5999999999999999
 NISAR,NISAR,ORG,0.03333333333333333,0.0,en,1.5
 Pulmuone,Pulmuone,ORG,0.3333333333333333,0.3333333333333333,en,1.5
 Gizmodo,Gizmodo,ORG,0.13060428849902533,0.31773879142300193,en,1.425
-POSCO Future M,POSCO Future M,ORG,0.0,0.08928571428571429,en,1.4
-Halla,Halla,ORG,0.0,0.09523809523809525,en,1.4
 Golf Zone Group,Golf Zone Group,ORG,0.029761904761904764,0.04761904761904762,en,1.4
+Halla,Halla,ORG,0.0,0.09523809523809525,en,1.4
+POSCO Future M,POSCO Future M,ORG,0.0,0.08928571428571429,en,1.4
 Yeouido,Yeouido,ORG,0.36363636363636365,0.0,en,1.375
+ZD,ZD,ORG,0.025568181818181816,0.17897727272727273,en,1.3333333333333333
 SaaS,SaaS,ORG,-0.07500000000000001,0.07500000000000001,en,1.3333333333333333
 Inogrid,Inogrid,ORG,-0.07500000000000001,0.07500000000000001,en,1.3333333333333333
-ZD,ZD,ORG,0.025568181818181816,0.17897727272727273,en,1.3333333333333333
-Supernatural Operation Team,Supernatural Operation Team,ORG,0.11018518518518515,0.37592592592592594,en,1.2857142857142856
 Democratic Party,Democratic Party,ORG,-0.042388167388167385,0.15555555555555559,en,1.2857142857142856
+Supernatural Operation Team,Supernatural Operation Team,ORG,0.11018518518518515,0.37592592592592594,en,1.2857142857142856
 Hyundai Future Net,Hyundai Future Net,ORG,0.02,0.045,en,1.25
 Zero Trust,Zero Trust,ORG,0.21527777777777773,0.6666666666666666,en,1.2000000000000002
 The New York Knicks,The New York Knicks,ORG,0.33982683982683987,0.28427128427128434,en,1.2
 Durban GC,Durban GC,ORG,0.0,0.0,en,1.1
-Yeongdeok-gun Residents of,Yeongdeok-gun Residents of,ORG,0.062121212121212126,0.0,en,1.0
-Myungmoon Pharmaceutical,Myungmoon Pharmaceutical,ORG,0.0,0.0,en,1.0
-the LG Evergreen Foundation,the LG Evergreen Foundation,ORG,0.25,0.0,en,1.0
-OECD,OECD,ORG,0.20600000000000002,0.0,en,1.0
+Google Notebook LM,Google Notebook LM,ORG,-0.6,0.0,en,1.0
 the Democratic Party,the Democratic Party,ORG,0.22999999999999998,0.0,en,1.0
+OECD,OECD,ORG,0.20600000000000002,0.0,en,1.0
+Heatwaves,Heatwaves,ORG,-0.25,0.0,en,1.0
 ARS,ARS,ORG,0.0,0.0,en,1.0
 the Kakao Golf Reservation Platform,the Kakao Golf Reservation Platform,ORG,0.0,0.0,en,1.0
-Durban Golf Club,Durban Golf Club,ORG,0.0,0.0,en,1.0
-Myungmoon Investment Development,Myungmoon Investment Development,ORG,0.0,0.0,en,1.0
-Gyeongbuk Fire Department,Gyeongbuk Fire Department,ORG,0.0,0.0,en,1.0
-the Ministry of Employment and Labor,the Ministry of Employment and Labor,ORG,-0.0875,0.0,en,1.0
-Google Notebook LM,Google Notebook LM,ORG,-0.6,0.0,en,1.0
-The French Meteorological Agency,The French Meteorological Agency,ORG,-0.1,0.0,en,1.0
-Imsil,Imsil,ORG,0.5,0.0,en,1.0
-Hyundai Motor Company Hyundai Motor Company,Hyundai Motor Company Hyundai Motor Company,ORG,0.0,0.0,en,1.0
-Unam-myeon,Unam-myeon,ORG,0.5,0.0,en,1.0
-Kuro Games',Kuro Games',ORG,0.39999999999999997,0.0,en,1.0
-"Andong, Sancheong","Andong, Sancheong",ORG,0.0,0.0,en,1.0
-Antropic Clothes,Antropic Clothes,ORG,0.09318181818181819,0.0,en,1.0
-Hongseong forest,Hongseong forest,ORG,0.0,0.0,en,1.0
-산림청,산림청,ORG,0.0,0.0,en,1.0
-The European Space Agency,The European Space Agency,ORG,0.4000000000000001,0.0,en,1.0
-the Gyeongbuk Fire Department,the Gyeongbuk Fire Department,ORG,0.0,0.0,en,1.0
-Kuro Games' Furnishing,Kuro Games' Furnishing,ORG,0.25,0.0,en,1.0
-rainier,rainier,ORG,-0.25,0.0,en,1.0
-Sacheon,Sacheon,ORG,0.25,0.0,en,1.0
-the Sacheon Environmental Movement Federation,the Sacheon Environmental Movement Federation,ORG,-0.15,0.0,en,1.0
-People Power Party,People Power Party,ORG,-0.15,0.0,en,1.0
-The Pacific Law Firm's AI,The Pacific Law Firm's AI,ORG,0.13333333333333333,0.0,en,1.0
-Samcheonpo Thermal Power Plant,Samcheonpo Thermal Power Plant,ORG,-0.15,0.0,en,1.0
-Nodeul Island,Nodeul Island,ORG,0.0,0.0,en,1.0
-Daejin Industrial Complex,Daejin Industrial Complex,ORG,-0.15,0.0,en,1.0
-Headliner,Headliner,ORG,0.0,0.0,en,1.0
-Google,Google,ORG,-0.09479166666666668,0.0,en,1.0
-TNW,TNW,ORG,0.0,0.0,en,1.0
-SMR,SMR,ORG,0.4681818181818182,0.0,en,1.0
-"Wayfarer, Skyler","Wayfarer, Skyler",ORG,0.0,0.0,en,1.0
-'Throne & Liberty,'Throne & Liberty,ORG,0.0,0.0,en,1.0
-Giant Games',Giant Games',ORG,-0.04956709956709958,0.0,en,1.0
-AOS,AOS,ORG,-0.04956709956709958,0.0,en,1.0
-iOS,iOS,ORG,-0.04956709956709958,0.0,en,1.0
-Supernatural Operation Team',Supernatural Operation Team',ORG,-0.04956709956709958,0.0,en,1.0
-Super Nature Company',Super Nature Company',ORG,0.23484848484848483,0.0,en,1.0
-Nix',Nix',ORG,0.0,0.0,en,1.0
-Future Transition Policy Research Institute,Future Transition Policy Research Institute,ORG,0.0,0.0,en,1.0
-ESA,ESA,ORG,0.25000000000000006,0.0,en,1.0
-KT,KT,ORG,0.0,0.0,en,1.0
-the Metropolitan Meteorological Administration,the Metropolitan Meteorological Administration,ORG,0.0,0.0,en,1.0
-3년간 영남권,3년간 영남권,ORG,0.0,0.0,en,1.0
-the Ocean Data and Infrastructure Division,the Ocean Data and Infrastructure Division,ORG,-0.525,0.0,en,1.0
-Heatwaves,Heatwaves,ORG,-0.25,0.0,en,1.0
+Gyeongbuk Provincial Office New Town,Gyeongbuk Provincial Office New Town,ORG,-0.06565656565656565,0.0,en,1.0
 FIFA,FIFA,ORG,-0.25,0.0,en,1.0
+the Gyeongbuk Fire Department,the Gyeongbuk Fire Department,ORG,0.0,0.0,en,1.0
+Myungmoon Investment Development,Myungmoon Investment Development,ORG,0.0,0.0,en,1.0
 The International Football Federation,The International Football Federation,ORG,0.0,0.0,en,1.0
 Banpo Community Welfare Center,Banpo Community Welfare Center,ORG,-0.09166666666666667,0.0,en,1.0
-the Ieodo Ocean Science Station,the Ieodo Ocean Science Station,ORG,-0.525,0.0,en,1.0
 ESG,ESG,ORG,-0.09166666666666667,0.0,en,1.0
+Future Transition Policy Research Institute,Future Transition Policy Research Institute,ORG,0.0,0.0,en,1.0
 pexels,pexels,ORG,0.0,0.0,en,1.0
 the Gyeongbuk Provincial Office New City,the Gyeongbuk Provincial Office New City,ORG,0.006060606060606062,0.0,en,1.0
-Gyeongbuk Provincial Office New Town,Gyeongbuk Provincial Office New Town,ORG,-0.06565656565656565,0.0,en,1.0
-Yecheon County Council,Yecheon County Council,ORG,-0.125,0.0,en,1.0
-Brunson,Brunson,ORG,0.29545454545454547,0.0,en,1.0
-the National Basketball Association,the National Basketball Association,ORG,0.11233766233766233,0.0,en,1.0
-guard Jaylen Brunson,guard Jaylen Brunson,ORG,0.11233766233766233,0.0,en,1.0
-The Korea Institute of Ocean Science and Technology,The Korea Institute of Ocean Science and Technology,ORG,-0.525,0.0,en,1.0
-the Ieodo Station,the Ieodo Station,ORG,0.0,0.0,en,1.0
-the United Nations Environment Program,the United Nations Environment Program,ORG,0.04545454545454545,0.0,en,1.0
-UNEP,UNEP,ORG,0.04545454545454545,0.0,en,1.0
-Gyeongbuk,Gyeongbuk,ORG,0.375,0.0,en,1.0
-the Yonhap News Agency,the Yonhap News Agency,ORG,-0.1,0.0,en,1.0
-the National Data Agency,the National Data Agency,ORG,-0.037500000000000006,0.0,en,1.0
-El Nino,El Nino,ORG,0.3333333333333333,0.0,en,1.0
-Time,Time,ORG,-0.1,0.0,en,1.0
-Daejeon Labor Rights Center,Daejeon Labor Rights Center,ORG,-0.1,0.0,en,1.0
-Daejeon Metropolitan Labor Rights Center,Daejeon Metropolitan Labor Rights Center,ORG,-0.1,0.0,en,1.0
-Daejeon,Daejeon,ORG,0.125,0.0,en,1.0
-Climate Central,Climate Central,ORG,-0.125,0.0,en,1.0
-Korea Forest Research Institute,Korea Forest Research Institute,ORG,0.0,0.0,en,1.0
-Godeok-myeon,Godeok-myeon,ORG,0.0,0.0,en,1.0
-the National Oceanographic Research Institute,the National Oceanographic Research Institute,ORG,0.0,0.0,en,1.0
-The U.S. National Oceanic and Atmospheric Administration,The U.S. National Oceanic and Atmospheric Administration,ORG,0.0,0.0,en,1.0
-CSO,CSO,ORG,0.0,0.0,en,1.0
-JMA,JMA,ORG,-0.16666666666666666,0.0,en,1.0
-the JW Marriott Hotel,the JW Marriott Hotel,ORG,0.0,0.0,en,1.0
-KT The Seoul Metropolitan Government,KT The Seoul Metropolitan Government,ORG,0.0,0.0,en,1.0
-Seoul Foundation for Arts and Culture,Seoul Foundation for Arts and Culture,ORG,-0.033333333333333326,0.0,en,1.0
-the Seoul Foundation for Arts and Culture,the Seoul Foundation for Arts and Culture,ORG,0.0,0.0,en,1.0
+Durban Golf Club,Durban Golf Club,ORG,0.0,0.0,en,1.0
+Jangmi',Jangmi',ORG,0.0,0.0,en,1.0
+Jeju Island,Jeju Island,ORG,0.0,0.0,en,1.0
+Lotus,Lotus,ORG,0.0,0.0,en,1.0
 the Ulsan Creative Economy Innovation Center,the Ulsan Creative Economy Innovation Center,ORG,0.2272727272727273,0.0,en,1.0
-the Korea Occupational Safety and Health Agency,the Korea Occupational Safety and Health Agency,ORG,0.2272727272727273,0.0,en,1.0
-Focus on AI,Focus on AI,ORG,0.37878787878787873,0.0,en,1.0
 Seoul Forest,Seoul Forest,ORG,0.0,0.0,en,1.0
 the Jeronimos Monastery,the Jeronimos Monastery,ORG,0.0,0.0,en,1.0
-Indrawal,Indrawal,ORG,0.3,0.0,en,1.0
-SNS,SNS,ORG,0.3,0.0,en,1.0
-AFP Yonhap News,AFP Yonhap News,ORG,-0.2,0.0,en,1.0
-Suwon District Court Criminal Division 11,Suwon District Court Criminal Division 11,ORG,-0.07500000000000001,0.0,en,1.0
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,-0.16666666666666666,0.0,en,1.0
-Live Science,Live Science,ORG,0.009090909090909087,0.0,en,1.0
+the Seoul Foundation for Arts and Culture,the Seoul Foundation for Arts and Culture,ORG,0.0,0.0,en,1.0
+Seoul Foundation for Arts and Culture,Seoul Foundation for Arts and Culture,ORG,-0.033333333333333326,0.0,en,1.0
+the JW Marriott Hotel,the JW Marriott Hotel,ORG,0.0,0.0,en,1.0
+CSO,CSO,ORG,0.0,0.0,en,1.0
+3년간 영남권,3년간 영남권,ORG,0.0,0.0,en,1.0
 Tesla,Tesla,ORG,-0.05,0.0,en,1.0
 BYD,BYD,ORG,0.0,0.0,en,1.0
-Lotus,Lotus,ORG,0.0,0.0,en,1.0
+산림청,산림청,ORG,0.0,0.0,en,1.0
+Antropic Clothes,Antropic Clothes,ORG,0.09318181818181819,0.0,en,1.0
+the ‘El Niño/La Niña Outlook’,the ‘El Niño/La Niña Outlook’,ORG,0.0,0.0,en,1.0
+"Andong, Sancheong","Andong, Sancheong",ORG,0.0,0.0,en,1.0
 Geely Holding Group,Geely Holding Group,ORG,0.0,0.0,en,1.0
 Bloomberg News,Bloomberg News,ORG,0.0,0.0,en,1.0
-CPC,CPC,ORG,0.009090909090909087,0.0,en,1.0
+Hyundai Motor Company Hyundai Motor Company,Hyundai Motor Company Hyundai Motor Company,ORG,0.0,0.0,en,1.0
+Seogwipo-si,Seogwipo-si,ORG,-0.1,0.0,en,1.0
+The French Meteorological Agency,The French Meteorological Agency,ORG,-0.1,0.0,en,1.0
 Flat Letter,Flat Letter,ORG,0.030000000000000006,0.0,en,1.0
-the Citizen’s Health Playground,the Citizen’s Health Playground,ORG,0.125,0.0,en,1.0
-Jangmi',Jangmi',ORG,0.0,0.0,en,1.0
-Climate Prediction Center,Climate Prediction Center,ORG,0.009090909090909087,0.0,en,1.0
+Focus on AI,Focus on AI,ORG,0.37878787878787873,0.0,en,1.0
+the Ministry of Employment and Labor,the Ministry of Employment and Labor,ORG,-0.0875,0.0,en,1.0
+Myungmoon Pharmaceutical,Myungmoon Pharmaceutical,ORG,0.0,0.0,en,1.0
 Seo-gu,Seo-gu,ORG,0.0,0.0,en,1.0
-the ‘El Niño/La Niña Outlook’,the ‘El Niño/La Niña Outlook’,ORG,0.0,0.0,en,1.0
-Jeju Island,Jeju Island,ORG,0.0,0.0,en,1.0
-Yangji Tree Ranch,Yangji Tree Ranch,ORG,0.0,0.0,en,1.0
-Golfzon Group,Golfzon Group,ORG,0.03333333333333333,0.0,en,1.0
-Daegu Citizen’s Health Playground,Daegu Citizen’s Health Playground,ORG,0.0,0.0,en,1.0
-Itchy,Itchy,ORG,0.0,0.0,en,1.0
-Riot Games,Riot Games,ORG,0.10999999999999999,0.0,en,1.0
-The Local Cultural Heritage Care Center,The Local Cultural Heritage Care Center,ORG,0.03571428571428571,0.0,en,1.0
-National Assembly,National Assembly,ORG,0.0,0.0,en,1.0
-Bukgap,Bukgap,ORG,0.01948051948051948,0.0,en,1.0
-the People Power Party,the People Power Party,ORG,0.01948051948051948,0.0,en,1.0
-the 'People's Safety 24',the 'People's Safety 24',ORG,0.0,0.0,en,1.0
-The Ministry of the Interior and Safety,The Ministry of the Interior and Safety,ORG,0.05,0.0,en,1.0
-National Safety 24,National Safety 24,ORG,0.05,0.0,en,1.0
-National Disaster and Safety Portal',National Disaster and Safety Portal',ORG,0.05,0.0,en,1.0
-Hyundai,Hyundai,ORG,0.0,0.0,en,1.0
-Ice Star,Ice Star,ORG,0.0,0.0,en,1.0
-Hyundai Department Store Group,Hyundai Department Store Group,ORG,0.0,0.0,en,1.0
-Le Space,Le Space,ORG,0.16666666666666666,0.0,en,1.0
-Ultra,Ultra,ORG,0.0,0.0,en,1.0
-Jeonnam mountain rangers,Jeonnam mountain rangers,ORG,0.0,0.0,en,1.0
-the National Aeronautics and Space Administration,the National Aeronautics and Space Administration,ORG,0.05,0.0,en,1.0
-the &lsquo;brain&rsquo,the &lsquo;brain&rsquo,ORG,-0.2333333333333333,0.0,en,1.0
-KAI,KAI,ORG,0.0,0.0,en,1.0
-Falcon 9,Falcon 9,ORG,0.0,0.0,en,1.0
-The Aerospace Administration,The Aerospace Administration,ORG,0.0,0.0,en,1.0
-"the Ministry of Land, Infrastructure and Transport","the Ministry of Land, Infrastructure and Transport",ORG,0.0,0.0,en,1.0
+the Korea Occupational Safety and Health Agency,the Korea Occupational Safety and Health Agency,ORG,0.2272727272727273,0.0,en,1.0
+Daejeon,Daejeon,ORG,0.125,0.0,en,1.0
+Yecheon County Council,Yecheon County Council,ORG,-0.125,0.0,en,1.0
+the Ministry of Climate,the Ministry of Climate,ORG,0.03333333333333333,0.0,en,1.0
+UCast,UCast,ORG,0.3333333333333333,0.0,en,1.0
+Cybertech,Cybertech,ORG,0.3333333333333333,0.0,en,1.0
+Samsung Electronics,Samsung Electronics,ORG,0.3333333333333333,0.0,en,1.0
+Disaster and Safety Communication Expo,Disaster and Safety Communication Expo,ORG,0.0,0.0,en,1.0
+K-Disaster Communication,K-Disaster Communication,ORG,0.5,0.0,en,1.0
+Ministry,Ministry,ORG,0.0,0.0,en,1.0
+The Ministry of Climate Change,The Ministry of Climate Change,ORG,0.0,0.0,en,1.0
+Claud,Claud,ORG,0.0,0.0,en,1.0
+SNS,SNS,ORG,0.3,0.0,en,1.0
+Antropic International,Antropic International,ORG,0.012500000000000004,0.0,en,1.0
+Yeongdeok-gun Residents of,Yeongdeok-gun Residents of,ORG,0.062121212121212126,0.0,en,1.0
+SMR,SMR,ORG,0.4681818181818182,0.0,en,1.0
+Gyeongbuk Fire Department,Gyeongbuk Fire Department,ORG,0.0,0.0,en,1.0
+Imsil,Imsil,ORG,0.5,0.0,en,1.0
+Unam-myeon,Unam-myeon,ORG,0.5,0.0,en,1.0
+Hongseong forest,Hongseong forest,ORG,0.0,0.0,en,1.0
+Unimo Technology,Unimo Technology,ORG,0.3333333333333333,0.0,en,1.0
+Motorola,Motorola,ORG,0.3333333333333333,0.0,en,1.0
+Airbus,Airbus,ORG,0.3333333333333333,0.0,en,1.0
+Nokia,Nokia,ORG,0.3333333333333333,0.0,en,1.0
+BSI,BSI,ORG,0.0,0.0,en,1.0
+The Ministry of Employment and Labor,The Ministry of Employment and Labor,ORG,0.0,0.0,en,1.0
+Ministry of Labor's 'Status of subcontractor union,Ministry of Labor's 'Status of subcontractor union,ORG,0.1111111111111111,0.0,en,1.0
+Naver Cloud,Naver Cloud,ORG,0.0,0.0,en,1.0
+BCMS,BCMS,ORG,0.03333333333333333,0.0,en,1.0
+the Business Continuity Management System,the Business Continuity Management System,ORG,0.03333333333333333,0.0,en,1.0
+Business Continuity Management System,Business Continuity Management System,ORG,0.0,0.0,en,1.0
+ZD Net Korea] Naver,ZD Net Korea] Naver,ORG,0.0,0.0,en,1.0
+Kuro Games,Kuro Games,ORG,0.0,0.0,en,1.0
+Kuro Games',Kuro Games',ORG,0.39999999999999997,0.0,en,1.0
+Kuro Games' Furnishing,Kuro Games' Furnishing,ORG,0.25,0.0,en,1.0
+Science,Science,ORG,0.0,0.0,en,1.0
+TSMC,TSMC,ORG,0.25,0.0,en,1.0
+Truth Social,Truth Social,ORG,0.016666666666666666,0.0,en,1.0
+Intel Foundry,Intel Foundry,ORG,0.0,0.0,en,1.0
+Indrawal,Indrawal,ORG,0.3,0.0,en,1.0
+the Metropolitan Meteorological Administration,the Metropolitan Meteorological Administration,ORG,0.0,0.0,en,1.0
+Brunson,Brunson,ORG,0.29545454545454547,0.0,en,1.0
+the European-Mediterranean Seismological Center,the European-Mediterranean Seismological Center,ORG,-0.1,0.0,en,1.0
+KT,KT,ORG,0.0,0.0,en,1.0
+Godeok-myeon,Godeok-myeon,ORG,0.0,0.0,en,1.0
+Korea Forest Research Institute,Korea Forest Research Institute,ORG,0.0,0.0,en,1.0
+Supernatural Operation Team',Supernatural Operation Team',ORG,-0.04956709956709958,0.0,en,1.0
+Daejeon Metropolitan Labor Rights Center,Daejeon Metropolitan Labor Rights Center,ORG,-0.1,0.0,en,1.0
+Daejeon Labor Rights Center,Daejeon Labor Rights Center,ORG,-0.1,0.0,en,1.0
+EMS,EMS,ORG,-0.1,0.0,en,1.0
+USGS,USGS,ORG,-0.1,0.0,en,1.0
+Interesting Engineering,Interesting Engineering,ORG,0.25,0.0,en,1.0
+El Nino,El Nino,ORG,0.3333333333333333,0.0,en,1.0
+Eumseong-gun Office,Eumseong-gun Office,ORG,0.0,0.0,en,1.0
+Gyeongbuk,Gyeongbuk,ORG,0.375,0.0,en,1.0
+UNEP,UNEP,ORG,0.04545454545454545,0.0,en,1.0
+the United Nations Environment Program,the United Nations Environment Program,ORG,0.04545454545454545,0.0,en,1.0
+guard Jaylen Brunson,guard Jaylen Brunson,ORG,0.11233766233766233,0.0,en,1.0
+the National Basketball Association,the National Basketball Association,ORG,0.11233766233766233,0.0,en,1.0
+KT The Seoul Metropolitan Government,KT The Seoul Metropolitan Government,ORG,0.0,0.0,en,1.0
+Climate Central,Climate Central,ORG,-0.125,0.0,en,1.0
+Time,Time,ORG,-0.1,0.0,en,1.0
+the National Data Agency,the National Data Agency,ORG,-0.037500000000000006,0.0,en,1.0
+the Gyeongju Environmental Movement Federation,the Gyeongju Environmental Movement Federation,ORG,0.05000000000000002,0.0,en,1.0
+Gyeongju,Gyeongju,ORG,0.05000000000000002,0.0,en,1.0
+Suwon District Court Criminal Division 11,Suwon District Court Criminal Division 11,ORG,-0.07500000000000001,0.0,en,1.0
+Interresting Engineering,Interresting Engineering,ORG,0.125,0.0,en,1.0
+JMA,JMA,ORG,-0.16666666666666666,0.0,en,1.0
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,-0.16666666666666666,0.0,en,1.0
+CPC,CPC,ORG,0.009090909090909087,0.0,en,1.0
+Climate Prediction Center,Climate Prediction Center,ORG,0.009090909090909087,0.0,en,1.0
+The U.S. National Oceanic and Atmospheric Administration,The U.S. National Oceanic and Atmospheric Administration,ORG,0.0,0.0,en,1.0
+the Ieodo Station,the Ieodo Station,ORG,0.0,0.0,en,1.0
+the National Oceanographic Research Institute,the National Oceanographic Research Institute,ORG,0.0,0.0,en,1.0
+the Ieodo Ocean Science Station,the Ieodo Ocean Science Station,ORG,-0.525,0.0,en,1.0
+the Ocean Data and Infrastructure Division,the Ocean Data and Infrastructure Division,ORG,-0.525,0.0,en,1.0
+The Korea Institute of Ocean Science and Technology,The Korea Institute of Ocean Science and Technology,ORG,-0.525,0.0,en,1.0
+the Yonhap News Agency,the Yonhap News Agency,ORG,-0.1,0.0,en,1.0
+Super Nature Company',Super Nature Company',ORG,0.23484848484848483,0.0,en,1.0
+La Niña,La Niña,ORG,0.0,0.0,en,1.0
+iOS,iOS,ORG,-0.04956709956709958,0.0,en,1.0
 SpaceX,SpaceX,ORG,0.0,0.0,en,1.0
+The Aerospace Administration,The Aerospace Administration,ORG,0.0,0.0,en,1.0
+Falcon 9,Falcon 9,ORG,0.0,0.0,en,1.0
+KAI,KAI,ORG,0.0,0.0,en,1.0
+the &lsquo;brain&rsquo,the &lsquo;brain&rsquo,ORG,-0.2333333333333333,0.0,en,1.0
+Jeonnam mountain rangers,Jeonnam mountain rangers,ORG,0.0,0.0,en,1.0
+Itchy,Itchy,ORG,0.0,0.0,en,1.0
+Ultra,Ultra,ORG,0.0,0.0,en,1.0
+Le Space,Le Space,ORG,0.16666666666666666,0.0,en,1.0
+Hyundai Department Store Group,Hyundai Department Store Group,ORG,0.0,0.0,en,1.0
+Ice Star,Ice Star,ORG,0.0,0.0,en,1.0
+Hyundai,Hyundai,ORG,0.0,0.0,en,1.0
+National Disaster and Safety Portal',National Disaster and Safety Portal',ORG,0.05,0.0,en,1.0
+National Safety 24,National Safety 24,ORG,0.05,0.0,en,1.0
+The Ministry of the Interior and Safety,The Ministry of the Interior and Safety,ORG,0.05,0.0,en,1.0
+the 'People's Safety 24',the 'People's Safety 24',ORG,0.0,0.0,en,1.0
+"the Ministry of Land, Infrastructure and Transport","the Ministry of Land, Infrastructure and Transport",ORG,0.0,0.0,en,1.0
 Falcon 9',Falcon 9',ORG,0.0,0.0,en,1.0
+Bukgap,Bukgap,ORG,0.01948051948051948,0.0,en,1.0
 Korea Aerospace Industries,Korea Aerospace Industries,ORG,0.0,0.0,en,1.0
-the Space Agency,the Space Agency,ORG,0.0,0.0,en,1.0
-Uijeongbu Eulji University Hospital,Uijeongbu Eulji University Hospital,ORG,-0.05,0.0,en,1.0
-the Seoul National University Hospital Cancer Research Center,the Seoul National University Hospital Cancer Research Center,ORG,-0.05,0.0,en,1.0
-Carbon Brief,Carbon Brief,ORG,0.0,0.0,en,1.0
-Gyeongsangnam,Gyeongsangnam,ORG,0.0,0.0,en,1.0
+Song (Ph.D. of Science,Song (Ph.D. of Science,ORG,0.0,0.0,en,1.0
+DS&G,DS&G,ORG,0.0,0.0,en,1.0
+MS) Research Institute,MS) Research Institute,ORG,0.0,0.0,en,1.0
+Microsoft,Microsoft,ORG,0.0,0.0,en,1.0
+the Prodin A Anchor Red Camera Neck Strap,the Prodin A Anchor Red Camera Neck Strap,ORG,0.16666666666666666,0.0,en,1.0
+ISRO,ISRO,ORG,0.05,0.0,en,1.0
+the Indian Space Research Organization,the Indian Space Research Organization,ORG,0.05,0.0,en,1.0
+the National Aeronautics and Space Administration,the National Aeronautics and Space Administration,ORG,0.05,0.0,en,1.0
+the Korea Forest Service Are ',the Korea Forest Service Are ',ORG,0.0,0.0,en,1.0
 the Ministry of Public Administration and Security's,the Ministry of Public Administration and Security's,ORG,-0.06666666666666667,0.0,en,1.0
+Gyeongsangnam,Gyeongsangnam,ORG,0.0,0.0,en,1.0
+Carbon Brief,Carbon Brief,ORG,0.0,0.0,en,1.0
+the Seoul National University Hospital Cancer Research Center,the Seoul National University Hospital Cancer Research Center,ORG,-0.05,0.0,en,1.0
+Uijeongbu Eulji University Hospital,Uijeongbu Eulji University Hospital,ORG,-0.05,0.0,en,1.0
+the Space Agency,the Space Agency,ORG,0.0,0.0,en,1.0
+the People Power Party,the People Power Party,ORG,0.01948051948051948,0.0,en,1.0
+National Assembly,National Assembly,ORG,0.0,0.0,en,1.0
+Homeland Security Research Division,Homeland Security Research Division,ORG,-0.25,0.0,en,1.0
+Ipdo,Ipdo,ORG,0.1875,0.0,en,1.0
+the National Museum of Korea's,the National Museum of Korea's,ORG,0.3412698412698412,0.0,en,1.0
+The National Heritage Office,The National Heritage Office,ORG,-0.3,0.0,en,1.0
+the Peruvian Ministry of Culture in,the Peruvian Ministry of Culture in,ORG,0.0,0.0,en,1.0
+The National Heritage Promotion Agency,The National Heritage Promotion Agency,ORG,0.0,0.0,en,1.0
+World Heritage,World Heritage,ORG,0.01,0.0,en,1.0
+the International Development Cooperation,the International Development Cooperation,ORG,0.01,0.0,en,1.0
+the National Heritage Promotion Agency,the National Heritage Promotion Agency,ORG,0.01,0.0,en,1.0
+National Heritage Administration,National Heritage Administration,ORG,0.0,0.0,en,1.0
+Gangwon Provincial Fire Department,Gangwon Provincial Fire Department,ORG,0.05,0.0,en,1.0
+the SaaS Conversion Support Center,the SaaS Conversion Support Center,ORG,-0.1,0.0,en,1.0
+the National IT Industry Promotion Agency,the National IT Industry Promotion Agency,ORG,-0.1,0.0,en,1.0
+the Korea Forest Service Not,the Korea Forest Service Not,ORG,0.0919642857142857,0.0,en,1.0
+the Foreign Correspondents' Club,the Foreign Correspondents' Club,ORG,-0.0875,0.0,en,1.0
+the Department of Mechanical Engineering,the Department of Mechanical Engineering,ORG,0.0,0.0,en,1.0
+Pohang University of Science and Technology,Pohang University of Science and Technology,ORG,0.1,0.0,en,1.0
+the Gyeokryeolbiyeoldo Love Movement Headquarters,the Gyeokryeolbiyeoldo Love Movement Headquarters,ORG,0.1875,0.0,en,1.0
+Mudeungsan National Park,Mudeungsan National Park,ORG,0.1875,0.0,en,1.0
+The Local Cultural Heritage Care Center,The Local Cultural Heritage Care Center,ORG,0.03571428571428571,0.0,en,1.0
+MBC,MBC,ORG,0.13636363636363635,0.0,en,1.0
+Riot Games,Riot Games,ORG,0.10999999999999999,0.0,en,1.0
 Forest Service,Forest Service,ORG,0.0,0.0,en,1.0
 Gyeonggi Provincial Office,Gyeonggi Provincial Office,ORG,0.0,0.0,en,1.0
 American AI,American AI,ORG,0.041666666666666664,0.0,en,1.0
 Ministry of National Defense Surion,Ministry of National Defense Surion,ORG,-0.4,0.0,en,1.0
-Pohang University of Science and Technology,Pohang University of Science and Technology,ORG,0.1,0.0,en,1.0
-the Department of Mechanical Engineering,the Department of Mechanical Engineering,ORG,0.0,0.0,en,1.0
-the Foreign Correspondents' Club,the Foreign Correspondents' Club,ORG,-0.0875,0.0,en,1.0
-the Korea Forest Service Not,the Korea Forest Service Not,ORG,0.0919642857142857,0.0,en,1.0
-the National IT Industry Promotion Agency,the National IT Industry Promotion Agency,ORG,-0.1,0.0,en,1.0
-the SaaS Conversion Support Center,the SaaS Conversion Support Center,ORG,-0.1,0.0,en,1.0
-Gangwon Provincial Fire Department,Gangwon Provincial Fire Department,ORG,0.05,0.0,en,1.0
-National Heritage Administration,National Heritage Administration,ORG,0.0,0.0,en,1.0
-the National Heritage Promotion Agency,the National Heritage Promotion Agency,ORG,0.01,0.0,en,1.0
-the International Development Cooperation,the International Development Cooperation,ORG,0.01,0.0,en,1.0
-World Heritage,World Heritage,ORG,0.01,0.0,en,1.0
-The National Heritage Promotion Agency,The National Heritage Promotion Agency,ORG,0.0,0.0,en,1.0
-the Peruvian Ministry of Culture in,the Peruvian Ministry of Culture in,ORG,0.0,0.0,en,1.0
-The National Heritage Office,The National Heritage Office,ORG,-0.3,0.0,en,1.0
-the National Museum of Korea's,the National Museum of Korea's,ORG,0.3412698412698412,0.0,en,1.0
-the Gyeokryeolbiyeoldo Love Movement Headquarters,the Gyeokryeolbiyeoldo Love Movement Headquarters,ORG,0.1875,0.0,en,1.0
-Ipdo,Ipdo,ORG,0.1875,0.0,en,1.0
-Mudeungsan National Park,Mudeungsan National Park,ORG,0.1875,0.0,en,1.0
-MBC,MBC,ORG,0.13636363636363635,0.0,en,1.0
-Jinbo-myeon,Jinbo-myeon,ORG,0.16,0.0,en,1.0
-Friends of Mountains,Friends of Mountains,ORG,0.0,0.0,en,1.0
-CJ Olive Young CJ Olive Young,CJ Olive Young CJ Olive Young,ORG,0.1,0.0,en,1.0
-Samcheok,Samcheok,ORG,-0.033333333333333326,0.0,en,1.0
-the Disaster and Safety Management Headquarters,the Disaster and Safety Management Headquarters,ORG,-0.033333333333333326,0.0,en,1.0
-Hajang-myeon,Hajang-myeon,ORG,0.0,0.0,en,1.0
-Samcheok-si,Samcheok-si,ORG,0.0,0.0,en,1.0
-the Korea Forest Service Amid,the Korea Forest Service Amid,ORG,0.09166666666666667,0.0,en,1.0
-the Korea Forest Service's,the Korea Forest Service's,ORG,0.0,0.0,en,1.0
 the Korea Forest Service A,the Korea Forest Service A,ORG,0.4,0.0,en,1.0
-the Korea Forest Service Are ',the Korea Forest Service Are ',ORG,0.0,0.0,en,1.0
-NASA,NASA,ORG,0.05,0.0,en,1.0
-La Niña,La Niña,ORG,0.0,0.0,en,1.0
-Golfzon Commerce,Golfzon Commerce,ORG,0.0,0.0,en,1.0
-GD Net Korea],GD Net Korea],ORG,0.038888888888888896,0.0,en,1.0
-Instagram,Instagram,ORG,0.03666666666666667,0.0,en,1.0
-"Ministry of Land, Infrastructure and Transport","Ministry of Land, Infrastructure and Transport",ORG,0.12,0.0,en,1.0
-Ilsan Natural Forest Tree Ranch,Ilsan Natural Forest Tree Ranch,ORG,0.1,0.0,en,1.0
-​,​,ORG,0.5,0.0,en,1.0
-K News,K News,ORG,0.0,0.0,en,1.0
-K Channel 82,K Channel 82,ORG,0.0,0.0,en,1.0
-K Channel 82’,K Channel 82’,ORG,0.043750000000000004,0.0,en,1.0
-the American Sinclair Group,the American Sinclair Group,ORG,0.043750000000000004,0.0,en,1.0
-K News Is,K News Is,ORG,-0.02500000000000001,0.0,en,1.0
-K-Entertech Hub,K-Entertech Hub,ORG,-0.02500000000000001,0.0,en,1.0
-United States,United States,ORG,0.13333333333333333,0.0,en,1.0
-Atmospheric Administration,Atmospheric Administration,ORG,0.13333333333333333,0.0,en,1.0
+the Korea Forest Service's,the Korea Forest Service's,ORG,0.0,0.0,en,1.0
+the Korea Forest Service Amid,the Korea Forest Service Amid,ORG,0.09166666666666667,0.0,en,1.0
+Samcheok-si,Samcheok-si,ORG,0.0,0.0,en,1.0
+Hajang-myeon,Hajang-myeon,ORG,0.0,0.0,en,1.0
+the Disaster and Safety Management Headquarters,the Disaster and Safety Management Headquarters,ORG,-0.033333333333333326,0.0,en,1.0
+Samcheok,Samcheok,ORG,-0.033333333333333326,0.0,en,1.0
+CJ Olive Young CJ Olive Young,CJ Olive Young CJ Olive Young,ORG,0.1,0.0,en,1.0
+Friends of Mountains,Friends of Mountains,ORG,0.0,0.0,en,1.0
+Jinbo-myeon,Jinbo-myeon,ORG,0.16,0.0,en,1.0
+Life Safety,Life Safety,ORG,0.0,0.0,en,1.0
+Korea Institute of Geoscience and Mineral Resources,Korea Institute of Geoscience and Mineral Resources,ORG,-0.25,0.0,en,1.0
+AOS,AOS,ORG,-0.04956709956709958,0.0,en,1.0
+the LG Evergreen Foundation,the LG Evergreen Foundation,ORG,0.25,0.0,en,1.0
+the Citizen’s Health Playground,the Citizen’s Health Playground,ORG,0.125,0.0,en,1.0
+Daegu Citizen’s Health Playground,Daegu Citizen’s Health Playground,ORG,0.0,0.0,en,1.0
 POSTECH,POSTECH,ORG,0.1,0.0,en,1.0
-Golfzon Group's,Golfzon Group's,ORG,0.0,0.0,en,1.0
-the Indian Space Research Organization,the Indian Space Research Organization,ORG,0.05,0.0,en,1.0
-the Green Party,the Green Party,ORG,-0.1,0.0,en,1.0
-Green Party,Green Party,ORG,-0.1638888888888889,0.0,en,1.0
-Gangnam,Gangnam,ORG,-0.1638888888888889,0.0,en,1.0
-Namseon-myeon,Namseon-myeon,ORG,-0.1638888888888889,0.0,en,1.0
-Imha-myeon,Imha-myeon,ORG,-0.1638888888888889,0.0,en,1.0
-ZD Net Korea] Pulmuone,ZD Net Korea] Pulmuone,ORG,0.0,0.0,en,1.0
-the National Park Service,the National Park Service,ORG,0.0,0.0,en,1.0
-Pulmuone Management,Pulmuone Management,ORG,0.0,0.0,en,1.0
-National Park Service Eastern Regional Headquarters,National Park Service Eastern Regional Headquarters,ORG,0.0,0.0,en,1.0
-Jirisan National Park Jeonnam,Jirisan National Park Jeonnam,ORG,0.0,0.0,en,1.0
-Jeonnam,Jeonnam,ORG,-0.2,0.0,en,1.0
-the Korea Advanced Institute of Science and Technology,the Korea Advanced Institute of Science and Technology,ORG,0.2,0.0,en,1.0
-the Seoul National University,the Seoul National University,ORG,-0.13333333333333333,0.0,en,1.0
 the World Meteorological Organization,the World Meteorological Organization,ORG,0.21666666666666665,0.0,en,1.0
+the Seoul National University,the Seoul National University,ORG,-0.13333333333333333,0.0,en,1.0
+the Korea Advanced Institute of Science and Technology,the Korea Advanced Institute of Science and Technology,ORG,0.2,0.0,en,1.0
+Jeonnam,Jeonnam,ORG,-0.2,0.0,en,1.0
+Jirisan National Park Jeonnam,Jirisan National Park Jeonnam,ORG,0.0,0.0,en,1.0
+National Park Service Eastern Regional Headquarters,National Park Service Eastern Regional Headquarters,ORG,0.0,0.0,en,1.0
+Pulmuone Management,Pulmuone Management,ORG,0.0,0.0,en,1.0
+the National Park Service,the National Park Service,ORG,0.0,0.0,en,1.0
+ZD Net Korea] Pulmuone,ZD Net Korea] Pulmuone,ORG,0.0,0.0,en,1.0
+Imha-myeon,Imha-myeon,ORG,-0.1638888888888889,0.0,en,1.0
+Namseon-myeon,Namseon-myeon,ORG,-0.1638888888888889,0.0,en,1.0
+Gangnam,Gangnam,ORG,-0.1638888888888889,0.0,en,1.0
+Yangji Tree Ranch,Yangji Tree Ranch,ORG,0.0,0.0,en,1.0
+The European Space Agency,The European Space Agency,ORG,0.4000000000000001,0.0,en,1.0
+the Green Party,the Green Party,ORG,-0.1,0.0,en,1.0
+ESA,ESA,ORG,0.25000000000000006,0.0,en,1.0
+Giant Games',Giant Games',ORG,-0.04956709956709958,0.0,en,1.0
+TNW,TNW,ORG,0.0,0.0,en,1.0
+Google,Google,ORG,-0.09479166666666668,0.0,en,1.0
+Daejin Industrial Complex,Daejin Industrial Complex,ORG,-0.15,0.0,en,1.0
+Samcheonpo Thermal Power Plant,Samcheonpo Thermal Power Plant,ORG,-0.15,0.0,en,1.0
+People Power Party,People Power Party,ORG,-0.15,0.0,en,1.0
+the Sacheon Environmental Movement Federation,the Sacheon Environmental Movement Federation,ORG,-0.15,0.0,en,1.0
+Sacheon,Sacheon,ORG,0.25,0.0,en,1.0
+rainier,rainier,ORG,-0.25,0.0,en,1.0
+The Pacific Law Firm's AI,The Pacific Law Firm's AI,ORG,0.13333333333333333,0.0,en,1.0
+Nodeul Island,Nodeul Island,ORG,0.0,0.0,en,1.0
+Headliner,Headliner,ORG,0.0,0.0,en,1.0
+"Wayfarer, Skyler","Wayfarer, Skyler",ORG,0.0,0.0,en,1.0
+'Throne & Liberty,'Throne & Liberty,ORG,0.0,0.0,en,1.0
+Nix',Nix',ORG,0.0,0.0,en,1.0
+Green Party,Green Party,ORG,-0.1638888888888889,0.0,en,1.0
+Golfzon Group's,Golfzon Group's,ORG,0.0,0.0,en,1.0
+Forests,Forests,ORG,0.25,0.0,en,1.0
+the U.S. National Institute of Standards and Technology,the U.S. National Institute of Standards and Technology,ORG,-0.0625,0.0,en,1.0
+Gwanak-gu,Gwanak-gu,ORG,0.0,0.0,en,1.0
+Dorimcheon Stream,Dorimcheon Stream,ORG,0.0,0.0,en,1.0
+the Governance Center,the Governance Center,ORG,-0.05,0.0,en,1.0
+the National Village Building Network (Village Net,the National Village Building Network (Village Net,ORG,-0.05,0.0,en,1.0
+Korea Water Resources Corporation,Korea Water Resources Corporation,ORG,0.0,0.0,en,1.0
+Korea Hydro & Nuclear Power,Korea Hydro & Nuclear Power,ORG,0.0,0.0,en,1.0
+Korea Electric Power Corporation,Korea Electric Power Corporation,ORG,0.0,0.0,en,1.0
+Flood Control Center,Flood Control Center,ORG,0.0,0.0,en,1.0
+Basin (Local) Environmental Office,Basin (Local) Environmental Office,ORG,0.0,0.0,en,1.0
+"Climate, Energy and Environment","Climate, Energy and Environment",ORG,0.25,0.0,en,1.0
+the Sejong Government Complex,the Sejong Government Complex,ORG,-0.09999999999999999,0.0,en,1.0
+Ministry of Climate Change,Ministry of Climate Change,ORG,0.0,0.0,en,1.0
+Integrated Health Risk Information System,Integrated Health Risk Information System,ORG,0.0,0.0,en,1.0
+Korea Disease Control and Prevention Agency,Korea Disease Control and Prevention Agency,ORG,0.0,0.0,en,1.0
+the Democratic Party of Korea,the Democratic Party of Korea,ORG,0.0,0.0,en,1.0
+ZeroTrust,ZeroTrust,ORG,-0.0625,0.0,en,1.0
+NIST,NIST,ORG,-0.0625,0.0,en,1.0
+Golfzon Commerce,Golfzon Commerce,ORG,0.0,0.0,en,1.0
+Illumio,Illumio,ORG,0.0,0.0,en,1.0
+Golfzon Group,Golfzon Group,ORG,0.03333333333333333,0.0,en,1.0
+Atmospheric Administration,Atmospheric Administration,ORG,0.13333333333333333,0.0,en,1.0
+United States,United States,ORG,0.13333333333333333,0.0,en,1.0
+K-Entertech Hub,K-Entertech Hub,ORG,-0.02500000000000001,0.0,en,1.0
+K News Is,K News Is,ORG,-0.02500000000000001,0.0,en,1.0
+the American Sinclair Group,the American Sinclair Group,ORG,0.043750000000000004,0.0,en,1.0
+K Channel 82’,K Channel 82’,ORG,0.043750000000000004,0.0,en,1.0
+K Channel 82,K Channel 82,ORG,0.0,0.0,en,1.0
+K News,K News,ORG,0.0,0.0,en,1.0
+​,​,ORG,0.5,0.0,en,1.0
+Ilsan Natural Forest Tree Ranch,Ilsan Natural Forest Tree Ranch,ORG,0.1,0.0,en,1.0
+"Ministry of Land, Infrastructure and Transport","Ministry of Land, Infrastructure and Transport",ORG,0.12,0.0,en,1.0
+Instagram,Instagram,ORG,0.03666666666666667,0.0,en,1.0
 ZDNet Korea,ZDNet Korea,ORG,0.0,0.0,en,1.0
 Evangelist,Evangelist,ORG,0.0,0.0,en,1.0
-Illumio,Illumio,ORG,0.0,0.0,en,1.0
-NIST,NIST,ORG,-0.0625,0.0,en,1.0
-ISRO,ISRO,ORG,0.05,0.0,en,1.0
-the Prodin A Anchor Red Camera Neck Strap,the Prodin A Anchor Red Camera Neck Strap,ORG,0.16666666666666666,0.0,en,1.0
-Microsoft,Microsoft,ORG,0.0,0.0,en,1.0
-MS) Research Institute,MS) Research Institute,ORG,0.0,0.0,en,1.0
-DS&G,DS&G,ORG,0.0,0.0,en,1.0
-Song (Ph.D. of Science,Song (Ph.D. of Science,ORG,0.0,0.0,en,1.0
-Life Safety,Life Safety,ORG,0.0,0.0,en,1.0
-Homeland Security Research Division,Homeland Security Research Division,ORG,-0.25,0.0,en,1.0
-Korea Institute of Geoscience and Mineral Resources,Korea Institute of Geoscience and Mineral Resources,ORG,-0.25,0.0,en,1.0
-Forests,Forests,ORG,0.25,0.0,en,1.0
-the Democratic Party of Korea,the Democratic Party of Korea,ORG,0.0,0.0,en,1.0
-Korea Disease Control and Prevention Agency,Korea Disease Control and Prevention Agency,ORG,0.0,0.0,en,1.0
-Integrated Health Risk Information System,Integrated Health Risk Information System,ORG,0.0,0.0,en,1.0
-Korea Meteorological Administration,Korea Meteorological Administration,ORG,0.0,0.0,en,1.0
-Ministry of Climate Change,Ministry of Climate Change,ORG,0.0,0.0,en,1.0
-"the Ministry of Climate, Energy and Environment","the Ministry of Climate, Energy and Environment",ORG,-0.09999999999999999,0.0,en,1.0
-the Sejong Government Complex,the Sejong Government Complex,ORG,-0.09999999999999999,0.0,en,1.0
-"Climate, Energy and Environment","Climate, Energy and Environment",ORG,0.25,0.0,en,1.0
-Basin (Local) Environmental Office,Basin (Local) Environmental Office,ORG,0.0,0.0,en,1.0
-Flood Control Center,Flood Control Center,ORG,0.0,0.0,en,1.0
-Korea Electric Power Corporation,Korea Electric Power Corporation,ORG,0.0,0.0,en,1.0
-Korea Hydro & Nuclear Power,Korea Hydro & Nuclear Power,ORG,0.0,0.0,en,1.0
-Korea Water Resources Corporation,Korea Water Resources Corporation,ORG,0.0,0.0,en,1.0
-the National Village Building Network (Village Net,the National Village Building Network (Village Net,ORG,-0.05,0.0,en,1.0
-the Governance Center,the Governance Center,ORG,-0.05,0.0,en,1.0
-Dorimcheon Stream,Dorimcheon Stream,ORG,0.0,0.0,en,1.0
-Gwanak-gu,Gwanak-gu,ORG,0.0,0.0,en,1.0
-ZeroTrust,ZeroTrust,ORG,-0.0625,0.0,en,1.0
-the U.S. National Institute of Standards and Technology,the U.S. National Institute of Standards and Technology,ORG,-0.0625,0.0,en,1.0
-Kuro Games,Kuro Games,ORG,0.0,0.0,en,1.0
+The Korea Economic Cooperation Association,The Korea Economic Cooperation Association,ORG,0.2,0.0,en,1.0
