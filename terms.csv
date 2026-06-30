@@ -18,7 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3454690559947583,1,2,ko,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-04T07:06:00+00:00,,0.3396677081158203,4,2,ko,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,상륙,2026-06-13T06:38:00+00:00,,0.3343668609897368,4,2,ko,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,서리가 내리는 겨울,2026-06-29T07:12:00+00:00,,0.33179915636781515,1,1,ko,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,서리가 내리는 겨울,2026-06-29T07:12:00+00:00,,0.3317991563678151,1,1,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-06-12T07:05:00+00:00,,0.3295782867990581,4,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3249096239483273,3,1,ko,EAS,Asia
@@ -40,6 +40,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5197c0b14',extremes,Wildfire,#d60d2b,wmo,산불 사라토프 지역,2026-06-18T07:16:00+00:00,Russia,0.3002210692273421,0,1,ko,ESB,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,폭풍 해일 지역 1 - 보통,2026-06-28T06:44:00+00:00,Paraguay,0.300063333481355,0,1,ko,SES,South-America
 '82e3d2a385',extremes,Flood,#030ba1,acwe,호주 남부의 높은 수위,2026-06-15T08:36:00+00:00,Australia,0.2998151207592392,0,1,ko,SAU,Oceania
+'9b59bee21e',extremes,Drought,#edc291,edo,폴란드 건기,2026-06-12T07:05:00+00:00,Poland,0.29980155688323434,0,1,ko,WCE,Europe
+'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,폭풍 인버네스 카운티 Mabou 및 북쪽,2026-06-16T08:27:00+00:00,Canada,0.2998003208572942,0,1,ko,NEN,North-America
+'828fe03351',extremes,Snow&Ice,#d60d2b,wmo,얼음 뉴 사우스 웨일즈 눈 덮인 산,2026-06-19T07:39:00+00:00,Australia,0.2997645087082268,0,1,ko,CAU,Oceania
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,집중호우 피오르드랜드,2026-06-19T07:39:00+00:00,New Zealand,0.29975510430199476,0,1,ko,NZ,Oceania
+'fb2669902d',extremes,Wildfire,#d60d2b,wmo,산불 사마라 지역,2026-06-17T07:33:00+00:00,Russia,0.29975155219072136,0,1,ko,ESB,Europe
+'6eb74257af',extremes,Storm,#b3b2b1,wmo,쿠웨이트의 폭풍 해일 상태,2026-06-16T08:27:00+00:00,Kuwait,0.29975067917429243,0,1,ko,ARP,Asia
+'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,지진 니콜스키,2026-06-27T06:08:00+00:00,Alaska,0.2997494039126939,0,1,ko,NPO,Pacific Ocean
+'3e806f55ec',extremes,Precipitation,#d60d2b,wmo,웨스트랜드 지역에 폭우가 내림,2026-06-19T07:39:00+00:00,New Zealand,0.29973050891225556,0,1,ko,NZ,Oceania
+'5877d58b55',extremes,Fog,#d60d2b,wmo,안개 이바노보 지역,2026-06-10T06:49:00+00:00,Russia,0.29966784858852924,0,1,ko,ESB,Europe
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,메디케인,2026-06-29T07:12:00+00:00,,0.29965778002968635,0,1,ko,,
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-06-06T06:08:00+00:00,United States,0.2887679877495223,4,1,ko,CNA,North-America
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-06-18T07:16:00+00:00,,0.2860778536913033,2,1,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-06-06T06:08:00+00:00,,0.2854561153512567,2,1,ko,,
