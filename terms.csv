@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-06-18T07:16:00+00:00,,0.420975232740566,3,1,ko,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-06-14T07:06:00+00:00,,0.4156412419791912,2,2,ko,,
 '62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.3974270275927107,4,2,ko,,
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.39734515934798426,0,1,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-06-23T06:33:00+00:00,North Korea,0.3960652141346342,3,1,ko,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-06-17T07:33:00+00:00,,0.380568243737964,2,1,ko,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-06-17T07:33:00+00:00,,0.3795772973454438,2,1,ko,,
@@ -19,9 +18,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-06-03T07:23:00+00:00,South Korea,0.3670870142942222,3,1,ko,EAS,Asia
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-06-12T07:05:00+00:00,South Korea,0.360262459611232,2,1,ko,EAS,Asia
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-06-04T07:06:00+00:00,North Korea,0.3555901919253365,4,1,ko,EAS,Asia
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,기온이 급락,2026-06-24T06:29:00+00:00,,0.35471404471161466,0,1,ko,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3454690559947583,1,2,ko,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-04T07:06:00+00:00,,0.3396677081158203,4,2,ko,,
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.3383434454457866,1,1,ko,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,상륙,2026-06-13T06:38:00+00:00,,0.3343668609897368,4,2,ko,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-06-12T07:05:00+00:00,,0.3295782867990581,4,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
@@ -29,12 +28,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.3207640542503104,2,1,ko,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,스노우팩,2026-07-01T06:52:00+00:00,,0.3117604310116892,0,1,ko,,
-'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,태국에 폭우,2026-06-21T07:16:00+00:00,Thailand,0.30507771282195195,0,1,ko,SEA,Asia
+'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,태국에 폭우,2026-06-21T07:16:00+00:00,Thailand,0.3050777128219519,0,1,ko,SEA,Asia
 'c4be795f03',extremes,Drought,#edc291,edo,비 부족 적도 기니,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.3049615032988373,0,1,ko,WAF,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,폭풍 해일 캐나다,2026-06-20T06:47:00+00:00,Canada,0.3047558743699528,0,1,ko,NEN,North-America
-'06adbcbae1',extremes,Drought,#edc291,edo,건조함 마다가스카르,2026-06-22T08:39:00+00:00,Madagascar,0.30405492504294457,0,1,ko,MDG,Africa
-'190bcda954',extremes,Storm,#b3b2b1,wmo,폭풍 해일 포트 넬슨,2026-07-01T06:52:00+00:00,Canada,0.30285825665841426,0,1,ko,NEN,North-America
-'ecac020f22',extremes,Earthquake,#870007,usgs,지진 라 세레나,2026-06-25T06:32:00+00:00,Chile,0.30004340680743724,0,1,ko,SWS,South-America
+'06adbcbae1',extremes,Drought,#edc291,edo,건조함 마다가스카르,2026-06-22T08:39:00+00:00,Madagascar,0.3040549250429445,0,1,ko,MDG,Africa
+'190bcda954',extremes,Storm,#b3b2b1,wmo,폭풍 해일 포트 넬슨,2026-07-01T06:52:00+00:00,Canada,0.3028582566584142,0,1,ko,NEN,North-America
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,기온이 급락,2026-06-24T06:29:00+00:00,,0.3015069380048724,1,1,ko,,
+'ecac020f22',extremes,Earthquake,#870007,usgs,지진 라 세레나,2026-06-25T06:32:00+00:00,Chile,0.3000434068074372,0,1,ko,SWS,South-America
 '1e08672b47',extremes,Earthquake,#870007,usgs,지진 진행 상황,2026-07-01T06:52:00+00:00,Mexico,0.2996909623032126,0,1,ko,NCA,North-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,메디케인,2026-06-29T07:12:00+00:00,,0.2996577800296863,0,1,ko,,
 '382933a4d4',extremes,Cold Wave,#a7e9fa,wmo,얼어붙은 짐바브웨,2026-06-13T06:38:00+00:00,Zimbabwe,0.2996568138782016,0,1,ko,ESAF,Africa
