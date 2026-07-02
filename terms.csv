@@ -21,21 +21,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3454690559947583,1,2,ko,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-04T07:06:00+00:00,,0.3396677081158203,4,2,ko,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,상륙,2026-06-13T06:38:00+00:00,,0.3343668609897368,4,2,ko,,
+'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.33026764600233105,1,2,ko,NEU,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-06-12T07:05:00+00:00,,0.3295782867990581,4,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3249096239483273,3,1,ko,EAS,Asia
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.3207640542503104,2,1,ko,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
-'9630c35687',extremes,Earthquake,#870007,usgs,지진 산 페르난도,2026-06-23T06:32:00+00:00,Peru,0.29964090451628905,0,1,ko,NWS,South-America
-'41210bc398',extremes,Thunderstorm,#53785a,wmo,루마니아 만세,2026-06-30T06:39:00+00:00,Romania,0.29961399990969073,0,1,ko,WCE,Europe
-'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.2996089247086247,0,1,ko,NEU,Europe
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,안개 옴스크 지역,2026-06-17T07:33:00+00:00,Russia,0.2995998241340369,0,1,ko,ESB,Europe
 'cb39822660',extremes,Fog,#d60d2b,wmo,안개 케메로보 지역,2026-06-13T06:38:00+00:00,Russia,0.2995996735148775,0,1,ko,ESB,Europe
 '754892687b',extremes,Storm,#b3b2b1,wmo,카터튼 북쪽의 폭풍 해일 와이라라파,2026-06-20T06:47:00+00:00,New Zealand,0.2995835505086456,0,1,ko,NZ,Oceania
-'d721fe3dc0',extremes,Wildfire,#d60d2b,wmo,산불 칼루가 지역,2026-06-12T07:05:00+00:00,Russia,0.29956724679665897,0,1,ko,ESB,Europe
+'d721fe3dc0',extremes,Wildfire,#d60d2b,wmo,산불 칼루가 지역,2026-06-12T07:05:00+00:00,Russia,0.2995672467966589,0,1,ko,ESB,Europe
 'fc6abeb657',extremes,Earthquake,#870007,usgs,지진 보코노,2026-06-18T07:16:00+00:00,Venezuela,0.2995208328127481,0,1,ko,NSA,South-America
-'279d701798',extremes,Flood,#030ba1,wmo,사우스 오스트레일리아 쿠퍼 크릭에 범람,2026-06-11T07:14:00+00:00,Australia,0.29951136930445454,0,1,ko,CAU,Oceania
-'551faa9610',extremes,Earthquake,#870007,usgs,지진 조개 협곡,2026-06-30T06:39:00+00:00,Alaska,0.29948307799084967,0,1,ko,NWN,North-America
+'279d701798',extremes,Flood,#030ba1,wmo,사우스 오스트레일리아 쿠퍼 크릭에 범람,2026-06-11T07:14:00+00:00,Australia,0.2995113693044545,0,1,ko,CAU,Oceania
+'551faa9610',extremes,Earthquake,#870007,usgs,지진 조개 협곡,2026-06-30T06:39:00+00:00,Alaska,0.2994830779908496,0,1,ko,NWN,North-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,회오리바람,2026-06-18T07:16:00+00:00,,0.2949238594521747,1,1,ko,,
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-06-06T06:08:00+00:00,United States,0.2887679877495223,4,1,ko,CNA,North-America
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.2881919886289186,2,1,ko,,
@@ -156,7 +154,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38e672b274',extremes,Drought,#edc291,edo,건조함 가봉,2026-06-19T07:39:00+00:00,Gabon,0.2547038514637361,1,1,ko,CAF,Africa
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,폭염 스위스,2026-06-17T07:33:00+00:00,Switzerland,0.2547038183954964,1,1,ko,WCE,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,얼음 호주,2026-06-26T06:36:00+00:00,Australia,0.2547014743236272,1,1,ko,CAU,Oceania
+'9630c35687',extremes,Earthquake,#870007,usgs,지진 산 페르난도,2026-06-23T06:32:00+00:00,Peru,0.2546947688388456,1,1,ko,NWS,South-America
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,플래시플러드 스웨덴,2026-06-15T08:36:00+00:00,Sweden,0.2546898732614984,1,1,ko,NEU,Europe
+'41210bc398',extremes,Thunderstorm,#53785a,wmo,루마니아 만세,2026-06-30T06:39:00+00:00,Romania,0.2546718999232371,1,1,ko,WCE,Europe
 'e6f88f4558',extremes,Fog,#d60d2b,wmo,안개 포르투갈,2026-06-11T07:14:00+00:00,Portugal,0.2546621920610499,1,1,ko,MED,Europe
 '74eaec292f',extremes,Earthquake,#870007,usgs,지진 엘 토쿠요,2026-06-06T06:08:00+00:00,Venezuela,0.2546513035440443,1,1,ko,NSA,South-America
 'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,트롬의 산불 부분,2026-06-06T06:08:00+00:00,Norway,0.2546253641073853,1,1,ko,NEU,Europe
