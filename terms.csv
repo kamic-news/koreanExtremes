@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-06-20T06:46:00+00:00,,0.4272738512667264,4,1,ko,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-06-18T07:16:00+00:00,,0.420975232740566,3,1,ko,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-06-14T07:06:00+00:00,,0.4156412419791912,2,2,ko,,
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.40490097724343,1,2,ko,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.3974270275927107,4,2,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-06-23T06:33:00+00:00,North Korea,0.3960652141346342,3,1,ko,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-06-17T07:33:00+00:00,,0.380568243737964,2,1,ko,,
@@ -28,16 +29,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.3207640542503104,2,1,ko,,
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.3188275591019813,2,2,ko,NEU,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
-'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.2997070144040353,0,1,ko,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,인도 뇌우,2026-06-30T06:39:00+00:00,India,0.2995342706910677,0,1,ko,SAS,Asia
-'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,산불 울리야놉스크 지역,2026-06-15T08:36:00+00:00,Russia,0.29945602312852276,0,1,ko,ESB,Europe
-'5f06239387',extremes,Heat Wave,#c40202,wmo,폭염 østjylland,2026-06-26T06:36:00+00:00,Denmark,0.29943713129087857,0,1,ko,NEU,Europe
-'228e39232d',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 네덜란드,2026-06-26T06:36:00+00:00,Netherlands,0.29941733853858504,0,1,ko,NEU,Europe
-'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,뉴질랜드 폭우,2026-06-20T06:47:00+00:00,New Zealand,0.29941268992605247,0,1,ko,NZ,Oceania
-'3dea46c095',extremes,Flood,#030ba1,wmo,플래시플러드 미국,2026-06-12T07:05:00+00:00,United States,0.29940348787634974,0,1,ko,CNA,North-America
-'668e74fb1c',extremes,Earthquake,#870007,usgs,지진 미크로네시아,2026-06-23T06:32:00+00:00,Micronesia,0.29938294240819235,0,1,ko,NPO,Pacific Ocean
-'2831c60cb5',extremes,Wildfire,#d60d2b,wmo,산불 코스트로마 지역,2026-06-14T07:07:00+00:00,Russia,0.29937635756882136,0,1,ko,ESB,Europe
-'bd7d2db506',extremes,Wildfire,#d60d2b,wmo,하카시아 산불 공화국,2026-06-13T06:38:00+00:00,Russia,0.29935041772325366,0,1,ko,ESB,Europe
+'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,산불 울리야놉스크 지역,2026-06-15T08:36:00+00:00,Russia,0.2994560231285227,0,1,ko,ESB,Europe
+'5f06239387',extremes,Heat Wave,#c40202,wmo,폭염 østjylland,2026-06-26T06:36:00+00:00,Denmark,0.2994371312908785,0,1,ko,NEU,Europe
+'228e39232d',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 네덜란드,2026-06-26T06:36:00+00:00,Netherlands,0.299417338538585,0,1,ko,NEU,Europe
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,뉴질랜드 폭우,2026-06-20T06:47:00+00:00,New Zealand,0.2994126899260524,0,1,ko,NZ,Oceania
+'3dea46c095',extremes,Flood,#030ba1,wmo,플래시플러드 미국,2026-06-12T07:05:00+00:00,United States,0.2994034878763497,0,1,ko,CNA,North-America
+'668e74fb1c',extremes,Earthquake,#870007,usgs,지진 미크로네시아,2026-06-23T06:32:00+00:00,Micronesia,0.2993829424081923,0,1,ko,NPO,Pacific Ocean
+'2831c60cb5',extremes,Wildfire,#d60d2b,wmo,산불 코스트로마 지역,2026-06-14T07:07:00+00:00,Russia,0.2993763575688213,0,1,ko,ESB,Europe
+'bd7d2db506',extremes,Wildfire,#d60d2b,wmo,하카시아 산불 공화국,2026-06-13T06:38:00+00:00,Russia,0.2993504177232536,0,1,ko,ESB,Europe
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-06-06T06:08:00+00:00,United States,0.2887679877495223,4,1,ko,CNA,North-America
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.2881919886289186,2,1,ko,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-06-18T07:16:00+00:00,,0.2860778536913033,2,1,ko,,
