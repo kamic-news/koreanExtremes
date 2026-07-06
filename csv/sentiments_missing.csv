@@ -1,259 +1,281 @@
 ,phrase,label,sentiment,subjectivity,language,count
-first,first,ORDINAL,,,en,17.735714285714284
-Korean,Korean,NORP,,,en,12.400000000000004
+first,first,ORDINAL,,,en,19.53571428571428
+Korean,Korean,NORP,,,en,14.200000000000005
+the 25th,the 25th,DATE,,,en,11.600000000000001
+this year,this year,DATE,,,en,10.600000000000001
+summer,summer,DATE,,,en,10.214285714285715
 Gyeongsangbuk,Gyeongsangbuk,NORP,,,en,10.000000000000002
-this year,this year,DATE,,,en,9.700000000000001
-the 25th,the 25th,DATE,,,en,8.9
+the 2nd,the 2nd,DATE,,,en,8.3
 this summer,this summer,DATE,,,en,8.200000000000001
+last year,last year,DATE,,,en,8.100000000000001
 the 12th,the 12th,DATE,,,en,7.633333333333335
-summer,summer,DATE,,,en,7.514285714285715
-the 2nd,the 2nd,DATE,,,en,6.500000000000001
-this day,this day,DATE,,,en,6.500000000000001
+this day,this day,DATE,,,en,7.400000000000001
 May,May,DATE,,,en,6.4
-last year,last year,DATE,,,en,6.300000000000001
-five,five,CARDINAL,,,en,5.7
-2026,2026,DATE,,,en,5.366666666666667
+Venezuelan,Venezuelan,NORP,,,en,6.4
+five,five,CARDINAL,,,en,6.325
+one,one,CARDINAL,,,en,6.1000000000000005
+the 29th,the 29th,DATE,,,en,6.000000000000001
+the 22nd,the 22nd,DATE,,,en,6.000000000000001
+the 17th,the 17th,DATE,,,en,5.9
+the summer,the summer,DATE,,,en,5.8916666666666675
+2026,2026,DATE,,,en,5.616666666666667
+Chinese,Chinese,NORP,,,en,5.3999999999999995
+4th,4th,ORDINAL,,,en,5.325
+Venture Square,Venture Square,FAC,,,en,5.300000000000001
 the 19th,the 19th,DATE,,,en,5.199999999999999
-the 22nd,the 22nd,DATE,,,en,5.1000000000000005
-the 29th,the 29th,DATE,,,en,5.1000000000000005
 the 15th,the 15th,DATE,,,en,5.0
-the 17th,the 17th,DATE,,,en,5.0
 6,6,CARDINAL,,,en,4.942857142857143
 spring,spring,DATE,,,en,4.814285714285714
-4th,4th,ORDINAL,,,en,4.7
 "1,000","1,000",CARDINAL,,,en,4.6
-Chinese,Chinese,NORP,,,en,4.6
 this month,this month,DATE,,,en,4.6
-Venture Square,Venture Square,FAC,,,en,4.4
+the 26th,the 26th,DATE,,,en,4.5
 2024,2024,DATE,,,en,4.4
 the 27th,the 27th,DATE,,,en,4.385714285714286
 the rainy season,the rainy season,DATE,,,en,4.3
 3,3,CARDINAL,,,en,3.9499999999999997
+year,year,DATE,,,en,3.8499999999999996
 the 14th,the 14th,DATE,,,en,3.8
 the 1st,the 1st,DATE,,,en,3.8
 the 13th,the 13th,DATE,,,en,3.7857142857142856
 86%,86%,PERCENT,,,en,3.6999999999999997
 daily,daily,DATE,,,en,3.6999999999999997
-Gyeongbuk,Gyeongbuk,NORP,0.20500000000000002,1.3733333333333333,en,3.6999999999999997
 this spring,this spring,DATE,,,en,3.6999999999999997
+the 24th,the 24th,DATE,,,en,3.6999999999999997
+Gyeongbuk,Gyeongbuk,NORP,0.20500000000000002,1.3733333333333333,en,3.6999999999999997
 June 3,June 3,DATE,,,en,3.6357142857142857
-the summer,the summer,DATE,,,en,3.466666666666667
-one,one,CARDINAL,,,en,3.4
+British,British,NORP,,,en,3.6
+the 21st,the 21st,DATE,,,en,3.5250000000000004
 today,today,DATE,,,en,3.333333333333333
 1,1,CARDINAL,,,en,3.3
 second,second,ORDINAL,,,en,3.2333333333333334
-year,year,DATE,,,en,3.2249999999999996
 5 years,5 years,DATE,,,en,3.1333333333333333
 22301,22301,CARDINAL,,,en,3.1
-the 21st,the 21st,DATE,,,en,2.9000000000000004
 September,September,DATE,,,en,2.9
-Broadway,Broadway,FAC,,,en,2.8
+the 30th,the 30th,DATE,,,en,2.816666666666667
+8,8,CARDINAL,,,en,2.8
 July,July,DATE,,,en,2.8
-Survival Beauty,Survival Beauty,WORK_OF_ART,,,en,2.8
+the 8th,the 8th,DATE,,,en,2.8
+MCP,MCP,PRODUCT,,,en,2.8
+GIBS,GIBS,PRODUCT,,,en,2.8
 July last year,July last year,DATE,,,en,2.8
 March last year,March last year,DATE,,,en,2.8
-GIBS,GIBS,PRODUCT,,,en,2.8
-MCP,MCP,PRODUCT,,,en,2.8
-10 a.m.,10 a.m.,TIME,,,en,2.8
-Philippine,Philippine,NORP,,,en,2.8
-7.8,7.8,CARDINAL,,,en,2.8
-8,8,CARDINAL,,,en,2.8
+Broadway,Broadway,FAC,,,en,2.8
+3rd,3rd,ORDINAL,,,en,2.8
+Survival Beauty,Survival Beauty,WORK_OF_ART,,,en,2.8
 Mythos,Mythos,WORK_OF_ART,,,en,2.8
-Gwanghwamun Square,Gwanghwamun Square,FAC,,,en,2.8
 △,△,PRODUCT,,,en,2.8
-the 26th,the 26th,DATE,,,en,2.7
-British,British,NORP,,,en,2.7
+Philippine,Philippine,NORP,,,en,2.8
+Gwanghwamun Square,Gwanghwamun Square,FAC,,,en,2.8
+10 a.m.,10 a.m.,TIME,,,en,2.8
+7.8,7.8,CARDINAL,,,en,2.8
+7th,7th,ORDINAL,,,en,2.7249999999999996
+last year's,last year's,DATE,,,en,2.7
+three,three,CARDINAL,,,en,2.6999999999999997
 Today,Today,DATE,,,en,2.519047619047619
-20 years,20 years,DATE,,,en,2.5
 half,half,CARDINAL,,,en,2.5
+20 years,20 years,DATE,,,en,2.5
 the weekend,the weekend,DATE,,,en,2.4
 33 degrees,33 degrees,QUANTITY,,,en,2.4
 2,2,CARDINAL,,,en,2.3000000000000003
 Last year,Last year,DATE,,,en,2.3
+June 23rd,June 23rd,DATE,,,en,2.2333333333333334
 the Gwanghwamun World Cup,the Gwanghwamun World Cup,EVENT,,,en,2.2
 that day,that day,DATE,,,en,2.1666666666666665
-the 30th,the 30th,DATE,,,en,2.15
 the 18th,the 18th,DATE,,,en,2.1333333333333333
-6th,6th,ORDINAL,,,en,2.1
-last month,last month,DATE,,,en,2.1
 13,13,CARDINAL,,,en,2.1
+6th,6th,ORDINAL,,,en,2.1
 American,American,NORP,,,en,2.1
-7th,7th,ORDINAL,,,en,2.0999999999999996
+last month,last month,DATE,,,en,2.1
 19,19,CARDINAL,,,en,2.05
 a few years ago,a few years ago,DATE,,,en,2.0
+First,First,ORDINAL,,,en,2.0
 10th,10th,ORDINAL,,,en,1.9666666666666666
 11th,11th,ORDINAL,,,en,1.9333333333333333
+January 20,January 20,DATE,,,en,1.9
 35 degrees,35 degrees,QUANTITY,,,en,1.9
-85%,85%,PERCENT,,,en,1.9
-August 13 last year,August 13 last year,DATE,,,en,1.9
-last April,last April,DATE,,,en,1.9
+10,10,CARDINAL,,,en,1.9
+6.9 trillion won,6.9 trillion won,MONEY,,,en,1.9
+the next five years,the next five years,DATE,,,en,1.9
+2018,2018,DATE,,,en,1.9
+Cheorwon,Cheorwon,FAC,,,en,1.9
 the 3rd of next month,the 3rd of next month,DATE,,,en,1.9
 hundreds,hundreds,CARDINAL,,,en,1.9
-January 20,January 20,DATE,,,en,1.9
-May 15,May 15,DATE,,,en,1.9
-9th,9th,ORDINAL,,,en,1.9
-the day,the day,DATE,,,en,1.9
-Cheorwon,Cheorwon,FAC,,,en,1.9
-the past 20 years,the past 20 years,DATE,,,en,1.9
-10,10,CARDINAL,,,en,1.9
-weekends,weekends,DATE,,,en,1.9
-2018,2018,DATE,,,en,1.9
-the previous year,the previous year,DATE,,,en,1.9
-99%,99%,PERCENT,,,en,1.9
-the next five years,the next five years,DATE,,,en,1.9
-the 8th,the 8th,DATE,,,en,1.9
-March 14 to April 19,March 14 to April 19,DATE,,,en,1.9
-2.1,2.1,CARDINAL,,,en,1.9
-80%,80%,PERCENT,,,en,1.9
-Canadian,Canadian,NORP,,,en,1.9
-37,37,CARDINAL,,,en,1.9
-the 9th,the 9th,DATE,,,en,1.9
-1m,1m,QUANTITY,,,en,1.9
-800,800,CARDINAL,,,en,1.9
-about 100,about 100,CARDINAL,,,en,1.9
-the 10th,the 10th,DATE,,,en,1.9
-1 hour and 30 minutes,1 hour and 30 minutes,TIME,,,en,1.9
-12,12,CARDINAL,,,en,1.9
+the 28th,the 28th,DATE,,,en,1.9
+three days,three days,DATE,,,en,1.9
+August 13 last year,August 13 last year,DATE,,,en,1.9
+85%,85%,PERCENT,,,en,1.9
 Two,Two,CARDINAL,,,en,1.9
-the Blue House,the Blue House,FAC,,,en,1.9
-6.9 trillion won,6.9 trillion won,MONEY,,,en,1.9
-38 degrees,38 degrees,QUANTITY,,,en,1.9
-June 23rd,June 23rd,DATE,,,en,1.9
-night,night,TIME,,,en,1.9
+the day,the day,DATE,,,en,1.9
+Canadian,Canadian,NORP,,,en,1.9
+2.1,2.1,CARDINAL,,,en,1.9
+the previous year,the previous year,DATE,,,en,1.9
+the past 30 years,the past 30 years,DATE,,,en,1.9
+9th,9th,ORDINAL,,,en,1.9
+the past 20 years,the past 20 years,DATE,,,en,1.9
+May 15,May 15,DATE,,,en,1.9
+the 9th,the 9th,DATE,,,en,1.9
+80%,80%,PERCENT,,,en,1.9
+12,12,CARDINAL,,,en,1.9
 more than 10,more than 10,CARDINAL,,,en,1.9
-Sunday,Sunday,DATE,,,en,1.8
-Summer,Summer,DATE,,,en,1.8
-between day,between day,DATE,,,en,1.8
+99%,99%,PERCENT,,,en,1.9
+every year,every year,DATE,,,en,1.9
+night,night,TIME,,,en,1.9
+weekends,weekends,DATE,,,en,1.9
+the 10th,the 10th,DATE,,,en,1.9
+last April,last April,DATE,,,en,1.9
+38 degrees,38 degrees,QUANTITY,,,en,1.9
+1m,1m,QUANTITY,,,en,1.9
+"10,000","10,000",CARDINAL,,,en,1.9
+1 hour and 30 minutes,1 hour and 30 minutes,TIME,,,en,1.9
+eight days,eight days,DATE,,,en,1.9
+the Blue House,the Blue House,FAC,,,en,1.9
+800,800,CARDINAL,,,en,1.9
+37,37,CARDINAL,,,en,1.9
+about 100,about 100,CARDINAL,,,en,1.9
+his 40s,his 40s,DATE,,,en,1.9
+March 14 to April 19,March 14 to April 19,DATE,,,en,1.9
+7.5,7.5,CARDINAL,,,en,1.9
+21,21,CARDINAL,,,en,1.8
 March,March,DATE,,,en,1.8
 last spring,last spring,DATE,,,en,1.8
 two,two,CARDINAL,,,en,1.8
-21,21,CARDINAL,,,en,1.8
-last year's,last year's,DATE,,,en,1.8
-three,three,CARDINAL,,,en,1.7999999999999998
-Early summer,Early summer,DATE,,,en,1.7
+between day,between day,DATE,,,en,1.8
+Summer,Summer,DATE,,,en,1.8
+Sunday,Sunday,DATE,,,en,1.8
 24,24,CARDINAL,,,en,1.7
 about an hour,about an hour,TIME,,,en,1.7
-Times Square,Times Square,FAC,,,en,1.7
+Early summer,Early summer,DATE,,,en,1.7
 daytime,daytime,TIME,,,en,1.7
+Times Square,Times Square,FAC,,,en,1.7
 22 years,22 years,DATE,,,en,1.6666666666666665
+119,119,CARDINAL,,,en,1.625
+Jirisan National Park,Jirisan National Park,FAC,,,en,1.5
 Jiri Mountain National Park,Jiri Mountain National Park,FAC,,,en,1.5
 One,One,CARDINAL,,,en,1.5
-Jirisan National Park,Jirisan National Park,FAC,,,en,1.5
 26th,26th,ORDINAL,,,en,1.4
 11,11,CARDINAL,,,en,1.375
 four,four,CARDINAL,,,en,1.3
-188,188,CARDINAL,,,en,1.25
 the afternoon,the afternoon,TIME,,,en,1.25
 Le Space,Le Space,WORK_OF_ART,,,en,1.25
-7,7,CARDINAL,,,en,1.2
+188,188,CARDINAL,,,en,1.25
 the 11th,the 11th,DATE,,,en,1.2
 the same period last year,the same period last year,DATE,,,en,1.2
 just one year,just one year,DATE,,,en,1.2
+7,7,CARDINAL,,,en,1.2
 105,105,CARDINAL,,,en,1.2
 the same day,the same day,DATE,,,en,1.1666666666666665
 135,135,CARDINAL,,,en,1.1666666666666665
-Vandenberg Space Force Base,Vandenberg Space Force Base,FAC,,,en,1.1
-145,145,CARDINAL,,,en,1.1
-First,First,ORDINAL,,,en,1.1
-the past four years,the past four years,DATE,,,en,1.1
 30%,30%,PERCENT,,,en,1.1
-18.7,18.7,CARDINAL,,,en,1.0
-the average year,the average year,DATE,,,en,1.0
-wave days,wave days,DATE,,,en,1.0
-early in the morning,early in the morning,TIME,,,en,1.0
-North American,North American,NORP,,,en,1.0
-the last minute,the last minute,TIME,,,en,1.0
-every day,every day,DATE,,,en,1.0
-Kiwoom Center,Kiwoom Center,FAC,,,en,1.0
-25.7,25.7,CARDINAL,,,en,1.0
-the World Cup,the World Cup,EVENT,,,en,1.0
-the K-AI Semiconductor Growth Forum,the K-AI Semiconductor Growth Forum,FAC,,,en,1.0
-seasons,seasons,DATE,,,en,1.0
-two weeks,two weeks,DATE,,,en,1.0
-every morning,every morning,TIME,,,en,1.0
-the 1st to the 12th of next month,the 1st to the 12th of next month,DATE,,,en,1.0
-between 6 a.m. and 10 a.m.,between 6 a.m. and 10 a.m.,TIME,,,en,1.0
-53 years,53 years,DATE,,,en,1.0
-The summer of 2025,The summer of 2025,DATE,,,en,1.0
-last Thursday,last Thursday,DATE,,,en,1.0
-63%,63%,PERCENT,,,en,1.0
+Vandenberg Space Force Base,Vandenberg Space Force Base,FAC,,,en,1.1
+the past four years,the past four years,DATE,,,en,1.1
+145,145,CARDINAL,,,en,1.1
+Cheering for the Czech Republic,Cheering for the Czech Republic,WORK_OF_ART,,,en,1.0
+4,4,CARDINAL,,,en,1.0
+July 16th to 20th,July 16th to 20th,DATE,,,en,1.0
+2025-26,2025-26,DATE,,,en,1.0
+'Finding the Best Disaster Safety AI Prompt,'Finding the Best Disaster Safety AI Prompt,WORK_OF_ART,,,en,1.0
+803,803,CARDINAL,,,en,1.0
+the 8th to the 7th of next month,the 8th to the 7th of next month,DATE,,,en,1.0
+453,453,CARDINAL,,,en,1.0
+the Frost Bank Center,the Frost Bank Center,FAC,,,en,1.0
+London Heathrow Airport,London Heathrow Airport,FAC,,,en,1.0
 Piccadilly Square,Piccadilly Square,FAC,,,en,1.0
 June 5th,June 5th,DATE,,,en,1.0
+64.7%,64.7%,PERCENT,,,en,1.0
 World Environment Day,World Environment Day,DATE,,,en,1.0
-around 12:29 p.m. on the 25th,around 12:29 p.m. on the 25th,TIME,,,en,1.0
-48,48,CARDINAL,,,en,1.0
-May 26th,May 26th,DATE,,,en,1.0
-Podcast,Podcast,WORK_OF_ART,,,en,1.0
-15 minutes,15 minutes,TIME,,,en,1.0
-the Frost Bank Center,the Frost Bank Center,FAC,,,en,1.0
-4,4,CARDINAL,,,en,1.0
-2025-26,2025-26,DATE,,,en,1.0
-only two,only two,CARDINAL,,,en,1.0
+nearly a year,nearly a year,DATE,,,en,1.0
+up to 380 mm,up to 380 mm,QUANTITY,,,en,1.0
+Jeju,Jeju,NORP,0.03636363636363637,0.1,en,1.0
+87 degrees,87 degrees,QUANTITY,,,en,1.0
 the San Antonio Spurs,the San Antonio Spurs,FAC,,,en,1.0
-27 years,27 years,DATE,,,en,1.0
-early summer,early summer,DATE,,,en,1.0
-2007,2007,DATE,,,en,1.0
-50 minutes,50 minutes,TIME,,,en,1.0
-6010m,6010m,QUANTITY,,,en,1.0
-119,119,CARDINAL,,,en,1.0
-352,352,CARDINAL,,,en,1.0
-between 2 p.m. and 5 p.m.,between 2 p.m. and 5 p.m.,TIME,,,en,1.0
-the middle of summer,the middle of summer,DATE,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+only 72 golden hours,only 72 golden hours,TIME,,,en,1.0
+Daejeon City Hall Station,Daejeon City Hall Station,FAC,,,en,1.0
+126 years,126 years,DATE,,,en,1.0
+at least 920,at least 920,CARDINAL,,,en,1.0
+"more than 51,000","more than 51,000",CARDINAL,,,en,1.0
+30 years,30 years,DATE,,,en,1.0
+June 9,June 9,DATE,,,en,1.0
+the hot summer months,the hot summer months,DATE,,,en,1.0
+At least 41,At least 41,CARDINAL,,,en,1.0
+mid-July,mid-July,DATE,,,en,1.0
+several months,several months,DATE,,,en,1.0
+a day,a day,DATE,,,en,1.0
+the previous day,the previous day,DATE,,,en,1.0
+Grand Park,Grand Park,FAC,,,en,1.0
+More than 900,More than 900,CARDINAL,,,en,1.0
+at least 41,at least 41,CARDINAL,,,en,1.0
+65%,65%,PERCENT,,,en,1.0
+"50,000","50,000",CARDINAL,,,en,1.0
+the Myeongni Village Hall,the Myeongni Village Hall,FAC,,,en,1.0
+only two,only two,CARDINAL,,,en,1.0
+"2,783.89","2,783.89",CARDINAL,,,en,1.0
+Gatwick Airport,Gatwick Airport,FAC,,,en,1.0
+300,300,CARDINAL,,,en,1.0
+50%,50%,PERCENT,,,en,1.0
 7 a.m.,7 a.m.,TIME,,,en,1.0
-3 years,3 years,DATE,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
 the end of this month,the end of this month,DATE,,,en,1.0
 rainy season,rainy season,DATE,,,en,1.0
-September to December,September to December,DATE,,,en,1.0
-August 22nd last year,August 22nd last year,DATE,,,en,1.0
-the Myeongni Village Hall,the Myeongni Village Hall,FAC,,,en,1.0
-This year,This year,DATE,,,en,1.0
-3.1,3.1,CARDINAL,,,en,1.0
-seven years old,seven years old,DATE,,,en,1.0
+European,European,NORP,,,en,1.0
+the middle of summer,the middle of summer,DATE,,,en,1.0
 the hot season,the hot season,DATE,,,en,1.0
-the ‘hottest year,the ‘hottest year,DATE,,,en,1.0
 mid-summer,mid-summer,DATE,,,en,1.0
 124.96 degrees,124.96 degrees,QUANTITY,,,en,1.0
 33.15 degrees,33.15 degrees,QUANTITY,,,en,1.0
 116km,116km,QUANTITY,,,en,1.0
 8:20:55 a.m.,8:20:55 a.m.,TIME,,,en,1.0
+55 degrees,55 degrees,QUANTITY,,,en,1.0
+"more than 1,300","more than 1,300",CARDINAL,,,en,1.0
+North American,North American,NORP,,,en,1.0
+last June,last June,DATE,,,en,1.0
+Copernicus Sentinel-3,Copernicus Sentinel-3,PRODUCT,,,en,1.0
 another year,another year,DATE,,,en,1.0
-the 28th,the 28th,DATE,,,en,1.0
-50%,50%,PERCENT,,,en,1.0
+the ‘hottest year,the ‘hottest year,DATE,,,en,1.0
+Venesu,Venesu,WORK_OF_ART,,,en,1.0
+9th day,9th day,DATE,,,en,1.0
+This year,This year,DATE,,,en,1.0
+August 22nd last year,August 22nd last year,DATE,,,en,1.0
+September to December,September to December,DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+3 years,3 years,DATE,,,en,1.0
 the coming weeks,the coming weeks,DATE,,,en,1.0
-Last winter,Last winter,DATE,,,en,1.0
-the next three years,the next three years,DATE,,,en,1.0
+20%,20%,PERCENT,,,en,1.0
+4227,4227,CARDINAL,,,en,1.0
+27 years,27 years,DATE,,,en,1.0
+Second,Second,ORDINAL,,,en,1.0
+53 years,53 years,DATE,,,en,1.0
+up to 11 hours,up to 11 hours,TIME,,,en,1.0
+between 6 a.m. and 10 a.m.,between 6 a.m. and 10 a.m.,TIME,,,en,1.0
+early in the morning,early in the morning,TIME,,,en,1.0
+every day,every day,DATE,,,en,1.0
+Kiwoom Center,Kiwoom Center,FAC,,,en,1.0
+the last minute,the last minute,TIME,,,en,1.0
+Friday morning,Friday morning,TIME,,,en,1.0
+the World Cup,the World Cup,EVENT,,,en,1.0
+the K-AI Semiconductor Growth Forum,the K-AI Semiconductor Growth Forum,FAC,,,en,1.0
+seasons,seasons,DATE,,,en,1.0
+every morning,every morning,TIME,,,en,1.0
+seven years old,seven years old,DATE,,,en,1.0
 days,days,DATE,,,en,1.0
 more than 90%,more than 90%,PERCENT,,,en,1.0
 the fall,the fall,DATE,,,en,1.0
-138 minutes → 51 minutes,138 minutes → 51 minutes,TIME,,,en,1.0
-34.7 degrees,34.7 degrees,QUANTITY,,,en,1.0
+dozens,dozens,CARDINAL,,,en,1.0
 100 million won,100 million won,CARDINAL,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
 Daily,Daily,DATE,,,en,1.0
+"More than 1,700","More than 1,700",CARDINAL,,,en,1.0
 the next four years,the next four years,DATE,,,en,1.0
 "More than 3,000","More than 3,000",CARDINAL,,,en,1.0
 the morning of the 1st,the morning of the 1st,TIME,,,en,1.0
 the start of June,the start of June,DATE,,,en,1.0
 Third,Third,ORDINAL,,,en,1.0
-Second,Second,ORDINAL,,,en,1.0
-34.8 degrees,34.8 degrees,QUANTITY,,,en,1.0
-4227,4227,CARDINAL,,,en,1.0
-300,300,CARDINAL,,,en,1.0
-20%,20%,PERCENT,,,en,1.0
-the Uruk Canal,the Uruk Canal,FAC,,,en,1.0
-Ioniq Drone Station,Ioniq Drone Station,FAC,,,en,1.0
-64.7%,64.7%,PERCENT,,,en,1.0
-the 24th,the 24th,DATE,,,en,1.0
-65%,65%,PERCENT,,,en,1.0
-the end of last year,the end of last year,DATE,,,en,1.0
-CCW,CCW,PRODUCT,,,en,1.0
-NAVISS Bridge',NAVISS Bridge',FAC,,,en,1.0
-four months,four months,DATE,,,en,1.0
-Jiri Mountain,Jiri Mountain,FAC,0.0,0.0,en,1.0
-767 days,767 days,DATE,,,en,1.0
+36m,36m,QUANTITY,,,en,1.0
+11 days in a row,11 days in a row,DATE,,,en,1.0
+the World Cup street viewing event,the World Cup street viewing event,EVENT,,,en,1.0
 the morning of the 18th,the morning of the 18th,TIME,,,en,1.0
-Buyeo Jicheon Dam,Buyeo Jicheon Dam,FAC,,,en,1.0
 Cheongyang Jicheon Dam,Cheongyang Jicheon Dam,WORK_OF_ART,,,en,1.0
+Status of Negotiation Requests,Status of Negotiation Requests,LAW,,,en,1.0
 about 210 meters,about 210 meters,QUANTITY,,,en,1.0
 210 meters,210 meters,QUANTITY,,,en,1.0
 the Conrad Hotel,the Conrad Hotel,FAC,,,en,1.0
@@ -261,6 +283,9 @@ the 19th of last month,the 19th of last month,DATE,,,en,1.0
 29,29,CARDINAL,,,en,1.0
 around 5:54 p.m. on the 17th,around 5:54 p.m. on the 17th,TIME,,,en,1.0
 approximately 5:54 pm on the 17th,approximately 5:54 pm on the 17th,TIME,,,en,1.0
+the end of June,the end of June,DATE,,,en,1.0
+about 400km,about 400km,QUANTITY,,,en,1.0
+'Junma Solar Power Plant Project','Junma Solar Power Plant Project',PRODUCT,,,en,1.0
 June 21 to September 20,June 21 to September 20,DATE,,,en,1.0
 fourth,fourth,ORDINAL,,,en,1.0
 age 81,age 81,DATE,,,en,1.0
@@ -270,85 +295,94 @@ mid-June,mid-June,DATE,,,en,1.0
 2023,2023,DATE,,,en,1.0
 3 last year,3 last year,DATE,,,en,1.0
 "104,975","104,975",CARDINAL,,,en,1.0
-about 100 to,about 100 to,CARDINAL,,,en,1.0
-each year,each year,DATE,,,en,1.0
-the afternoon of the 26th of last month,the afternoon of the 26th of last month,TIME,,,en,1.0
-three days,three days,DATE,,,en,1.0
-the end of August last year,the end of August last year,DATE,,,en,1.0
-Punching holes means communication,Punching holes means communication,WORK_OF_ART,,,en,1.0
-500,500,CARDINAL,,,en,1.0
-Pyeongtaek Port,Pyeongtaek Port,FAC,,,en,1.0
 98.0,98.0,CARDINAL,,,en,1.0
-the 16th,the 16th,DATE,,,en,1.0
-18th,18th,ORDINAL,,,en,1.0
-Status of Negotiation Requests,Status of Negotiation Requests,LAW,,,en,1.0
+Samchunix,Samchunix,NORP,,,en,1.0
+1.7% to 2.6%,1.7% to 2.6%,PERCENT,,,en,1.0
+"2,500","2,500",CARDINAL,,,en,1.0
+one-year,one-year,DATE,,,en,1.0
+about 100 to,about 100 to,CARDINAL,,,en,1.0
+Buyeo Jicheon Dam,Buyeo Jicheon Dam,FAC,,,en,1.0
+767 days,767 days,DATE,,,en,1.0
+World Cup',World Cup',EVENT,,,en,1.0
 Revised Labor Union Act,Revised Labor Union Act,LAW,,,en,1.0
-the Yellow Envelope Act,the Yellow Envelope Act,LAW,,,en,1.0
-the 100th day,the 100th day,DATE,,,en,1.0
-256,256,CARDINAL,,,en,1.0
-439,439,CARDINAL,,,en,1.0
-over 100 days,over 100 days,DATE,,,en,1.0
-The Yellow Envelope Act,The Yellow Envelope Act,LAW,,,en,1.0
-August,August,DATE,,,en,1.0
-the Press Center,the Press Center,FAC,,,en,1.0
-Recognition,Recognition,WORK_OF_ART,,,en,1.0
-2:30 p.m.,2:30 p.m.,TIME,,,en,1.0
-KOSDAQ,KOSDAQ,PRODUCT,,,en,1.0
 KRW 6.9597 trillion,KRW 6.9597 trillion,PRODUCT,,,en,1.0
-"2,783.89","2,783.89",CARDINAL,,,en,1.0
+KOSDAQ,KOSDAQ,PRODUCT,,,en,1.0
 Furnishing: Gray Raven',Furnishing: Gray Raven',WORK_OF_ART,,,en,1.0
 Operation Alpha's Descent',Operation Alpha's Descent',FAC,,,en,1.0
+Five Basic Rules for Heat Wave Safety,Five Basic Rules for Heat Wave Safety,WORK_OF_ART,,,en,1.0
+Recognition,Recognition,WORK_OF_ART,,,en,1.0
 early morning,early morning,TIME,,,en,1.0
 2021,2021,DATE,,,en,1.0
 about 5 years,about 5 years,DATE,,,en,1.0
 The Furnishing:,The Furnishing:,WORK_OF_ART,,,en,1.0
 49,49,CARDINAL,,,en,1.0
 "about 1,100 km","about 1,100 km",QUANTITY,,,en,1.0
-May 27,May 27,DATE,,,en,1.0
-Buddhist,Buddhist,NORP,,,en,1.0
-several months,several months,DATE,,,en,1.0
+October,October,DATE,,,en,1.0
+August,August,DATE,,,en,1.0
+The Yellow Envelope Act,The Yellow Envelope Act,LAW,,,en,1.0
+over 100 days,over 100 days,DATE,,,en,1.0
+439,439,CARDINAL,,,en,1.0
+500,500,CARDINAL,,,en,1.0
+the end of August last year,the end of August last year,DATE,,,en,1.0
+the end of last year,the end of last year,DATE,,,en,1.0
+256,256,CARDINAL,,,en,1.0
+CCW,CCW,PRODUCT,,,en,1.0
+NAVISS Bridge',NAVISS Bridge',FAC,,,en,1.0
+four months,four months,DATE,,,en,1.0
+the 100th day,the 100th day,DATE,,,en,1.0
+Jiri Mountain,Jiri Mountain,FAC,0.0,0.0,en,1.0
+the Yellow Envelope Act,the Yellow Envelope Act,LAW,,,en,1.0
+the next three years,the next three years,DATE,,,en,1.0
+Pyeongtaek Port,Pyeongtaek Port,FAC,,,en,1.0
+each year,each year,DATE,,,en,1.0
+the afternoon of the 26th of last month,the afternoon of the 26th of last month,TIME,,,en,1.0
+"2,531","2,531",CARDINAL,,,en,1.0
+446,446,CARDINAL,,,en,1.0
+up to one year,up to one year,DATE,,,en,1.0
+"3,551","3,551",CARDINAL,,,en,1.0
+Ieodo Base,Ieodo Base,FAC,,,en,1.0
+Korean Peninsula Super Typhoon Warning,Korean Peninsula Super Typhoon Warning,WORK_OF_ART,,,en,1.0
 "40,000","40,000",CARDINAL,,,en,1.0
+"255,000","255,000",CARDINAL,,,en,1.0
 15 to 29,15 to 29,DATE,,,en,1.0
+less than a minute,less than a minute,TIME,,,en,1.0
+the South American,the South American,NORP,,,en,1.0
+about 2 cm,about 2 cm,QUANTITY,,,en,1.0
+90 minutes,90 minutes,TIME,,,en,1.0
 one year and five months,one year and five months,DATE,,,en,1.0
+June 26,June 26,DATE,,,en,1.0
+Frame War,Frame War,EVENT,,,en,1.0
 French,French,NORP,,,en,1.0
 A day,A day,DATE,,,en,1.0
 21st-century,21st-century,DATE,,,en,1.0
-11 days in a row,11 days in a row,DATE,,,en,1.0
+32,32,CARDINAL,,,en,1.0
 11 a.m.,11 a.m.,TIME,,,en,1.0
 the Czech World Cup,the Czech World Cup,EVENT,,,en,1.0
-Beep beep,Beep beep,WORK_OF_ART,,,en,1.0
-World Cup',World Cup',EVENT,,,en,1.0
-the World Cup street viewing event,the World Cup street viewing event,EVENT,,,en,1.0
-New Forest Wealth of a Nation Theory',New Forest Wealth of a Nation Theory',WORK_OF_ART,,,en,1.0
-Cheering for the Czech Republic,Cheering for the Czech Republic,WORK_OF_ART,,,en,1.0
-nearly a year,nearly a year,DATE,,,en,1.0
-453,453,CARDINAL,,,en,1.0
-803,803,CARDINAL,,,en,1.0
-July 16th to 20th,July 16th to 20th,DATE,,,en,1.0
-up to 380 mm,up to 380 mm,QUANTITY,,,en,1.0
-mid-July,mid-July,DATE,,,en,1.0
-at least 41,at least 41,CARDINAL,,,en,1.0
-the previous day,the previous day,DATE,,,en,1.0
-At least 41,At least 41,CARDINAL,,,en,1.0
-the hot summer months,the hot summer months,DATE,,,en,1.0
-June 9,June 9,DATE,,,en,1.0
-Daejeon City Hall Station,Daejeon City Hall Station,FAC,,,en,1.0
-morning,morning,TIME,,,en,1.0
-a spring day,a spring day,DATE,,,en,1.0
-"255,000","255,000",CARDINAL,,,en,1.0
-Korean Peninsula Super Typhoon Warning,Korean Peninsula Super Typhoon Warning,WORK_OF_ART,,,en,1.0
-Indra Wall,Indra Wall,FAC,,,en,1.0
-Ieodo Base,Ieodo Base,FAC,,,en,1.0
-memorial hall,memorial hall,FAC,,,en,1.0
-the temple hall,the temple hall,FAC,,,en,1.0
-last March,last March,DATE,,,en,1.0
+"up to 100,000","up to 100,000",CARDINAL,,,en,1.0
+about three months,about three months,DATE,,,en,1.0
+about 20 years,about 20 years,DATE,,,en,1.0
+7.2,7.2,CARDINAL,,,en,1.0
+15m,15m,QUANTITY,,,en,1.0
+2085,2085,CARDINAL,,,en,1.0
+November,November,DATE,,,en,1.0
+Shake,Shake,WORK_OF_ART,,,en,1.0
 Inwolsa Temple,Inwolsa Temple,FAC,,,en,1.0
+May 27,May 27,DATE,,,en,1.0
 around 4 p.m.,around 4 p.m.,TIME,,,en,1.0
 about 1 cm,about 1 cm,QUANTITY,,,en,1.0
 1 to 2 cm,1 to 2 cm,QUANTITY,,,en,1.0
 the afternoon of the 14th,the afternoon of the 14th,TIME,,,en,1.0
 2 cm,2 cm,QUANTITY,,,en,1.0
+Punching holes means communication,Punching holes means communication,WORK_OF_ART,,,en,1.0
+Buddhist,Buddhist,NORP,,,en,1.0
+Indra Wall,Indra Wall,FAC,,,en,1.0
+memorial hall,memorial hall,FAC,,,en,1.0
+the temple hall,the temple hall,FAC,,,en,1.0
+last March,last March,DATE,,,en,1.0
 Japanese,Japanese,NORP,,,en,1.0
+between the end of this year,between the end of this year,DATE,,,en,1.0
+four consecutive months,four consecutive months,DATE,,,en,1.0
+7.1,7.1,CARDINAL,,,en,1.0
 his thirties,his thirties,DATE,,,en,1.0
 a month later,a month later,DATE,,,en,1.0
 Haneda Airport,Haneda Airport,FAC,,,en,1.0
@@ -359,22 +393,10 @@ Pemba,Pemba,WORK_OF_ART,0.125,0.385,en,1.0
 Unitree G1,Unitree G1,PRODUCT,,,en,1.0
 6200m,6200m,QUANTITY,,,en,1.0
 the beginning of next year,the beginning of next year,DATE,,,en,1.0
-between the end of this year,between the end of this year,DATE,,,en,1.0
-November,November,DATE,,,en,1.0
-2085,2085,CARDINAL,,,en,1.0
-"2,531","2,531",CARDINAL,,,en,1.0
-446,446,CARDINAL,,,en,1.0
-up to one year,up to one year,DATE,,,en,1.0
-"3,551","3,551",CARDINAL,,,en,1.0
-Friday morning,Friday morning,TIME,,,en,1.0
-4 million,4 million,CARDINAL,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
-60%,60%,PERCENT,,,en,1.0
-5th,5th,ORDINAL,,,en,1.0
-35cm,35cm,QUANTITY,,,en,1.0
-Forest,Forest,WORK_OF_ART,0.0,0.0,en,1.0
-the end of April,the end of April,DATE,,,en,1.0
-66.9%,66.9%,PERCENT,,,en,1.0
+Last winter,Last winter,DATE,,,en,1.0
+2.1 million,2.1 million,CARDINAL,,,en,1.0
+Ioniq Drone Station,Ioniq Drone Station,FAC,,,en,1.0
+9 consecutive years,9 consecutive years,DATE,,,en,1.0
 "10,135","10,135",CARDINAL,,,en,1.0
 "6,781","6,781",CARDINAL,,,en,1.0
 only around 60%,only around 60%,PERCENT,,,en,1.0
@@ -382,24 +404,33 @@ previous years,previous years,DATE,,,en,1.0
 only 66%,only 66%,PERCENT,,,en,1.0
 Last year's,Last year's,DATE,,,en,1.0
 rainy season next month,rainy season next month,DATE,,,en,1.0
-90,90,CARDINAL,,,en,1.0
-7.4,7.4,CARDINAL,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
 only 67%,only 67%,PERCENT,,,en,1.0
-0.7 m,0.7 m,QUANTITY,,,en,1.0
 November 2024,November 2024,DATE,,,en,1.0
 Guntan Park,Guntan Park,FAC,0.0,0.25,en,1.0
 the Red Clay Road,the Red Clay Road,FAC,,,en,1.0
 Guntan Park Red Clay Road',Guntan Park Red Clay Road',FAC,,,en,1.0
-minutes,minutes,TIME,,,en,1.0
 the Hwangtot Road,the Hwangtot Road,FAC,,,en,1.0
-2026-2030,2026-2030,DATE,,,en,1.0
-9 consecutive years,9 consecutive years,DATE,,,en,1.0
 months,months,DATE,,,en,1.0
+16,16,CARDINAL,,,en,1.0
 6.1,6.1,CARDINAL,,,en,1.0
-the Synthetic Aperture Radar,the Synthetic Aperture Radar,PRODUCT,,,en,1.0
-every year,every year,DATE,,,en,1.0
-35 cm,35 cm,QUANTITY,,,en,1.0
-July 30th last year,July 30th last year,DATE,,,en,1.0
+1.3,1.3,CARDINAL,,,en,1.0
+7.4,7.4,CARDINAL,,,en,1.0
+March 2026,March 2026,DATE,,,en,1.0
+12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
+January,January,DATE,,,en,1.0
+"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
+March 30,March 30,DATE,,,en,1.0
+34%,34%,PERCENT,,,en,1.0
+"3,000","3,000",CARDINAL,,,en,1.0
+27,27,CARDINAL,,,en,1.0
+the past 30 days,the past 30 days,DATE,,,en,1.0
+3:59 pm,3:59 pm,TIME,,,en,1.0
+Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
+66.9%,66.9%,PERCENT,,,en,1.0
+the end of April,the end of April,DATE,,,en,1.0
+Forest,Forest,WORK_OF_ART,0.0,0.0,en,1.0
+35cm,35cm,QUANTITY,,,en,1.0
 Yeouido Park,Yeouido Park,FAC,,,en,1.0
 the 6th century,the 6th century,DATE,,,en,1.0
 33,33,CARDINAL,,,en,1.0
@@ -425,72 +456,102 @@ as few as dozens or as many as hundreds,as few as dozens or as many as hundreds,
 Alaskan,Alaskan,NORP,,,en,1.0
 Dozens,Dozens,CARDINAL,,,en,1.0
 hundreds of meters,hundreds of meters,QUANTITY,,,en,1.0
-1.3,1.3,CARDINAL,,,en,1.0
-March 2026,March 2026,DATE,,,en,1.0
-27 degrees,27 degrees,QUANTITY,,,en,1.0
-around 4:10 p.m. on the 27th,around 4:10 p.m. on the 27th,TIME,,,en,1.0
+July 30th last year,July 30th last year,DATE,,,en,1.0
+35 cm,35 cm,QUANTITY,,,en,1.0
+the Synthetic Aperture Radar,the Synthetic Aperture Radar,PRODUCT,,,en,1.0
+5th,5th,ORDINAL,,,en,1.0
+exhibition&mid,exhibition&mid,WORK_OF_ART,,,en,1.0
+nearly 70%,nearly 70%,PERCENT,,,en,1.0
+the Uruk Canal,the Uruk Canal,FAC,,,en,1.0
+about 50,about 50,CARDINAL,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+the year,the year,DATE,,,en,1.0
+Every year,Every year,DATE,,,en,1.0
+April 28th,April 28th,DATE,,,en,1.0
+around 6:58 p.m.,around 6:58 p.m.,TIME,,,en,1.0
+the afternoon of the 22nd,the afternoon of the 22nd,TIME,,,en,1.0
+2022,2022,DATE,,,en,1.0
+about 40,about 40,CARDINAL,,,en,1.0
+Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
+2026-2030,2026-2030,DATE,,,en,1.0
+minutes,minutes,TIME,,,en,1.0
+0.7 m,0.7 m,QUANTITY,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+6:10 a.m.,6:10 a.m.,TIME,,,en,1.0
+about 20,about 20,CARDINAL,,,en,1.0
+70%,70%,PERCENT,,,en,1.0
+Around 6:50 p.m. on the 21st,Around 6:50 p.m. on the 21st,TIME,,,en,1.0
+approximately 6:50 p.m.,approximately 6:50 p.m.,TIME,,,en,1.0
+'2026,'2026,DATE,,,en,1.0
+0.2,0.2,CARDINAL,,,en,1.0
+3.1,3.1,CARDINAL,,,en,1.0
+138 minutes → 51 minutes,138 minutes → 51 minutes,TIME,,,en,1.0
+last Thursday,last Thursday,DATE,,,en,1.0
+a spring day,a spring day,DATE,,,en,1.0
+morning,morning,TIME,,,en,1.0
+Beep beep,Beep beep,WORK_OF_ART,,,en,1.0
+2:30 p.m.,2:30 p.m.,TIME,,,en,1.0
+the Press Center,the Press Center,FAC,,,en,1.0
+18th,18th,ORDINAL,,,en,1.0
+the 16th,the 16th,DATE,,,en,1.0
+Sinjin Port,Sinjin Port,FAC,,,en,1.0
+10:30 am,10:30 am,TIME,,,en,1.0
+3 hours,3 hours,TIME,,,en,1.0
+all morning,all morning,TIME,,,en,1.0
+more than several weeks,more than several weeks,DATE,,,en,1.0
+"6,142","6,142",CARDINAL,,,en,1.0
+the 1st of next month,the 1st of next month,DATE,,,en,1.0
+Le Space Season,Le Space Season,EVENT,,,en,1.0
+the Inspire Entertainment Resort,the Inspire Entertainment Resort,FAC,,,en,1.0
+'Le Space','Le Space',WORK_OF_ART,,,en,1.0
+The Inspire exhibition hall,The Inspire exhibition hall,WORK_OF_ART,,,en,1.0
 season 2,season 2,DATE,,,en,1.0
 FutureNet,FutureNet,PRODUCT,,,en,1.0
 15 degrees,15 degrees,QUANTITY,,,en,1.0
 17 to 23 degrees,17 to 23 degrees,QUANTITY,,,en,1.0
 Thursday the 30th,Thursday the 30th,DATE,,,en,1.0
-28,28,CARDINAL,,,en,1.0
 The last day of April,The last day of April,DATE,,,en,1.0
 Intervention in presidential election,Intervention in presidential election,WORK_OF_ART,,,en,1.0
 Development of hometown with mother and daughter-in-law,Development of hometown with mother and daughter-in-law,WORK_OF_ART,,,en,1.0
-Sinjin Port,Sinjin Port,FAC,,,en,1.0
 around 5:40 p.m.,around 5:40 p.m.,TIME,,,en,1.0
 156,156,CARDINAL,,,en,1.0
+around 4:10 p.m. on the 27th,around 4:10 p.m. on the 27th,TIME,,,en,1.0
 38.92,38.92,CARDINAL,,,en,1.0
-12.3-12.7,12.3-12.7,QUANTITY,,,en,1.0
 9.44 billion,9.44 billion,MONEY,,,en,1.0
-10:30 am,10:30 am,TIME,,,en,1.0
 about 13,about 13,CARDINAL,,,en,1.0
-3 hours,3 hours,TIME,,,en,1.0
 approximately 1:53 p.m.,approximately 1:53 p.m.,TIME,,,en,1.0
 67,67,CARDINAL,,,en,1.0
 around 1:12 p.m.,around 1:12 p.m.,TIME,,,en,1.0
-all morning,all morning,TIME,,,en,1.0
-the second half,the second half,DATE,,,en,1.0
-the Tongil-ro Memorial Park,the Tongil-ro Memorial Park,FAC,,,en,1.0
-Friends of Mountains and Nature,Friends of Mountains and Nature,WORK_OF_ART,,,en,1.0
 around 5:33 p.m.,around 5:33 p.m.,TIME,,,en,1.0
-The Inspire exhibition hall,The Inspire exhibition hall,WORK_OF_ART,,,en,1.0
-'Le Space','Le Space',WORK_OF_ART,,,en,1.0
-the Inspire Entertainment Resort,the Inspire Entertainment Resort,FAC,,,en,1.0
-Le Space Season,Le Space Season,EVENT,,,en,1.0
-Future M Nature Guard Day',Future M Nature Guard Day',WORK_OF_ART,,,en,1.0
-January,January,DATE,,,en,1.0
-about 40,about 40,CARDINAL,,,en,1.0
-2022,2022,DATE,,,en,1.0
-the afternoon of the 22nd,the afternoon of the 22nd,TIME,,,en,1.0
-"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
-March 30,March 30,DATE,,,en,1.0
-34%,34%,PERCENT,,,en,1.0
-"3,000","3,000",CARDINAL,,,en,1.0
-27,27,CARDINAL,,,en,1.0
-the past 30 days,the past 30 days,DATE,,,en,1.0
-3rd,3rd,ORDINAL,,,en,1.0
-around 6:58 p.m.,around 6:58 p.m.,TIME,,,en,1.0
-3:59 pm,3:59 pm,TIME,,,en,1.0
-Korea Satellite No,Korea Satellite No,WORK_OF_ART,,,en,1.0
-exhibition&mid,exhibition&mid,WORK_OF_ART,,,en,1.0
-April 28th,April 28th,DATE,,,en,1.0
-16,16,CARDINAL,,,en,1.0
-Every year,Every year,DATE,,,en,1.0
-nearly 70%,nearly 70%,PERCENT,,,en,1.0
-70%,70%,PERCENT,,,en,1.0
-more than several weeks,more than several weeks,DATE,,,en,1.0
-"6,142","6,142",CARDINAL,,,en,1.0
-the year,the year,DATE,,,en,1.0
-the 1st of next month,the 1st of next month,DATE,,,en,1.0
+last December,last December,DATE,,,en,1.0
+Friends of Mountains and Nature,Friends of Mountains and Nature,WORK_OF_ART,,,en,1.0
+the Tongil-ro Memorial Park,the Tongil-ro Memorial Park,FAC,,,en,1.0
+the second half,the second half,DATE,,,en,1.0
 6 to 12 degrees,6 to 12 degrees,QUANTITY,,,en,1.0
+27 degrees,27 degrees,QUANTITY,,,en,1.0
 9,9,CARDINAL,,,en,1.0
-4167m,4167m,QUANTITY,,,en,1.0
-April,April,DATE,,,en,1.0
+Gonjiam,Gonjiam,NORP,,,en,1.0
+Seoul Drum Festival,Seoul Drum Festival,EVENT,,,en,1.0
+"May 26, 2024","May 26, 2024",DATE,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+up to 8 hours,up to 8 hours,TIME,,,en,1.0
+"690,000 won","690,000 won",QUANTITY,,,en,1.0
+Sky Spike',Sky Spike',FAC,,,en,1.0
+May 20,May 20,DATE,,,en,1.0
+Frozen Border: Nyx,Frozen Border: Nyx,WORK_OF_ART,,,en,1.0
+one o'clock,one o'clock,TIME,,,en,1.0
+one day,one day,DATE,,,en,1.0
+the Jiri Mountain Trail,the Jiri Mountain Trail,FAC,,,en,1.0
+Mars Exploration Rover,Mars Exploration Rover,PRODUCT,,,en,1.0
+"1,300 km","1,300 km",QUANTITY,,,en,1.0
+1300km,1300km,QUANTITY,,,en,1.0
+Hwadam Forest',Hwadam Forest',FAC,,,en,1.0
+14 degrees,14 degrees,QUANTITY,,,en,1.0
+1 million to 2 million,1 million to 2 million,CARDINAL,,,en,1.0
+4 million,4 million,CARDINAL,,,en,1.0
+the 20th,the 20th,DATE,,,en,1.0
 1 million to 4 million,1 million to 4 million,MONEY,,,en,1.0
 010-7749,010-7749,CARDINAL,,,en,1.0
-2.1 million,2.1 million,CARDINAL,,,en,1.0
 December,December,DATE,,,en,1.0
 25,25,CARDINAL,,,en,1.0
 56,56,CARDINAL,,,en,1.0
@@ -500,10 +561,76 @@ the Daegu Citizen Health Playground,the Daegu Citizen Health Playground,FAC,,,en
 57,57,CARDINAL,,,en,1.0
 5 days,5 days,DATE,,,en,1.0
 the middle of this year,the middle of this year,DATE,,,en,1.0
+two years,two years,DATE,,,en,1.0
+every two weeks,every two weeks,DATE,,,en,1.0
+these days,these days,DATE,,,en,1.0
+This summer,This summer,DATE,,,en,1.0
+34.8 degrees,34.8 degrees,QUANTITY,,,en,1.0
+34.7 degrees,34.7 degrees,QUANTITY,,,en,1.0
+352,352,CARDINAL,,,en,1.0
+between 2 p.m. and 5 p.m.,between 2 p.m. and 5 p.m.,TIME,,,en,1.0
+the 1st to the 12th of next month,the 1st to the 12th of next month,DATE,,,en,1.0
+two weeks,two weeks,DATE,,,en,1.0
+18.7,18.7,CARDINAL,,,en,1.0
+the average year,the average year,DATE,,,en,1.0
+wave days,wave days,DATE,,,en,1.0
+25.7,25.7,CARDINAL,,,en,1.0
+The summer of 2025,The summer of 2025,DATE,,,en,1.0
+6010m,6010m,QUANTITY,,,en,1.0
+50 minutes,50 minutes,TIME,,,en,1.0
+2007,2007,DATE,,,en,1.0
+early summer,early summer,DATE,,,en,1.0
+15 minutes,15 minutes,TIME,,,en,1.0
+Podcast,Podcast,WORK_OF_ART,,,en,1.0
+May 26th,May 26th,DATE,,,en,1.0
+48,48,CARDINAL,,,en,1.0
+around 12:29 p.m. on the 25th,around 12:29 p.m. on the 25th,TIME,,,en,1.0
+63%,63%,PERCENT,,,en,1.0
+New Forest Wealth of a Nation Theory',New Forest Wealth of a Nation Theory',WORK_OF_ART,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+4167m,4167m,QUANTITY,,,en,1.0
+Moroccan,Moroccan,NORP,,,en,1.0
+"approximately 2,500 km","approximately 2,500 km",QUANTITY,,,en,1.0
+up to four,up to four,CARDINAL,,,en,1.0
+the 23rd,the 23rd,DATE,,,en,1.0
+seven,seven,CARDINAL,,,en,1.0
+April,April,DATE,,,en,1.0
 2 degrees,2 degrees,QUANTITY,,,en,1.0
-Golfzon Tower,Golfzon Tower,FAC,,,en,1.0
 the end of the year,the end of the year,DATE,,,en,1.0
+Facebook,Facebook,PRODUCT,,,en,1.0
+the third day,the third day,DATE,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+the Yeonhacheon Shelter,the Yeonhacheon Shelter,FAC,,,en,1.0
+1 a.m.,1 a.m.,TIME,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+Sindaebang Bridge 1,Sindaebang Bridge 1,FAC,,,en,1.0
+July 17 last year,July 17 last year,DATE,,,en,1.0
+1.04 billion tons,1.04 billion tons,QUANTITY,,,en,1.0
+the Dongbu Main Road,the Dongbu Main Road,FAC,,,en,1.0
+Wolgye 1 Bridge,Wolgye 1 Bridge,FAC,,,en,1.0
+one month,one month,DATE,,,en,1.0
+100,100,CARDINAL,,,en,1.0
+May 15 to October 15,May 15 to October 15,DATE,,,en,1.0
+May 14,May 14,DATE,,,en,1.0
+April 15,April 15,DATE,,,en,1.0
+the 4th week,the 4th week,DATE,,,en,1.0
+the afternoon of the 11th,the afternoon of the 11th,TIME,,,en,1.0
+the past 11 years,the past 11 years,DATE,,,en,1.0
+May to September,May to September,DATE,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+AI)-based,AI)-based,CARDINAL,,,en,1.0
+73,73,CARDINAL,,,en,1.0
+only about 500 meters,only about 500 meters,QUANTITY,,,en,1.0
+the past 50 years,the past 50 years,DATE,,,en,1.0
+the 1970s,the 1970s,DATE,,,en,1.0
+the Korean War,the Korean War,EVENT,,,en,1.0
+just half a century ago,just half a century ago,DATE,,,en,1.0
+15 to 20,15 to 20,CARDINAL,,,en,1.0
+24 degrees,24 degrees,QUANTITY,,,en,1.0
+A typhoon in a teacup with no room left.,A typhoon in a teacup with no room left.,WORK_OF_ART,,,en,1.0
+a media day,a media day,DATE,,,en,1.0
 the beginning of the year,the beginning of the year,DATE,,,en,1.0
+Gwangnaru Park,Gwangnaru Park,FAC,,,en,1.0
 350,350,CARDINAL,,,en,1.0
 23,23,CARDINAL,,,en,1.0
 January 20th,January 20th,DATE,,,en,1.0
@@ -514,69 +641,10 @@ midday,midday,TIME,,,en,1.0
 this weekend,this weekend,DATE,,,en,1.0
 7 am on the 12th,7 am on the 12th,TIME,,,en,1.0
 third,third,ORDINAL,,,en,1.0
-the 20th,the 20th,DATE,,,en,1.0
-last December,last December,DATE,,,en,1.0
-1 million to 2 million,1 million to 2 million,CARDINAL,,,en,1.0
-Hwadam Forest',Hwadam Forest',FAC,,,en,1.0
-Moroccan,Moroccan,NORP,,,en,1.0
-"approximately 2,500 km","approximately 2,500 km",QUANTITY,,,en,1.0
-up to four,up to four,CARDINAL,,,en,1.0
-the 23rd,the 23rd,DATE,,,en,1.0
-seven,seven,CARDINAL,,,en,1.0
-This summer,This summer,DATE,,,en,1.0
-these days,these days,DATE,,,en,1.0
-every two weeks,every two weeks,DATE,,,en,1.0
-two years,two years,DATE,,,en,1.0
-Seoul Drum Festival,Seoul Drum Festival,EVENT,,,en,1.0
-"May 26, 2024","May 26, 2024",DATE,,,en,1.0
-Brazilian,Brazilian,NORP,,,en,1.0
-up to 8 hours,up to 8 hours,TIME,,,en,1.0
-"690,000 won","690,000 won",QUANTITY,,,en,1.0
-Sky Spike',Sky Spike',FAC,,,en,1.0
-0.2,0.2,CARDINAL,,,en,1.0
-May 20,May 20,DATE,,,en,1.0
-Frozen Border: Nyx,Frozen Border: Nyx,WORK_OF_ART,,,en,1.0
-one o'clock,one o'clock,TIME,,,en,1.0
-one day,one day,DATE,,,en,1.0
-the Jiri Mountain Trail,the Jiri Mountain Trail,FAC,,,en,1.0
-Mars Exploration Rover,Mars Exploration Rover,PRODUCT,,,en,1.0
-"1,300 km","1,300 km",QUANTITY,,,en,1.0
-1300km,1300km,QUANTITY,,,en,1.0
-Gonjiam,Gonjiam,NORP,,,en,1.0
 five years this year,five years this year,DATE,,,en,1.0
+Golfzon Tower,Golfzon Tower,FAC,,,en,1.0
 about 60,about 60,CARDINAL,,,en,1.0
-14 degrees,14 degrees,QUANTITY,,,en,1.0
-the afternoon of the 11th,the afternoon of the 11th,TIME,,,en,1.0
-July 17 last year,July 17 last year,DATE,,,en,1.0
-1.04 billion tons,1.04 billion tons,QUANTITY,,,en,1.0
-about 50,about 50,CARDINAL,,,en,1.0
-the Dongbu Main Road,the Dongbu Main Road,FAC,,,en,1.0
-Wolgye 1 Bridge,Wolgye 1 Bridge,FAC,,,en,1.0
-the past 30 years,the past 30 years,DATE,,,en,1.0
-one month,one month,DATE,,,en,1.0
-100,100,CARDINAL,,,en,1.0
-May 15 to October 15,May 15 to October 15,DATE,,,en,1.0
-May 14,May 14,DATE,,,en,1.0
-April 15,April 15,DATE,,,en,1.0
-the 4th week,the 4th week,DATE,,,en,1.0
-the past 11 years,the past 11 years,DATE,,,en,1.0
 Golf Zone Pastel Choir,Golf Zone Pastel Choir,WORK_OF_ART,,,en,1.0
-May to September,May to September,DATE,,,en,1.0
-17,17,CARDINAL,,,en,1.0
-AI)-based,AI)-based,CARDINAL,,,en,1.0
-73,73,CARDINAL,,,en,1.0
-only about 500 meters,only about 500 meters,QUANTITY,,,en,1.0
-6:10 a.m.,6:10 a.m.,TIME,,,en,1.0
-the past 50 years,the past 50 years,DATE,,,en,1.0
-the 1970s,the 1970s,DATE,,,en,1.0
-the Korean War,the Korean War,EVENT,,,en,1.0
-just half a century ago,just half a century ago,DATE,,,en,1.0
-15 to 20,15 to 20,CARDINAL,,,en,1.0
-24 degrees,24 degrees,QUANTITY,,,en,1.0
-Sindaebang Bridge 1,Sindaebang Bridge 1,FAC,,,en,1.0
-six,six,CARDINAL,,,en,1.0
-1 a.m.,1 a.m.,TIME,,,en,1.0
-the Yeonhacheon Shelter,the Yeonhacheon Shelter,FAC,,,en,1.0
 Swing Your Dream,Swing Your Dream,WORK_OF_ART,,,en,1.0
 November this year,November this year,DATE,,,en,1.0
 more than three months,more than three months,DATE,,,en,1.0
@@ -584,8 +652,6 @@ more than 2 degrees,more than 2 degrees,CARDINAL,,,en,1.0
 this fall,this fall,DATE,,,en,1.0
 the hottest year,the hottest year,DATE,,,en,1.0
 Squid Game,Squid Game,WORK_OF_ART,,,en,1.0
-'2026,'2026,DATE,,,en,1.0
-approximately 6:50 p.m.,approximately 6:50 p.m.,TIME,,,en,1.0
 48 hours,48 hours,TIME,,,en,1.0
 "about 42,000","about 42,000",CARDINAL,,,en,1.0
 "approximately 240,000","approximately 240,000",CARDINAL,,,en,1.0
@@ -594,12 +660,4 @@ approximately 6:50 p.m.,approximately 6:50 p.m.,TIME,,,en,1.0
 "8,955,106","8,955,106",CARDINAL,,,en,1.0
 "1,487,374","1,487,374",CARDINAL,,,en,1.0
 Gangseo Park,Gangseo Park,FAC,,,en,1.0
-Gwangnaru Park,Gwangnaru Park,FAC,,,en,1.0
-a media day,a media day,DATE,,,en,1.0
-Around 6:50 p.m. on the 21st,Around 6:50 p.m. on the 21st,TIME,,,en,1.0
-Facebook,Facebook,PRODUCT,,,en,1.0
-A typhoon in a teacup with no room left.,A typhoon in a teacup with no room left.,WORK_OF_ART,,,en,1.0
-about 20,about 20,CARDINAL,,,en,1.0
-the third day,the third day,DATE,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-four consecutive months,four consecutive months,DATE,,,en,1.0
+43,43,CARDINAL,,,en,1.0
