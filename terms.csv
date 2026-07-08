@@ -35,6 +35,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3249096239483273,3,1,ko,EAS,Asia
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.3188275591019813,2,2,ko,NEU,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
+'fc89d99879',extremes,Heat Wave,#c40202,wmo,폭염 attawapiskat fort Albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.3010377238105338,0,1,ko,NEN,North-America
+'83923f83ef',extremes,Storm,#b3b2b1,wmo,폭풍 호주,2026-06-26T06:36:00+00:00,Australia,0.3007896847642597,0,1,ko,CAU,Oceania
+'66fc7fe556',extremes,Heat Wave,#c40202,wmo,폭염 afar gambala,2026-07-07T06:30:00+00:00,Ethiopia,0.3004373924741479,0,1,ko,NEAF,Africa
+'70773b5956',extremes,Earthquake,#870007,usgs,알래스카 지진,2026-06-27T06:08:00+00:00,Alaska,0.3001888404048114,0,1,ko,NPO,Pacific Ocean
+'03f33e230d',extremes,Earthquake,#870007,usgs,지진 칠레,2026-06-27T06:08:00+00:00,Chile,0.29947755596374803,0,1,ko,SWS,South-America
+'8db658717e',extremes,Flood,#030ba1,wmo,플래시플러드 오스트레일리아,2026-06-26T06:36:00+00:00,Australia,0.29928330119996716,0,1,ko,CAU,Oceania
+'9e04699981',extremes,Precipitation,#d60d2b,wmo,타라루아 산맥에 비,2026-06-19T07:39:00+00:00,New Zealand,0.2989687318734761,0,1,ko,NZ,Oceania
+'d19a2e53e5',extremes,Heat Wave,#c40202,wmo,폭염 몰도바,2026-06-27T06:08:00+00:00,Moldova,0.29891024972022123,0,1,ko,WCE,Europe
+'8b533aa307',extremes,Thunderstorm,#53785a,wmo,악천후 미국,2026-07-01T06:52:00+00:00,United States,0.2989064600463255,0,1,ko,CNA,North-America
+'9888bfded3',extremes,Tropical Cyclone,#4f4f4f,wmo,홍콩의 열대 저기압,2026-07-02T06:24:00+00:00,Hong Kong,0.29885652545247565,0,1,ko,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-06-18T07:16:00+00:00,,0.2860778536913033,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-06-25T06:32:00+00:00,,0.285220255005163,2,1,ko,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,눈 진창,2026-06-06T06:08:00+00:00,,0.2844891298909957,2,1,ko,,
