@@ -35,6 +35,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,산사태,2026-06-20T06:46:00+00:00,,0.3186586521342843,2,1,ko,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
+'d77b825e5b',extremes,Flood,#030ba1,wmo,홍수 캐나다,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,ko,NEN,North-America
+'95b5264574',extremes,Heat Wave,#c40202,wmo,캐나다 폭염,2026-07-01T06:52:00+00:00,Canada,0.30228265174506186,0,1,ko,NEN,North-America
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,밤 서리,2026-07-03T06:09:00+00:00,,0.3018136238275567,0,1,ko,,
+'72fa239364',extremes,Precipitation,#d60d2b,wmo,폭우가 쏟아진다,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,ko,NCA,North-America
+'66a3eabe76',extremes,Earthquake,#870007,usgs,지진 모리셔스,2026-07-08T05:37:00+00:00,Mauritius,0.299401712153094,0,1,ko,SIO,Indian Ocean
+'8710bd49ea',extremes,Earthquake,#870007,usgs,심각한 지진 발생 쿠릴스크,2026-06-28T06:44:00+00:00,Russia,0.299081479244496,0,1,ko,NPO,Pacific Ocean
+'8042bf38e0',extremes,Thunderstorm,#53785a,wmo,칸티 만시 자치구 만세,2026-07-10T06:27:00+00:00,Russia,0.29892520284664953,0,1,ko,ESB,Europe
+'af786d008e',extremes,Wildfire,#d60d2b,wmo,산불 크라스노다르 크라이,2026-07-03T06:09:00+00:00,Russia,0.2988873117563796,0,1,ko,ESB,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,폭풍 사우디 아라비아,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2988491148116897,0,1,ko,ARP,Asia
+'52a2fddad0',extremes,Wildfire,#d60d2b,wmo,산불 알타이 공화국,2026-06-26T06:36:00+00:00,Russia,0.29884536620924884,0,1,ko,ESB,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-25T06:32:00+00:00,,0.2869600471753973,2,1,ko,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-07-08T05:37:00+00:00,,0.2852244121606296,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-06-25T06:32:00+00:00,,0.285220255005163,2,1,ko,,
@@ -61,7 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,아르헨티나 얼음,2026-06-30T06:39:00+00:00,Argentina,0.2609463626468715,1,1,ko,SES,South-America
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,얼다,2026-06-11T07:14:00+00:00,,0.2603873399021119,2,1,ko,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,폭풍 에콰도르,2026-07-04T05:59:00+00:00,Ecuador,0.2598343069991708,1,1,ko,NWS,South-America
-'45500dcb47',extremes,Precipitation,#d60d2b,random,기록적인 강수량,2026-07-05T06:24:00+00:00,,0.25964505822183254,2,1,ko,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,기록적인 강수량,2026-07-05T06:24:00+00:00,,0.2596450582218325,2,1,ko,,
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,폭풍 해일 뉴질랜드,2026-07-03T06:09:00+00:00,New Zealand,0.2591407868450952,1,1,ko,NZ,Oceania
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,폭염 알제리,2026-07-09T06:27:00+00:00,Algeria,0.2589206119355987,1,1,ko,SAH,Africa
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,폭풍 해일 솔로몬 제도,2026-07-01T06:52:00+00:00,Solomon Islands,0.2587582510258328,1,1,ko,EPO,Oceania
