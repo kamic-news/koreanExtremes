@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-06-26T06:36:00+00:00,South Korea,0.3696324709768515,2,1,ko,EAS,Asia
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-06-20T06:47:00+00:00,North Korea,0.3695930262109809,3,1,ko,EAS,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3689487275955446,2,2,ko,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-07-03T06:09:00+00:00,,0.36354266581964506,0,1,ko,,
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-06-12T07:05:00+00:00,South Korea,0.360262459611232,2,1,ko,EAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-06-12T07:05:00+00:00,,0.3599488717804078,4,2,ko,,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,프랑스 폭염,2026-07-04T05:59:00+00:00,France,0.3474320152763637,2,1,ko,WCE,Europe
@@ -33,19 +32,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,미국 산불,2026-06-06T06:08:00+00:00,United States,0.3302126666434846,2,2,ko,CNA,North-America
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-06-12T07:05:00+00:00,,0.3272575393774705,3,1,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-06-19T07:39:00+00:00,North Korea,0.3249096239483273,3,1,ko,EAS,Asia
-'3e4b341619',extremes,Storm,#b3b2b1,random,폭풍우,2026-07-02T06:23:00+00:00,,0.32278699770650066,0,1,ko,,
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.3188275591019813,2,2,ko,NEU,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,산사태,2026-06-20T06:46:00+00:00,,0.3186586521342843,2,1,ko,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-07-03T06:09:00+00:00,,0.30901126594669825,1,1,ko,,
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,허리케인 필리핀,2026-06-23T06:33:00+00:00,Philippines,0.3071944590274551,0,1,ko,SEA,Asia
-'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,폭우 키토,2026-07-11T05:27:00+00:00,Ecuador,0.30669448746527783,0,1,ko,NWS,South-America
+'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,폭우 키토,2026-07-11T05:27:00+00:00,Ecuador,0.3066944874652778,0,1,ko,NWS,South-America
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,폭풍 바누아투,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ko,SPO,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,폭풍 해일 자메이카,2026-07-02T06:24:00+00:00,Jamaica,0.3040747395767833,0,1,ko,CAR,North-America
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,폭염 포르투갈,2026-07-10T06:27:00+00:00,Portugal,0.3026543076533438,0,1,ko,MED,Europe
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,폭염 에티오피아,2026-07-08T05:37:00+00:00,Ethiopia,0.3015344283389052,0,1,ko,NEAF,Africa
-'62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,폭우 hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.30106401923693504,0,1,ko,NCA,North-America
-'5834c8ea07',extremes,Precipitation,#d60d2b,wmo,키토에 폭우,2026-07-11T05:27:00+00:00,Ecuador,0.30103293942760007,0,1,ko,NWS,South-America
+'62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,폭우 hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.301064019236935,0,1,ko,NCA,North-America
+'5834c8ea07',extremes,Precipitation,#d60d2b,wmo,키토에 폭우,2026-07-11T05:27:00+00:00,Ecuador,0.3010329394276,0,1,ko,NWS,South-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-25T06:32:00+00:00,,0.2869600471753973,2,1,ko,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,가장 추운 날,2026-07-08T05:37:00+00:00,,0.2852244121606296,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-06-25T06:32:00+00:00,,0.285220255005163,2,1,ko,,
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,증발산,2026-07-08T05:37:00+00:00,,0.2765722194271383,2,1,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.2757132653345808,3,1,ko,,
 'b6cef22543',extremes,Drought,#edc291,random,물 제한,2026-07-01T06:52:00+00:00,,0.2745267957937902,2,1,ko,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,폭풍우,2026-07-02T06:23:00+00:00,,0.27451896305052553,1,1,ko,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,눈보라,2026-06-14T07:06:00+00:00,,0.2739896636843384,2,1,ko,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,열대성 폭풍,2026-06-13T06:38:00+00:00,,0.2732795090696418,2,1,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-15T08:36:00+00:00,,0.2732495061127638,3,1,ko,,
