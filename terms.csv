@@ -35,12 +35,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-07-12T05:43:00+00:00,,0.3216372627364868,2,1,ko,,
 'f37139fe2d',extremes,Landslide,#572c03,random,산사태,2026-06-20T06:46:00+00:00,,0.3186586521342843,2,1,ko,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
+'b3e00f492f',extremes,Drought,#edc291,edo,가뭄 벨리즈,2026-07-13T05:53:00+00:00,Belize,0.3075088751705788,0,1,ko,SCA,North-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,폭우 브라질,2026-07-06T06:52:00+00:00,Brazil,0.30708816277938294,0,1,ko,SAM,South-America
+'17065d269f',extremes,Drought,#edc291,edo,비 부족 온두라스,2026-07-07T06:30:00+00:00,Honduras,0.30675051048624585,0,1,ko,SCA,North-America
+'f3d653a8ff',extremes,Drought,#edc291,edo,건조함 코모로,2026-06-29T07:13:00+00:00,Comoros,0.30668204878765654,0,1,ko,ESAF,Africa
+'83f2a9deea',extremes,Drought,#edc291,edo,프랑스 건기,2026-06-26T06:36:00+00:00,France,0.30655584225402177,0,1,ko,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
+'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,집중호우,2026-07-13T05:53:00+00:00,Mexico,0.30595075917917014,0,1,ko,NCA,North-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,폭풍 브라질,2026-07-04T05:59:00+00:00,Brazil,0.30594289029330674,0,1,ko,SAM,South-America
+'8a654473a4',extremes,Drought,#edc291,edo,가뭄 상투메 프린시페,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.30586035350289437,0,1,ko,WAF,Africa
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,비 chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,ko,NCA,North-America
+'0a54633be0',extremes,Drought,#edc291,edo,비 부족 룩셈부르크,2026-06-23T06:33:00+00:00,Luxembourg,0.3051854686193789,0,1,ko,WCE,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-25T06:32:00+00:00,,0.2869600471753973,2,1,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-06-25T06:32:00+00:00,,0.285220255005163,2,1,ko,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,빙산 arctis,2026-07-05T06:24:00+00:00,,0.2846921206095223,2,1,ko,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,허리케인,2026-06-12T07:05:00+00:00,,0.2832778263687274,2,1,ko,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-07-11T05:26:00+00:00,,0.28257328108174534,2,1,ko,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-07-11T05:26:00+00:00,,0.2825732810817453,2,1,ko,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,기상전선,2026-06-28T06:44:00+00:00,,0.2822264372816114,2,1,ko,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,서리가 내리는 겨울,2026-06-29T07:12:00+00:00,,0.2820292829126428,2,1,ko,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,수은 방울,2026-07-10T06:27:00+00:00,,0.2816579629729382,2,1,ko,,
