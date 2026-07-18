@@ -45,6 +45,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,동결 등록. 11 파타고니아 수반디나 노르테,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ko,SWS,South-America
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,아이슬란드 북서쪽 폭풍,2026-07-15T05:15:00+00:00,Iceland,0.3024970925502759,0,1,ko,GIC,Europe
 '2433af70de',extremes,Storm,#b3b2b1,wmo,폭풍 해일 벨리즈,2026-07-07T06:30:00+00:00,Belize,0.3024205095705246,0,1,ko,SCA,North-America
+'195341cfcf',extremes,Wildfire,#d60d2b,wmo,산불 톰스크 지역,2026-07-15T05:15:00+00:00,Russia,0.3020085425281754,0,1,ko,ESB,Europe
+'6208652221',extremes,Wildfire,#d60d2b,wmo,산불 투바 공화국,2026-07-14T05:14:00+00:00,Russia,0.30180168276722974,0,1,ko,ESB,Europe
+'234a5c1f72',extremes,Storm,#b3b2b1,wmo,폭풍 해일 바누아투의 모든 바다.,2026-07-17T05:27:00+00:00,Vanuatu,0.3016392768505933,0,1,ko,SPO,Oceania
+'59ba4a4410',extremes,Wildfire,#d60d2b,wmo,크라스노야르스크 크라이의 산불 중심지,2026-07-12T05:43:00+00:00,Russia,0.3011466203482232,0,1,ko,ESB,Europe
+'e9fca89019',extremes,Storm,#b3b2b1,wmo,해안 및 연안 지역을 폭풍우로 몰아넣습니다.,2026-07-13T05:53:00+00:00,Belize,0.30091950969625414,0,1,ko,SCA,North-America
+'520d37d7b0',extremes,Fog,#d60d2b,wmo,안개 벨로루시,2026-07-12T05:43:00+00:00,Belarus,0.30085723601093584,0,1,ko,WCE,Europe
+'213b1f3ceb',extremes,Heat Wave,#c40202,wmo,폭염 한계,2026-07-09T06:27:00+00:00,Switzerland,0.30083740787514196,0,1,ko,WCE,Europe
+'5877d58b55',extremes,Fog,#d60d2b,wmo,안개 이바노보 지역,2026-07-12T05:43:00+00:00,Russia,0.30082377658830906,0,1,ko,ESB,Europe
+'0c65536a96',extremes,Heat Wave,#c40202,wmo,폭염 펠라고니아 지역,2026-07-16T05:25:00+00:00,North Macedonia,0.30080592647960824,0,1,ko,MED,Europe
+'3dea46c095',extremes,Flood,#030ba1,wmo,플래시플러드 미국,2026-07-04T05:59:00+00:00,United States,0.3007706620230949,0,1,ko,CNA,North-America
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.2926909838083781,3,1,ko,SAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-25T06:32:00+00:00,,0.2869600471753973,2,1,ko,,
