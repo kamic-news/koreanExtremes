@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-06-26T06:36:00+00:00,South Korea,0.3141876003303237,3,1,ko,EAS,Asia
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-07-16T05:25:00+00:00,South Korea,0.3130734556800347,2,1,ko,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,폭풍 칠레,2026-07-07T06:30:00+00:00,Chile,0.3031692334551374,0,1,ko,SWS,South-America
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,폭풍 해일 세이셸,2026-07-08T05:37:00+00:00,Seychelles,0.3030227607709381,0,1,ko,EIO,Africa
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,동결 등록. 11 파타고니아 수반디나 노르테,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ko,SWS,South-America
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,아이슬란드 북서쪽 폭풍,2026-07-15T05:15:00+00:00,Iceland,0.3024970925502759,0,1,ko,GIC,Europe
@@ -81,7 +80,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1956cfff74',extremes,Wildfire,#d60d2b,acwe,화재 금지 빅토리아,2026-07-17T05:27:00+00:00,Australia,0.2601442882827489,1,1,ko,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,홍수 빅토리아,2026-07-17T05:27:00+00:00,Australia,0.2597606323847885,1,1,ko,SAU,Oceania
 '45500dcb47',extremes,Precipitation,#d60d2b,random,기록적인 강수량,2026-07-05T06:24:00+00:00,,0.2596450582218325,2,1,ko,,
-'12775cc05a',extremes,Drought,#edc291,wmo,가뭄 브라질,2026-07-07T06:30:00+00:00,Brazil,0.25935420846778007,1,1,ko,SAM,South-America
+'12775cc05a',extremes,Drought,#edc291,wmo,가뭄 브라질,2026-07-07T06:30:00+00:00,Brazil,0.25935420846778,1,1,ko,SAM,South-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,폭풍 칠레,2026-07-07T06:30:00+00:00,Chile,0.25784386343686677,1,1,ko,SWS,South-America
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-07-14T05:14:00+00:00,,0.2571977814725733,2,1,ko,,
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,폭염 바소 모에사노,2026-07-10T06:27:00+00:00,Switzerland,0.2568810349885546,1,1,ko,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,폭풍 캐나다,2026-07-06T06:52:00+00:00,Canada,0.2567842862178909,1,1,ko,NEN,North-America
