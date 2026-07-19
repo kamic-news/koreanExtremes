@@ -41,6 +41,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-07-16T05:25:00+00:00,South Korea,0.3130734556800347,2,1,ko,EAS,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,하붑,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
+'499dfc6c4a',extremes,Storm,#b3b2b1,wmo,폭풍 해일 provincias de limarí y choapa,2026-07-18T05:10:00+00:00,Chile,0.30157668377871283,0,1,ko,SWS,South-America
+'87ce5fed51',extremes,Drought,#edc291,edo,건조함 몬테네그로,2026-07-18T05:10:00+00:00,Montenegro,0.30122474867794513,0,1,ko,MED,Europe
+'52e6ca3f85',extremes,Storm,#b3b2b1,wmo,폭풍 등록. 9개의 골짜기 세로,2026-07-15T05:15:00+00:00,Chile,0.3006487686073132,0,1,ko,SWS,South-America
+'404a3ce925',extremes,Fog,#d60d2b,wmo,안개 칼리닌그라드 지역,2026-07-16T05:25:00+00:00,Russia,0.30055027228100173,0,1,ko,ESB,Europe
+'c98bc7a289',extremes,Thunderstorm,#53785a,wmo,뇌우 덴마크,2026-07-12T05:43:00+00:00,Denmark,0.3004948844566216,0,1,ko,NEU,Europe
+'1c9dc747da',extremes,Drought,#edc291,edo,비 부족 쿠바,2026-07-04T05:59:00+00:00,Cuba,0.300475521874775,0,1,ko,CAR,North-America
+'fa4ab5ca41',extremes,Drought,#edc291,edo,건기 브루나이,2026-07-12T05:43:00+00:00,Brunei,0.3004727107237798,0,1,ko,SEA,Asia
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,폭풍 해일 해안 및 연안 지역.,2026-07-10T06:27:00+00:00,Belize,0.30045208026125425,0,1,ko,SCA,North-America
+'1faebe7ab7',extremes,Precipitation,#d60d2b,wmo,멕시코 비,2026-07-14T05:14:00+00:00,Mexico,0.30043976562838093,0,1,ko,NCA,North-America
+'136338a1d6',extremes,Precipitation,#d60d2b,wmo,집중호우 nl,2026-07-12T05:43:00+00:00,Mexico,0.30037650544984384,0,1,ko,NCA,North-America
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.2926909838083781,3,1,ko,SAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-25T06:32:00+00:00,,0.2869600471753973,2,1,ko,,
