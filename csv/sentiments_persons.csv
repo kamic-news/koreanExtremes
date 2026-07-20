@@ -3,57 +3,65 @@
 Kim Dong-yeon,Kim Dong-yeon,PERSON,-0.027027027027027032,0.1524024024024024,en,3.6999999999999997
 Choi Ki-young,Choi Ki-young,PERSON,0.053746928746928754,0.3030303030303031,en,3.6999999999999997
 Jeonnam Province,Jeonnam Province,PERSON,0.10204081632653061,0.313265306122449,en,3.5
-The Kyunghyang Shinmun,The Kyunghyang Shinmun,PERSON,0.0,0.0,en,2.8
 Delcy Rodriguez,Delcy Rodriguez,PERSON,0.05102040816326531,0.09566326530612246,en,2.8
+The Kyunghyang Shinmun,The Kyunghyang Shinmun,PERSON,0.0,0.0,en,2.8
+Choo Mi-ae,Choo Mi-ae,PERSON,-0.10714285714285715,0.32142857142857145,en,2.8
+Lee Jae-myung,Lee Jae-myung,PERSON,0.02736549165120594,0.13543599257884972,en,2.8
 El Nino,El Nino,PERSON,0.07188405797101449,0.5889855072463769,en,2.3
 Han Dong-hoon,Han Dong-hoon,PERSON,0.008722620662919171,0.08504555146346192,en,2.233333333333333
 Yi Sun,Yi Sun,PERSON,0.1706349206349206,0.2341269841269841,en,2.0
-Moon Jae,Moon Jae,PERSON,-0.2631578947368421,0.15789473684210525,en,1.9
-Lee Jae-myung,Lee Jae-myung,PERSON,0.010252904989747095,0.06049213943950786,en,1.9
+Nicolas Maduro,Nicolas Maduro,PERSON,-0.01644736842105263,0.12828947368421054,en,1.9
+Jeong Ji-yoon,Jeong Ji-yoon,PERSON,0.008771929824561401,0.42105263157894735,en,1.9
 Han Soobin,Han Soobin,PERSON,-0.15789473684210525,0.2105263157894737,en,1.9
+Naver Webtoon,Naver Webtoon,PERSON,0.0,0.0,en,1.9
+Maria Corina Machado,Maria Corina Machado,PERSON,0.07518796992481203,0.14097744360902256,en,1.9
+Moonhyeong Kim,Moonhyeong Kim,PERSON,0.0,0.3508771929824561,en,1.9
+Moon Jae,Moon Jae,PERSON,-0.2631578947368421,0.15789473684210525,en,1.9
+Yonhap News,Yonhap News,PERSON,-0.14035087719298245,0.35745614035087725,en,1.9
+OB Beer,OB Beer,PERSON,-0.3157894736842105,0.35964912280701755,en,1.9
 Kim Hyun-soo,Kim Hyun-soo,PERSON,-0.03289473684210526,0.1162280701754386,en,1.9
 Hwang Han-jae,Hwang Han-jae,PERSON,-0.026315789473684213,0.11403508771929825,en,1.9
+Han Subin,Han Subin,PERSON,0.17192982456140352,0.5899122807017544,en,1.9
 Byeong-moo Park,Byeong-moo Park,PERSON,0.0,0.0,en,1.9
-Naver Webtoon,Naver Webtoon,PERSON,0.0,0.0,en,1.9
-Jeong Ji-yoon,Jeong Ji-yoon,PERSON,0.008771929824561401,0.42105263157894735,en,1.9
-Nicolas Maduro,Nicolas Maduro,PERSON,-0.01644736842105263,0.12828947368421054,en,1.9
-Yonhap News,Yonhap News,PERSON,-0.14035087719298245,0.35745614035087725,en,1.9
 Taek-jin Kim,Taek-jin Kim,PERSON,0.0,0.0,en,1.9
-Moonhyeong Kim,Moonhyeong Kim,PERSON,0.0,0.3508771929824561,en,1.9
-Maria Corina Machado,Maria Corina Machado,PERSON,0.07518796992481203,0.14097744360902256,en,1.9
 Yeon Sang-ho,Yeon Sang-ho,PERSON,0.0,0.0,en,1.8
-Kyunghyang Shinmun,Kyunghyang Shinmun,PERSON,0.23529411764705885,0.4411764705882353,en,1.7
 Ulsan Changgyeong-KOSHA,Ulsan Changgyeong-KOSHA,PERSON,0.4835115864527629,0.7538621509209745,en,1.7
+Kyunghyang Shinmun,Kyunghyang Shinmun,PERSON,0.23529411764705885,0.4411764705882353,en,1.7
+Oh Tae-seok,Oh Tae-seok,PERSON,0.0,0.0,en,1.625
 Cheonwangbong Peak,Cheonwangbong Peak,PERSON,0.0,0.0,en,1.6
 Yi Sun-sin,Yi Sun-sin,PERSON,0.3164021164021164,0.564021164021164,en,1.5
 Donald Trump,Donald Trump,PERSON,0.0125,0.06666666666666668,en,1.3333333333333333
 Park Min-sik,Park Min-sik,PERSON,0.0,0.05625000000000001,en,1.333333333333333
 Kakao VX,Kakao VX,PERSON,0.0,0.0,en,1.2000000000000002
+Min Kyung-seon,Min Kyung-seon,PERSON,0.3941609977324263,0.7642290249433108,en,1.2
 Ha Jung-woo,Ha Jung-woo,PERSON,0.016697588126159558,0.09851576994434139,en,1.1666666666666665
 Gimpo Cheongsol Tree Ranch,Gimpo Cheongsol Tree Ranch,PERSON,0.29090909090909095,0.9272727272727272,en,1.1
-Lim Hyun-jin,Lim Hyun-jin,PERSON,0.0,0.0,en,1.0
-Song Byeong-hoon,Song Byeong-hoon,PERSON,-0.07500000000000001,0.4041666666666667,en,1.0
-Lee Sang-hong,Lee Sang-hong,PERSON,0.05000000000000002,0.5,en,1.0
-Namjoong Kim,Namjoong Kim,PERSON,0.5,1.0,en,1.0
-Lim Geun-bae,Lim Geun-bae,PERSON,0.0,0.0,en,1.0
 Lee Hwa-young,Lee Hwa-young,PERSON,-0.07500000000000001,0.4041666666666667,en,1.0
-Park Ji-hyeon,Park Ji-hyeon,PERSON,-0.1,0.1,en,1.0
-Santos City,Santos City,PERSON,-0.018749999999999996,0.21875,en,1.0
-Michael Freilich,Michael Freilich,PERSON,0.1,0.3,en,1.0
-[ZDNet Korea] Foreign,[ZDNet Korea] Foreign,PERSON,0.10277777777777776,0.4527777777777778,en,1.0
-Ban Ki-woong,Ban Ki-woong,PERSON,0.0,0.06666666666666667,en,1.0
-Half Andong,Half Andong,PERSON,0.006060606060606062,0.3090909090909091,en,1.0
 Jiyoon Jeong,Jiyoon Jeong,PERSON,0.0,0.0,en,1.0
-Han Soo-bin Heavy,Han Soo-bin Heavy,PERSON,-0.09675925925925927,0.26064814814814813,en,1.0
-Seongdong-gu Seongdong-gu,Seongdong-gu Seongdong-gu,PERSON,-0.5,0.5,en,1.0
-Xi Jinping,Xi Jinping,PERSON,0.0,0.0875,en,1.0
 Mark Carney,Mark Carney,PERSON,0.0,0.0875,en,1.0
-Han Soo-bin,Han Soo-bin,PERSON,-0.325,0.425,en,1.0
-Han Tae-sook,Han Tae-sook,PERSON,0.8,0.75,en,1.0
-Monk Jae-beom,Monk Jae-beom,PERSON,0.09999999999999999,0.3833333333333333,en,1.0
-Myeong-sik Kim,Myeong-sik Kim,PERSON,0.3333333333333333,0.4666666666666666,en,1.0
-Kim Moon-hyung,Kim Moon-hyung,PERSON,-0.3,0.4,en,1.0
+Xi Jinping,Xi Jinping,PERSON,0.0,0.0875,en,1.0
 Eunsong Kim,Eunsong Kim,PERSON,-0.3,0.4,en,1.0
+Kim Moon-hyung,Kim Moon-hyung,PERSON,-0.3,0.4,en,1.0
+Ban Ki-woong,Ban Ki-woong,PERSON,0.0,0.06666666666666667,en,1.0
+Seongdong-gu Seongdong-gu,Seongdong-gu Seongdong-gu,PERSON,-0.5,0.5,en,1.0
+Han Soo-bin Heavy,Han Soo-bin Heavy,PERSON,-0.09675925925925927,0.26064814814814813,en,1.0
+Monk Jae-beom,Monk Jae-beom,PERSON,0.09999999999999999,0.3833333333333333,en,1.0
+Song Byeong-hoon,Song Byeong-hoon,PERSON,-0.07500000000000001,0.4041666666666667,en,1.0
+Half Andong,Half Andong,PERSON,0.006060606060606062,0.3090909090909091,en,1.0
+[ZDNet Korea] Foreign,[ZDNet Korea] Foreign,PERSON,0.10277777777777776,0.4527777777777778,en,1.0
+Namjoong Kim,Namjoong Kim,PERSON,0.5,1.0,en,1.0
+Michael Freilich,Michael Freilich,PERSON,0.1,0.3,en,1.0
+Lee Sang-hong,Lee Sang-hong,PERSON,0.05000000000000002,0.5,en,1.0
+Santos City,Santos City,PERSON,-0.018749999999999996,0.21875,en,1.0
+Lim Hyun-jin,Lim Hyun-jin,PERSON,0.0,0.0,en,1.0
+Park Ji-hyeon,Park Ji-hyeon,PERSON,-0.1,0.1,en,1.0
+Lim Geun-bae,Lim Geun-bae,PERSON,0.0,0.0,en,1.0
+Gray Raven,Gray Raven,PERSON,0.39999999999999997,0.6,en,1.0
+Lee Jun-hwan,Lee Jun-hwan,PERSON,0.0,0.0,en,1.0
+Kim Gyu-sik,Kim Gyu-sik,PERSON,0.1,0.4,en,1.0
+Kim Tae-wook,Kim Tae-wook,PERSON,-0.08333333333333333,0.20833333333333331,en,1.0
+Garorim Bay,Garorim Bay,PERSON,0.0,0.0,en,1.0
+Kim Yong-ri,Kim Yong-ri,PERSON,-0.3333333333333333,0.6666666666666666,en,1.0
 Yonhap News Gyeonggi,Yonhap News Gyeonggi,PERSON,0.0,0.0,en,1.0
 King Danjong,King Danjong,PERSON,0.18333333333333335,0.31666666666666665,en,1.0
 Eom Heung-do,Eom Heung-do,PERSON,0.18333333333333335,0.31666666666666665,en,1.0
@@ -64,8 +72,8 @@ Delci Rodriguez,Delci Rodriguez,PERSON,0.0,0.0,en,1.0
 [Venezuela Gangjin],[Venezuela Gangjin],PERSON,0.0,0.0,en,1.0
 Kim Jeong-geun,Kim Jeong-geun,PERSON,-0.04375000000000001,0.55625,en,1.0
 Kwak Min-seo,Kwak Min-seo,PERSON,-0.22499999999999998,0.3875,en,1.0
-Kim Gyu-sik,Kim Gyu-sik,PERSON,0.1,0.4,en,1.0
 Julie Kozak,Julie Kozak,PERSON,0.0,0.0,en,1.0
+Seonghwan Kim,Seonghwan Kim,PERSON,0.3541666666666667,0.26666666666666666,en,1.0
 Kim Chang-han,Kim Chang-han,PERSON,0.25,0.3333333333333333,en,1.0
 Kang Yoon-jung,Kang Yoon-jung,PERSON,0.16666666666666666,0.3923076923076923,en,1.0
 Jaewon Moon,Jaewon Moon,PERSON,-0.041666666666666664,0.5833333333333334,en,1.0
@@ -73,32 +81,30 @@ Joo Dae-young,Joo Dae-young,PERSON,-0.06666666666666667,0.3,en,1.0
 In Yo-han,In Yo-han,PERSON,0.0,0.0,en,1.0
 Naver Cloud,Naver Cloud,PERSON,0.0,0.0,en,1.0
 Choi Soo-yeon,Choi Soo-yeon,PERSON,0.0,0.0,en,1.0
-Gray Raven,Gray Raven,PERSON,0.39999999999999997,0.6,en,1.0
 David Glacier,David Glacier,PERSON,0.10000000000000002,0.6333333333333333,en,1.0
-Han Subin,Han Subin,PERSON,0.375,0.675,en,1.0
 Kīlauea Volcano Eruption,Kīlauea Volcano Eruption,PERSON,0.0,0.0,en,1.0
-Jason Kwon,Jason Kwon,PERSON,0.0,0.0,en,1.0
+Myeong-sik Kim,Myeong-sik Kim,PERSON,0.3333333333333333,0.4666666666666666,en,1.0
 Chris Chauri,Chris Chauri,PERSON,0.012500000000000004,0.16666666666666666,en,1.0
 Kim Gwang-yeol,Kim Gwang-yeol,PERSON,0.0,0.06666666666666667,en,1.0
 Kim Seong-hwan,Kim Seong-hwan,PERSON,0.0,0.0,en,1.0
-Seonghwan Kim,Seonghwan Kim,PERSON,0.3541666666666667,0.26666666666666666,en,1.0
-Lee Jun-hwan,Lee Jun-hwan,PERSON,0.0,0.0,en,1.0
-Kim Woo-ok,Kim Woo-ok,PERSON,0.8,0.75,en,1.0
-Tae-sik Moon,Tae-sik Moon,PERSON,0.0,0.0,en,1.0
-Claude Mythos,Claude Mythos,PERSON,-0.13571428571428573,0.12142857142857143,en,1.0
-Yeouido Park,Yeouido Park,PERSON,0.0,0.0,en,1.0
-Kwon I-gyun,Kwon I-gyun,PERSON,0.0,0.0,en,1.0
-Ye Sang-wook,Ye Sang-wook,PERSON,0.0,0.0,en,1.0
-Su-bin Han,Su-bin Han,PERSON,0.17500000000000002,0.5083333333333333,en,1.0
-John Kindervag,John Kindervag,PERSON,0.0,0.3333333333333333,en,1.0
-Busan Buk,Busan Buk,PERSON,0.14583333333333331,0.47500000000000003,en,1.0
+Han Soo-bin,Han Soo-bin,PERSON,-0.325,0.425,en,1.0
+Kiyoung Choi,Kiyoung Choi,PERSON,0.0,0.0,en,1.0
+Han Tae-sook,Han Tae-sook,PERSON,0.8,0.75,en,1.0
 Geum Han-seung,Geum Han-seung,PERSON,0.25,0.3333333333333333,en,1.0
-Jeong Yong-bok,Jeong Yong-bok,PERSON,-0.25,0.41666666666666663,en,1.0
-Anne Hathaway,Anne Hathaway,PERSON,0.1952380952380952,0.3452380952380952,en,1.0
-Meryl Streep,Meryl Streep,PERSON,-0.10000000000000002,0.7999999999999999,en,1.0
-Miranda Priestly,Miranda Priestly,PERSON,-0.10000000000000002,0.7999999999999999,en,1.0
-Hyunsoo Kim,Hyunsoo Kim,PERSON,0.0,0.0,en,1.0
 Choi Hyo-jin,Choi Hyo-jin,PERSON,0.0,0.0,en,1.0
+Hyunsoo Kim,Hyunsoo Kim,PERSON,0.0,0.0,en,1.0
+Miranda Priestly,Miranda Priestly,PERSON,-0.10000000000000002,0.7999999999999999,en,1.0
+Meryl Streep,Meryl Streep,PERSON,-0.10000000000000002,0.7999999999999999,en,1.0
+Anne Hathaway,Anne Hathaway,PERSON,0.1952380952380952,0.3452380952380952,en,1.0
+Jeong Yong-bok,Jeong Yong-bok,PERSON,-0.25,0.41666666666666663,en,1.0
+Busan Buk,Busan Buk,PERSON,0.14583333333333331,0.47500000000000003,en,1.0
+Kim Woo-ok,Kim Woo-ok,PERSON,0.8,0.75,en,1.0
+John Kindervag,John Kindervag,PERSON,0.0,0.3333333333333333,en,1.0
+Su-bin Han,Su-bin Han,PERSON,0.17500000000000002,0.5083333333333333,en,1.0
+Ye Sang-wook,Ye Sang-wook,PERSON,0.0,0.0,en,1.0
+Kwon I-gyun,Kwon I-gyun,PERSON,0.0,0.0,en,1.0
+Kwon Lee-gyun,Kwon Lee-gyun,PERSON,0.16666666666666666,0.5,en,1.0
+Yeouido Park,Yeouido Park,PERSON,0.0,0.0,en,1.0
 Guntan Park Hwangtot-gil,Guntan Park Hwangtot-gil,PERSON,0.0,0.0,en,1.0
 Oh Sang-hoon,Oh Sang-hoon,PERSON,-0.05,0.05,en,1.0
 Getty ImagesIf,Getty ImagesIf,PERSON,0.01666666666666666,0.4428571428571429,en,1.0
@@ -116,23 +122,26 @@ Heo Min,Heo Min,PERSON,0.01,0.1,en,1.0
 Jeong Won,Jeong Won,PERSON,0.09550092764378479,0.20728200371057515,en,1.0
 Seong-min Park,Seong-min Park,PERSON,0.0,0.0,en,1.0
 Ga-eun Yoon,Ga-eun Yoon,PERSON,0.0,0.0,en,1.0
-Kwon Lee-gyun,Kwon Lee-gyun,PERSON,0.16666666666666666,0.5,en,1.0
 Ttukseom Inchworm,Ttukseom Inchworm,PERSON,0.0,0.34,en,1.0
-Mytos Shock,Mytos Shock,PERSON,0.0,0.625,en,1.0
 Muryang Tree Ranch,Muryang Tree Ranch,PERSON,0.1,0.4,en,1.0
+Namyangju Muryang Tree Ranch,Namyangju Muryang Tree Ranch,PERSON,0.22000000000000003,0.62,en,1.0
+Waymo robotaxi,Waymo robotaxi,PERSON,0.0,0.0,en,1.0
+Jason Kwon,Jason Kwon,PERSON,0.0,0.0,en,1.0
+Claude Mythos,Claude Mythos,PERSON,-0.13571428571428573,0.12142857142857143,en,1.0
+Mytos Shock,Mytos Shock,PERSON,0.0,0.625,en,1.0
 산림피해 복구,산림피해 복구,PERSON,0.0,0.0,en,1.0
 국립산림과학원에서 산림청,국립산림과학원에서 산림청,PERSON,0.0,0.0,en,1.0
 산림 복원 체계를,산림 복원 체계를,PERSON,0.0,0.0,en,1.0
 소셜벤처 트리플래닛과,소셜벤처 트리플래닛과,PERSON,0.0,0.0,en,1.0
-Kiyoung Choi,Kiyoung Choi,PERSON,0.0,0.0,en,1.0
+Lee Jung-ho,Lee Jung-ho,PERSON,0.0,0.0,en,1.0
 ‘Ionic 5 Monitoring Drone Station,‘Ionic 5 Monitoring Drone Station,PERSON,0.0,0.0,en,1.0
 Chang-jun Kim,Chang-jun Kim,PERSON,0.0,0.0,en,1.0
-Lee Jung-ho,Lee Jung-ho,PERSON,0.0,0.0,en,1.0
+Tae-sik Moon,Tae-sik Moon,PERSON,0.0,0.0,en,1.0
 Kim Yong-nam,Kim Yong-nam,PERSON,0.0,0.0,en,1.0
 Closing Ilbe,Closing Ilbe,PERSON,-0.5,0.3,en,1.0
 Taek-hwan Kim,Taek-hwan Kim,PERSON,0.0,0.125,en,1.0
-Waymo robotaxi,Waymo robotaxi,PERSON,0.0,0.0,en,1.0
 Jeong Kuk-jeong,Jeong Kuk-jeong,PERSON,-0.15,0.2,en,1.0
+Jeong-hoon Han,Jeong-hoon Han,PERSON,-0.02500000000000001,0.35,en,1.0
 Park Dong-sik,Park Dong-sik,PERSON,-0.15,0.2,en,1.0
 Choi Jin-jeong,Choi Jin-jeong,PERSON,-0.15,0.2,en,1.0
 Seong Dong-hoon,Seong Dong-hoon,PERSON,0.19999999999999998,0.4666666666666666,en,1.0
@@ -147,6 +156,4 @@ Kim Jong-heon,Kim Jong-heon,PERSON,0.0,0.0,en,1.0
 Healthy Hiking Campaign,Healthy Hiking Campaign,PERSON,0.5,0.5,en,1.0
 Heo Seung-gyu,Heo Seung-gyu,PERSON,-0.1638888888888889,0.2805555555555555,en,1.0
 Kim Young-chan,Kim Young-chan,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Jeong-hoon Han,Jeong-hoon Han,PERSON,-0.02500000000000001,0.35,en,1.0
-Namyangju Muryang Tree Ranch,Namyangju Muryang Tree Ranch,PERSON,0.22000000000000003,0.62,en,1.0
-Kim Yong-ri,Kim Yong-ri,PERSON,-0.3333333333333333,0.6666666666666666,en,1.0
+Mira Park,Mira Park,PERSON,0.0,0.75,en,1.0
