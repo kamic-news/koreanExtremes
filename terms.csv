@@ -23,7 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,프랑스 폭염,2026-07-04T05:59:00+00:00,France,0.3474320152763637,2,1,ko,WCE,Europe
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,강수량,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3454129883571062,2,2,ko,ARP,Asia
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.3452435082744481,2,1,ko,SAM,South-America
-'02f56319a7',extremes,Flood,#030ba1,wmo,홍수 호주,2026-07-18T05:10:00+00:00,Australia,0.34486544278970205,2,1,ko,CAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,홍수 호주,2026-07-18T05:10:00+00:00,Australia,0.344865442789702,2,1,ko,CAU,Oceania
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,눈보라,2026-07-05T06:24:00+00:00,,0.3241149161282712,3,1,ko,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-07-12T05:43:00+00:00,,0.3216372627364868,2,1,ko,,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,미국 산불,2026-06-26T06:36:00+00:00,United States,0.3209828551658086,2,2,ko,CNA,North-America
@@ -41,6 +41,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09cd3138c0',extremes,Heat Wave,#c40202,wmo,폭염 vallée du trient,2026-07-12T05:43:00+00:00,Switzerland,0.3002780498047508,0,1,ko,WCE,Europe
 '4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,산불 아르한겔스크 지역,2026-07-02T06:24:00+00:00,Russia,0.3002720757426512,0,1,ko,ESB,Europe
 '7b40bb1cca',extremes,Fog,#d60d2b,wmo,안개 코미 공화국,2026-07-14T05:14:00+00:00,Russia,0.300270015692294,0,1,ko,ESB,Europe
+'c8293bc7d1',extremes,Wildfire,#d60d2b,wmo,캄차카 지방 남쪽 산불,2026-07-07T06:30:00+00:00,Russia,0.30026501896044855,0,1,ko,ESB,Europe
+'037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-07-17T05:27:00+00:00,United States,0.3002450400992387,0,1,ko,CNA,North-America
+'d6e0834e14',extremes,Wildfire,#d60d2b,wmo,산불 슬로베니아 남동쪽,2026-07-08T05:37:00+00:00,Slovenia,0.300211958170538,0,1,ko,WCE,Europe
+'4b8a98e260',extremes,Heat Wave,#c40202,wmo,폭염 글란,2026-07-11T05:27:00+00:00,Switzerland,0.30017477279704446,0,1,ko,WCE,Europe
+'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,폭염 nidau ins,2026-07-10T06:27:00+00:00,Switzerland,0.30012647467570536,0,1,ko,WCE,Europe
+'da616f2571',extremes,Earthquake,#870007,usgs,지진 피치구아,2026-07-17T05:27:00+00:00,Peru,0.3001141057841304,0,1,ko,SAM,South-America
+'3e1f1cf827',extremes,Fog,#d60d2b,wmo,안개 브랸스크 지역,2026-07-15T05:15:00+00:00,Russia,0.30010582480952186,0,1,ko,ESB,Europe
+'2c86ae079a',extremes,Flood,#030ba1,wmo,플래시홍수 우이현,2026-07-11T05:27:00+00:00,China,0.30007147432388703,0,1,ko,EAS,Asia
+'40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-07-12T05:43:00+00:00,,0.3000442287587518,0,1,ko,,
+'9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,아디게아 산불 공화국,2026-07-10T06:27:00+00:00,Russia,0.30002015702738405,0,1,ko,ESB,Europe
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,히트 돔,2026-07-22T05:35:00+00:00,,0.2936119976089276,1,1,ko,,
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.2926909838083781,3,1,ko,SAS,Asia
