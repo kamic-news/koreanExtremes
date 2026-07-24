@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,집중호우,2026-06-29T07:12:00+00:00,,0.464154634490747,4,2,ko,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,사이클론,2026-07-22T05:35:00+00:00,,0.462838156904643,3,2,ko,,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,베네수엘라 지진,2026-06-20T06:46:00+00:00,Venezuela,0.4590558996241273,3,2,ko,NSA,South-America
-'ec60b7df34',extremes,Heat Wave,#c40202,wmo,폭염 미국,2026-07-05T06:25:00+00:00,United States,0.4578652724033952,2,2,ko,CNA,North-America
 'a5ff1cde4a',extremes,Drought,#edc291,random,토양 수분,2026-06-22T08:39:00+00:00,,0.4497137714919477,2,2,ko,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,상륙,2026-07-09T06:27:00+00:00,,0.443967262946048,2,2,ko,,
 '02f56319a7',extremes,Flood,#030ba1,wmo,홍수 호주,2026-07-18T05:10:00+00:00,Australia,0.4432856413712467,3,2,ko,CAU,Oceania
@@ -19,31 +18,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,지진,2026-06-21T07:16:00+00:00,,0.3974270275927107,4,2,ko,,
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,집중호우,2026-07-13T05:53:00+00:00,Mexico,0.3961562555783789,2,2,ko,NCA,North-America
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-06-23T06:33:00+00:00,North Korea,0.3960652141346342,3,1,ko,EAS,Asia
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,폭염 미국,2026-07-05T06:25:00+00:00,United States,0.3891855415428859,3,1,ko,CNA,North-America
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-07-05T06:25:00+00:00,South Korea,0.3782585752774957,5,2,ko,EAS,Asia
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-07-12T05:43:00+00:00,North Korea,0.3741830726020054,3,1,ko,EAS,Asia
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,폭염,2026-07-10T06:27:00+00:00,Switzerland,0.3665532944939856,2,3,ko,WCE,Europe
-'0d261f252d',extremes,Storm,#b3b2b1,random,겨울 강풍,2026-07-24T05:35:00+00:00,,0.36587856881179376,0,1,ko,,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,프랑스 폭염,2026-07-04T05:59:00+00:00,France,0.3474320152763637,2,1,ko,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-07-12T05:43:00+00:00,,0.3444094830281981,2,1,ko,,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-07-22T05:35:00+00:00,South Korea,0.32666914454173,2,1,ko,EAS,Asia
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,눈보라,2026-07-05T06:24:00+00:00,,0.3241149161282712,3,1,ko,,
-'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-07-12T05:43:00+00:00,,0.3216372627364868,2,1,ko,,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,미국 산불,2026-06-26T06:36:00+00:00,United States,0.3209828551658086,2,2,ko,CNA,North-America
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-07-08T05:37:00+00:00,South Korea,0.3203299233883778,3,1,ko,EAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,산불,2026-06-19T07:39:00+00:00,,0.3178562417202773,2,2,ko,,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-07-11T05:27:00+00:00,North Korea,0.3156069845564722,3,1,ko,EAS,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3137564334562129,3,2,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-07-16T05:25:00+00:00,South Korea,0.3130734556800347,2,1,ko,EAS,Asia
+'0d261f252d',extremes,Storm,#b3b2b1,random,겨울 강풍,2026-07-24T05:35:00+00:00,,0.31099678349002463,1,1,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.3099563355343936,4,2,ko,,
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,아이스 크라운 산맥 도로,2026-07-24T05:36:00+00:00,New Zealand,0.3072889079675177,0,1,ko,NZ,Oceania
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
-'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,이란 만세,2026-07-24T05:36:00+00:00,Iran,0.30492266851907524,0,1,ko,WCA,Asia
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-07-17T05:27:00+00:00,,0.30275095648306205,0,1,ko,,
-'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,눈 더니든에서 와이타티 하이웨이 sh1까지,2026-07-24T05:36:00+00:00,New Zealand,0.30271549152742466,0,1,ko,NZ,Oceania
+'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,이란 만세,2026-07-24T05:36:00+00:00,Iran,0.3049226685190752,0,1,ko,WCA,Asia
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-07-17T05:27:00+00:00,,0.302750956483062,0,1,ko,,
+'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,눈 더니든에서 와이타티 하이웨이 sh1까지,2026-07-24T05:36:00+00:00,New Zealand,0.3027154915274246,0,1,ko,NZ,Oceania
 'f71259e5fd',extremes,Snow&Ice,#d60d2b,wmo,스노우 아서스 패스 sh73,2026-07-24T05:36:00+00:00,New Zealand,0.302637432821948,0,1,ko,NZ,Oceania
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,폭풍 해일 사우디아라비아,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3026133128229449,0,1,ko,ARP,Asia
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,비 사우디아라비아,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3025761512210617,0,1,ko,ARP,Asia
-'340b530747',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 밀포드 로드 sh94,2026-07-24T05:36:00+00:00,New Zealand,0.30256770397119914,0,1,ko,NZ,Oceania
+'340b530747',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 밀포드 로드 sh94,2026-07-24T05:36:00+00:00,New Zealand,0.3025677039711991,0,1,ko,NZ,Oceania
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,폭염 사우디아라비아,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3024762978511521,0,1,ko,ARP,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.2936069970332809,3,1,ko,SAM,South-America
@@ -65,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,증발산,2026-07-08T05:37:00+00:00,,0.2765722194271383,2,1,ko,,
 'b6cef22543',extremes,Drought,#edc291,random,물 제한,2026-07-01T06:52:00+00:00,,0.2745267957937902,2,1,ko,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,빙하분리,2026-07-15T05:15:00+00:00,,0.2742117821077508,2,1,ko,,
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-07-12T05:43:00+00:00,,0.2735416883260138,3,1,ko,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,수은 딥,2026-06-29T07:12:00+00:00,,0.2725196002357439,2,1,ko,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,서리,2026-07-17T05:27:00+00:00,,0.2722598066928018,2,1,ko,,
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,영국 폭염,2026-06-21T07:16:00+00:00,United Kingdom,0.2713034552366841,3,2,ko,NEU,Europe
