@@ -22,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-07-12T05:43:00+00:00,North Korea,0.3741830726020054,3,1,ko,EAS,Asia
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-07-15T05:15:00+00:00,North Korea,0.3690366275235078,2,1,ko,EAS,Asia
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,폭염 미국,2026-07-05T06:25:00+00:00,United States,0.368907770311453,4,1,ko,CNA,North-America
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,눈이 날린다,2026-07-21T05:36:00+00:00,,0.3480653335483436,0,1,ko,,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,프랑스 폭염,2026-07-04T05:59:00+00:00,France,0.3474320152763637,2,1,ko,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-07-12T05:43:00+00:00,,0.3444094830281981,2,1,ko,,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-07-22T05:35:00+00:00,South Korea,0.32666914454173,2,1,ko,EAS,Asia
@@ -32,6 +33,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-06-20T06:46:00+00:00,,0.3137564334562129,3,2,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-06-23T06:32:00+00:00,,0.3099563355343936,4,2,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
+'6c4f011103',extremes,Storm,#b3b2b1,wmo,폭풍 Eastfjords,2026-07-25T05:29:00+00:00,Iceland,0.3017756317035339,0,1,ko,GIC,Europe
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,뉴질랜드의 서리,2026-07-25T05:29:00+00:00,New Zealand,0.30173980525766514,0,1,ko,NZ,Oceania
+'d98aa38709',extremes,Fog,#d60d2b,wmo,안개 사우디아라비아,2026-07-18T05:10:00+00:00,Saudi Arabia,0.30172201299601065,0,1,ko,ARP,Asia
+'5bbe9f422e',extremes,Thunderstorm,#53785a,wmo,톰스크 지역 만세,2026-07-25T05:29:00+00:00,Russia,0.3016967059967308,0,1,ko,ESB,Europe
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,얼어붙은 크라운 산맥 도로,2026-07-23T05:40:00+00:00,New Zealand,0.30152959322185774,0,1,ko,NZ,Oceania
+'30e79eda20',extremes,Storm,#b3b2b1,wmo,아이슬란드 남동쪽 폭풍,2026-07-25T05:29:00+00:00,Iceland,0.30150275154848794,0,1,ko,GIC,Europe
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,폭풍 솔로몬 제도,2026-07-25T05:29:00+00:00,Solomon Islands,0.30148225324015404,0,1,ko,EPO,Oceania
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,미국 산불,2026-07-18T05:10:00+00:00,United States,0.30114863061529884,0,1,ko,WNA,North-America
+'22e2976426',extremes,Earthquake,#870007,usgs,포르투갈 지진,2026-07-11T05:27:00+00:00,Portugal,0.30110828063160616,0,1,ko,NAO,Atlantic Ocean
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.2936069970332809,3,1,ko,SAM,South-America
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,강수량,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2936010701035402,3,1,ko,ARP,Asia
@@ -395,7 +405,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,폭풍 해일 웨스트피요르드,2026-07-12T05:43:00+00:00,Iceland,0.2175982491788254,2,1,ko,GIC,Europe
 '5295642073',extremes,Flood,#030ba1,wmo,러시아의 홍수,2026-07-10T06:27:00+00:00,Russia,0.2175949840767338,2,1,ko,ESB,Europe
 '62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,폭우 hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.2175187538986855,2,1,ko,NCA,North-America
-'faf74e1444',extremes,Drought,#edc291,edo,비 부족 콩고 공화국,2026-07-13T05:53:00+00:00,Republic of the Congo,0.21751486662865271,2,1,ko,CAF,Africa
+'faf74e1444',extremes,Drought,#edc291,edo,비 부족 콩고 공화국,2026-07-13T05:53:00+00:00,Republic of the Congo,0.2175148666286527,2,1,ko,CAF,Africa
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,폭염 attawapiskat fort Albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.2174997554531106,2,1,ko,NEN,North-America
 'cd604bad4d',extremes,Heat Wave,#c40202,wmo,폭염 brig nördliches simplongebiet,2026-07-11T05:27:00+00:00,Switzerland,0.2174970505184725,2,1,ko,WCE,Europe
 '5834c8ea07',extremes,Precipitation,#d60d2b,wmo,키토에 폭우,2026-07-11T05:27:00+00:00,Ecuador,0.217496298736441,2,1,ko,NWS,South-America
