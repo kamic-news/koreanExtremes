@@ -30,12 +30,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-07-11T05:27:00+00:00,North Korea,0.3156069845564722,3,1,ko,EAS,Asia
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-07-15T05:15:00+00:00,North Korea,0.3136811333949816,3,1,ko,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-07-02T06:23:00+00:00,,0.3064171298726152,2,1,ko,,
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,미국의 홍수,2026-07-21T05:36:00+00:00,United States,0.3014062521629426,0,1,ko,CNA,North-America
+'4edc7586ed',extremes,Flood,#030ba1,wmo,사카공화국의 홍수 중심지,2026-07-23T05:40:00+00:00,Russia,0.30090527811894235,0,1,ko,ESB,Europe
+'60b2c23708',extremes,Flood,#030ba1,wmo,홍수 튜멘 지역,2026-07-27T06:05:00+00:00,Russia,0.30065969702100165,0,1,ko,ESB,Europe
+'f82258495e',extremes,Flood,#030ba1,wmo,스베르들롭스크 지역의 범람,2026-07-11T05:27:00+00:00,Russia,0.3003729932274663,0,1,ko,ESB,Europe
+'b91eb8316e',extremes,Precipitation,#d60d2b,wmo,폭우 캠프 yuc,2026-07-12T05:43:00+00:00,Mexico,0.2997089366268291,0,1,ko,NCA,North-America
+'6d0f200efd',extremes,Thunderstorm,#53785a,wmo,야로슬라블 지역 만세,2026-07-13T05:53:00+00:00,Russia,0.29970275462039836,0,1,ko,ESB,Europe
+'3cfd502555',extremes,Storm,#b3b2b1,wmo,폭풍 등록. 코르디예라 3개,2026-07-23T05:40:00+00:00,Chile,0.29967646623074046,0,1,ko,SWS,South-America
+'c16aa46f44',extremes,Storm,#b3b2b1,wmo,폭풍 해일 블리다,2026-07-22T05:35:00+00:00,Algeria,0.29967075371081714,0,1,ko,SAH,Africa
+'2e538bfb03',extremes,Fog,#d60d2b,wmo,안개 evenkiyskiy m.r.,2026-07-20T05:54:00+00:00,Russia,0.29966290516988736,0,1,ko,ESB,Europe
+'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,폭염 lötschental naters,2026-07-11T05:27:00+00:00,Switzerland,0.2996309813191864,0,1,ko,WCE,Europe
 '24b660695f',extremes,Landslide,#572c03,wmo,산사태 중국,2026-07-03T06:09:00+00:00,China,0.2936820307892768,3,1,ko,EAS,Asia
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.2936069970332809,3,1,ko,SAM,South-America
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,강수량,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2936010701035402,3,1,ko,ARP,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,인도 비,2026-06-30T06:39:00+00:00,India,0.2926909838083781,3,1,ko,SAS,Asia
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-07-08T05:37:00+00:00,,0.2925143005009221,2,1,ko,,
-'34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-07-20T05:54:00+00:00,North Korea,0.28757026088153614,3,1,ko,EAS,Asia
+'34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-07-20T05:54:00+00:00,North Korea,0.2875702608815361,3,1,ko,EAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,빙산 arctis,2026-07-05T06:24:00+00:00,,0.2846921206095223,2,1,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-07-11T05:26:00+00:00,,0.2825732810817453,2,1,ko,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,서리가 내리는 겨울,2026-06-29T07:12:00+00:00,,0.2820292829126428,2,1,ko,,
@@ -237,7 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85c98951d6',extremes,Drought,#edc291,edo,비 부족 몬테네그로,2026-06-29T07:13:00+00:00,Montenegro,0.2197766136092645,2,1,ko,MED,Europe
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,폭염 스코페 지역,2026-07-17T05:27:00+00:00,North Macedonia,0.2197349637928649,2,1,ko,MED,Europe
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,폭풍 해일 자메이카,2026-07-02T06:24:00+00:00,Jamaica,0.2196939993442259,2,1,ko,CAR,North-America
-'02711610b5',extremes,Storm,#b3b2b1,wmo,폭풍 아르헨티나,2026-07-17T05:27:00+00:00,Argentina,0.21963451815846657,2,1,ko,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,폭풍 아르헨티나,2026-07-17T05:27:00+00:00,Argentina,0.2196345181584665,2,1,ko,SES,South-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,빙산이 갈라지는 현상,2026-07-04T05:59:00+00:00,,0.2195926631988703,2,1,ko,,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,폭염 러시아,2026-07-03T06:09:00+00:00,Russia,0.2194971894205647,2,1,ko,ESB,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,폭풍 아이슬란드,2026-07-07T06:30:00+00:00,Iceland,0.2193515522244573,2,1,ko,GIC,Europe
@@ -247,7 +257,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,폭염 발 데렌스(val d'hérens),2026-07-14T05:14:00+00:00,Switzerland,0.2191757782939382,2,1,ko,WCE,Europe
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,프로스트 칠레,2026-07-14T05:14:00+00:00,Chile,0.2191729480316942,2,1,ko,SWS,South-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,캐나다의 홍수,2026-07-01T06:52:00+00:00,Canada,0.2191663994678242,2,1,ko,NEN,North-America
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,폭풍 해일 아르헨티나,2026-07-17T05:27:00+00:00,Argentina,0.21914128106255815,2,1,ko,SES,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,폭풍 해일 아르헨티나,2026-07-17T05:27:00+00:00,Argentina,0.2191412810625581,2,1,ko,SES,South-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,인도 폭우,2026-06-30T06:39:00+00:00,India,0.2191119761717901,2,1,ko,SAS,Asia
 '87931b9f82',extremes,Landslide,#572c03,aidr,진흙 흐름 호주,2026-06-27T06:09:00+00:00,Australia,0.2191117191831533,2,1,ko,EAU,Oceania
 '493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,몰도바 산불 공화국,2026-07-13T05:53:00+00:00,Republic of Moldova,0.2190987642002576,2,1,ko,WCE,Europe
@@ -310,7 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,폭풍 지역 2 - 보통,2026-07-22T05:35:00+00:00,Paraguay,0.2183470074347319,2,1,ko,SES,South-America
 '7638ee2306',extremes,Wildfire,#d60d2b,wmo,산불 쿠르간 지역,2026-07-17T05:27:00+00:00,Russia,0.2183349759951229,2,1,ko,ESB,Europe
 'd3a5887247',extremes,Storm,#b3b2b1,wmo,바누아투의 모든 바다를 폭풍으로 몰아넣습니다.,2026-07-15T05:15:00+00:00,Vanuatu,0.2183088075684289,2,1,ko,SPO,Oceania
-'8db658717e',extremes,Flood,#030ba1,wmo,플래시플러드 오스트레일리아,2026-07-17T05:27:00+00:00,Australia,0.21830321387034066,2,1,ko,CAU,Oceania
+'8db658717e',extremes,Flood,#030ba1,wmo,플래시플러드 오스트레일리아,2026-07-17T05:27:00+00:00,Australia,0.2183032138703406,2,1,ko,CAU,Oceania
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,폭우 사우디아라비아,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2182921784987399,2,1,ko,ARP,Asia
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,폭풍 캐나다,2026-07-06T06:52:00+00:00,Canada,0.2182666432852072,2,1,ko,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,폭풍 해일 캐나다,2026-07-11T05:27:00+00:00,Canada,0.2182662437064417,2,1,ko,NEN,North-America
@@ -406,21 +416,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72fa239364',extremes,Precipitation,#d60d2b,wmo,폭우가 쏟아진다,2026-07-10T06:27:00+00:00,Mexico,0.2174066830305389,2,1,ko,NCA,North-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,폭풍 트리니다드 토바고,2026-07-08T05:37:00+00:00,Trinidad and Tobago,0.2173914949580858,2,1,ko,NSA,North-America
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,폭풍 해일 쿠웨이트,2026-07-15T05:15:00+00:00,Kuwait,0.2173491424123084,2,1,ko,ARP,Asia
-'630b164795',extremes,Wildfire,#d60d2b,wmo,이스라엘 산불,2026-07-25T05:29:00+00:00,Israel,0.21733151495015937,2,1,ko,MED,Asia
+'630b164795',extremes,Wildfire,#d60d2b,wmo,이스라엘 산불,2026-07-25T05:29:00+00:00,Israel,0.2173315149501593,2,1,ko,MED,Asia
 'd40e85899a',extremes,Heat Wave,#c40202,wmo,폭염 몰도바 공화국,2026-06-27T06:08:00+00:00,Republic of Moldova,0.2172871254571521,2,1,ko,WCE,Europe
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,폭우 mex,2026-07-11T05:27:00+00:00,Mexico,0.2172843472626161,2,1,ko,NCA,North-America
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,폭풍 키스카에서 어튜베링 쪽으로,2026-07-25T05:29:00+00:00,United States,0.2172468606013455,2,1,ko,CNA,North-America
 '49b55c4a32',extremes,Precipitation,#d60d2b,wmo,강수량 gro ox,2026-07-11T05:27:00+00:00,Mexico,0.2172190616113494,2,1,ko,NCA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,인도 악천후,2026-06-30T06:39:00+00:00,India,0.2172177391134392,2,1,ko,SAS,Asia
 'c9de150e59',extremes,Fog,#d60d2b,wmo,안개 추코트카 자치구,2026-07-25T05:29:00+00:00,Russia,0.2171983647645272,2,1,ko,ESB,Europe
-'404a3ce925',extremes,Fog,#d60d2b,wmo,안개 칼리닌그라드 지역,2026-07-16T05:25:00+00:00,Russia,0.21714757172302365,2,1,ko,ESB,Europe
+'404a3ce925',extremes,Fog,#d60d2b,wmo,안개 칼리닌그라드 지역,2026-07-16T05:25:00+00:00,Russia,0.2171475717230236,2,1,ko,ESB,Europe
 '1c9dc747da',extremes,Drought,#edc291,edo,비 부족 쿠바,2026-07-04T05:59:00+00:00,Cuba,0.2170935645545249,2,1,ko,CAR,North-America
 'fa4ab5ca41',extremes,Drought,#edc291,edo,건기 브루나이,2026-07-12T05:43:00+00:00,Brunei,0.2170915334979308,2,1,ko,SEA,Asia
 '9d70153cdd',extremes,Precipitation,#d60d2b,wmo,강수량 말리,2026-07-04T05:59:00+00:00,Mali,0.2170671799792232,2,1,ko,SAH,Africa
 '66fc7fe556',extremes,Heat Wave,#c40202,wmo,폭염 afar gambala,2026-07-07T06:30:00+00:00,Ethiopia,0.2170660160625718,2,1,ko,NEAF,Africa
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road sh94,2026-07-04T05:59:00+00:00,New Zealand,0.2170590230693871,2,1,ko,NZ,Oceania
 '136338a1d6',extremes,Precipitation,#d60d2b,wmo,집중호우 nl,2026-07-12T05:43:00+00:00,Mexico,0.2170220251875121,2,1,ko,NCA,North-America
-'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,폭염 바스 그뤼에르,2026-07-11T05:27:00+00:00,Switzerland,0.21701059164634687,2,1,ko,WCE,Europe
+'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,폭염 바스 그뤼에르,2026-07-11T05:27:00+00:00,Switzerland,0.2170105916463468,2,1,ko,WCE,Europe
 '4dbc33b191',extremes,Wildfire,#d60d2b,wmo,산불 노보시비르스크 지역,2026-06-27T06:08:00+00:00,Russia,0.2169904270413103,2,1,ko,ESB,Europe
 '22bab77b3f',extremes,Storm,#b3b2b1,wmo,폭풍 해일 북부 해안 해역.,2026-06-28T06:44:00+00:00,Vanuatu,0.2169861859680034,2,1,ko,SPO,Oceania
 '065a68d42d',extremes,Storm,#b3b2b1,wmo,폭풍 해일 모리셔스,2026-07-08T05:37:00+00:00,Mauritius,0.2169803385713829,2,1,ko,SIO,Africa
@@ -440,7 +450,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,강수량 에콰도르,2026-07-04T05:59:00+00:00,Ecuador,0.2167835461135716,2,1,ko,NWS,South-America
 '45015c86e8',extremes,Drought,#edc291,edo,건조함 아이티,2026-07-09T06:27:00+00:00,Haiti,0.2167621196716946,2,1,ko,CAR,North-America
 'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,스노우 포터가 sh73을 지나갑니다.,2026-07-06T06:52:00+00:00,New Zealand,0.2167466927615829,2,1,ko,NZ,Oceania
-'6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,프로스트 린디스 패스 sh8,2026-07-08T05:37:00+00:00,New Zealand,0.21668546507865505,2,1,ko,NZ,Oceania
+'6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,프로스트 린디스 패스 sh8,2026-07-08T05:37:00+00:00,New Zealand,0.216685465078655,2,1,ko,NZ,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,얼어붙는 호주,2026-06-27T06:08:00+00:00,Australia,0.2166728597219771,2,1,ko,CAU,Oceania
 'd053965012',extremes,Fog,#d60d2b,wmo,안개 짐바브웨,2026-07-02T06:24:00+00:00,Zimbabwe,0.2165980206928075,2,1,ko,ESAF,Africa
 '98ff5c9897',extremes,Wildfire,#d60d2b,wmo,산불 슬로베니아,2026-07-08T05:37:00+00:00,Slovenia,0.2165828856910713,2,1,ko,WCE,Europe
