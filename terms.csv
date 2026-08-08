@@ -20,7 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-08-01T05:41:00+00:00,,0.3746643646995957,2,2,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-07-12T05:43:00+00:00,North Korea,0.3741830726020054,3,1,ko,EAS,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-07-03T06:09:00+00:00,,0.3734106546464895,3,2,ko,,
-'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-08-01T05:42:00+00:00,South Korea,0.37230824433377013,3,1,ko,EAS,Asia
+'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-08-01T05:42:00+00:00,South Korea,0.3723082443337701,3,1,ko,EAS,Asia
 '40f675561f',extremes,Heat Wave,#c40202,random,가장 더운 여름,2026-07-12T05:43:00+00:00,,0.3680480905739684,3,2,ko,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-07-30T05:24:00+00:00,,0.3667315917656215,2,1,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-08-01T05:41:00+00:00,,0.3586471773410901,2,1,ko,,
@@ -35,9 +35,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,레바논 산불,2026-08-07T11:06:00+00:00,Lebanon,0.3197567333853346,0,1,ko,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,산불 사라펜드 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.3197562481875675,0,1,ko,MED,Asia
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,산불 나비 youcheaa 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.3197562420673727,0,1,ko,MED,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,산불 마르딘 칠면조,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,1,ko,WCA,Asia
+'5400f1e65e',extremes,Wildfire,#d60d2b,effis,산불 킬리스 시리아,2026-08-07T11:06:00+00:00,Syria,0.31975623943359593,0,1,ko,MED,Asia
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,산불 하부쉬 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.3197562382976543,0,1,ko,MED,Asia
+'7bc6211e3c',extremes,Wildfire,#d60d2b,effis,산불 n.a. 시리아,2026-08-07T11:06:00+00:00,Syria,0.3197562365017188,0,1,ko,MED,Asia
+'fcaebcf157',extremes,Wildfire,#d60d2b,effis,산불 n.a. 튀니지,2026-08-07T11:06:00+00:00,Tunisia,0.31975623531663944,0,1,ko,MED,Africa
+'9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,산불 바브 베레드 모로코,2026-08-07T09:56:00+00:00,Morocco,0.31975623528649666,0,1,ko,MED,Africa
+'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,산불 도루 포르투갈,2026-08-07T09:56:00+00:00,Portugal,0.3197562351108398,0,1,ko,MED,Europe
+'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,레바논 산불 bchatfine,2026-08-07T11:06:00+00:00,Lebanon,0.31975623210389514,0,1,ko,MED,Asia
+'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,산불 엘 메리 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.3197562319625543,0,1,ko,MED,Asia
+'5fc209e2c8',extremes,Wildfire,#d60d2b,effis,산불 아인 자르파 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.31975623183085855,0,1,ko,MED,Asia
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-07-11T05:27:00+00:00,North Korea,0.3156069845564722,3,1,ko,EAS,Asia
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-07-17T05:27:00+00:00,United States,0.3140923124259449,3,2,ko,CNA,North-America
-'845dd2d698',extremes,Storm,#b3b2b1,random,토네이도,2026-07-29T05:37:00+00:00,,0.30151511174674533,1,1,ko,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,토네이도,2026-07-29T05:37:00+00:00,,0.3015151117467453,1,1,ko,,
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.2936069970332809,3,1,ko,SAM,South-America
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,강수량,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2936010701035402,3,1,ko,ARP,Asia
 '59b529f428',extremes,Thunderstorm,#53785a,random,우박,2026-07-08T05:37:00+00:00,,0.2925143005009221,2,1,ko,,
