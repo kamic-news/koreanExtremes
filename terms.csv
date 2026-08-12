@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-08-11T04:01:00+00:00,,0.46865686698292885,3,2,ko,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-07-24T05:35:00+00:00,,0.4577922376167268,3,2,ko,,
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-08-02T05:41:00+00:00,,0.4379940506571882,4,2,ko,,
 'f90601fa23',extremes,Volcano,#b83202,random,화산 폭발,2026-07-25T05:28:00+00:00,,0.4339552121751379,3,1,ko,,
@@ -14,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,캐나다 비,2026-07-28T05:31:00+00:00,Canada,0.3807177485259869,6,2,ko,NEN,North-America
 '82d648b882',extremes,Drought,#edc291,random,가뭄,2026-08-04T05:31:00+00:00,,0.3797005155692915,4,2,ko,,
 '02f56319a7',extremes,Flood,#030ba1,wmo,홍수 호주,2026-07-18T05:10:00+00:00,Australia,0.3769428101655597,4,2,ko,CAU,Oceania
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-08-11T04:01:00+00:00,,0.3747139435093281,2,1,ko,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,폭우,2026-08-01T05:41:00+00:00,,0.3746643646995957,2,2,ko,,
 '53e7a587b8',extremes,Drought,#edc291,edo,북한의 건기,2026-07-12T05:43:00+00:00,North Korea,0.3741830726020054,3,1,ko,EAS,Asia
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-08-01T05:42:00+00:00,South Korea,0.3723082443337701,3,1,ko,EAS,Asia
@@ -28,22 +28,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-07-28T05:30:00+00:00,,0.3389503423726273,2,1,ko,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,집중호우,2026-07-25T05:28:00+00:00,,0.3262566576133024,2,1,ko,,
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,지진 발생,2026-07-24T05:35:00+00:00,Alaska,0.3211397807553211,4,1,ko,NPO,Pacific Ocean
-'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,레바논 산불,2026-08-07T11:06:00+00:00,Lebanon,0.3197567333853346,0,1,ko,MED,Asia
 '8cbdb17397',extremes,Wildfire,#d60d2b,effis,산불 médio tejo portugal,2026-08-07T11:06:00+00:00,Portugal,0.319756200597601,0,1,ko,MED,Europe
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,산불 스페인 바르셀로나,2026-08-07T11:06:00+00:00,Spain,0.3197562003661338,0,1,ko,MED,Europe
 '56932be330',extremes,Wildfire,#d60d2b,effis,산불은 터키에서 발생합니다.,2026-08-07T11:06:00+00:00,Turkey,0.3197561887556467,0,1,ko,MED,Asia
 'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,산불 ključ 보스니아 헤르체고비나,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561870144654,0,1,ko,MED,Europe
 '0f5047d744',extremes,Wildfire,#d60d2b,effis,루마니아 산불 툴체아,2026-08-07T09:56:00+00:00,Romania,0.3197561865609823,0,1,ko,MED,Europe
 '718485342e',extremes,Wildfire,#d60d2b,effis,산불 konjic 보스니아 헤르체고비나,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561795368106,0,1,ko,MED,Europe
-'10760f7299',extremes,Wildfire,#d60d2b,effis,터키 산불 diyarbakır,2026-08-07T11:06:00+00:00,Turkey,0.31975616791320655,0,1,ko,MED,Asia
+'10760f7299',extremes,Wildfire,#d60d2b,effis,터키 산불 diyarbakır,2026-08-07T11:06:00+00:00,Turkey,0.3197561679132065,0,1,ko,MED,Asia
 '8e87f54a50',extremes,Wildfire,#d60d2b,effis,스페인 산불,2026-08-07T09:56:00+00:00,Spain,0.3197561670381981,0,1,ko,MED,Europe
-'02d4c311ee',extremes,Wildfire,#d60d2b,effis,산불 루고 스페인,2026-08-07T11:06:00+00:00,Spain,0.31975616454111655,0,1,ko,MED,Europe
-'b1a02426c6',extremes,Wildfire,#d60d2b,effis,산불 dubrovačko neretvanska županija 크로아티아,2026-08-07T11:06:00+00:00,Croatia,0.31975615963452136,0,1,ko,MED,Europe
+'02d4c311ee',extremes,Wildfire,#d60d2b,effis,산불 루고 스페인,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,0,1,ko,MED,Europe
+'b1a02426c6',extremes,Wildfire,#d60d2b,effis,산불 dubrovačko neretvanska županija 크로아티아,2026-08-07T11:06:00+00:00,Croatia,0.3197561596345213,0,1,ko,MED,Europe
 '9da2e4d9fb',extremes,Wildfire,#d60d2b,effis,산불 velika kladuša 보스니아 헤르체고비나,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561538493033,0,1,ko,WCE,Europe
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,레바논 산불 안쿠네,2026-08-07T11:06:00+00:00,Lebanon,0.3197561508900715,0,1,ko,MED,Asia
-'9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,아일랜드 중서부 산불,2026-08-07T11:06:00+00:00,Ireland,0.31975611669766524,0,1,ko,NEU,Europe
-'fe300e279f',extremes,Wildfire,#d60d2b,effis,산불 n.a. 코소보,2026-08-07T09:56:00+00:00,Kosovo,0.31975611267282555,0,1,ko,MED,Europe
-'8fac42b03a',extremes,Wildfire,#d60d2b,effis,산불 kahramanmaraş 터키,2026-08-07T11:06:00+00:00,Turkey,0.31975608189326066,0,1,ko,MED,Asia
+'9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,아일랜드 중서부 산불,2026-08-07T11:06:00+00:00,Ireland,0.3197561166976652,0,1,ko,NEU,Europe
+'fe300e279f',extremes,Wildfire,#d60d2b,effis,산불 n.a. 코소보,2026-08-07T09:56:00+00:00,Kosovo,0.3197561126728255,0,1,ko,MED,Europe
+'8fac42b03a',extremes,Wildfire,#d60d2b,effis,산불 kahramanmaraş 터키,2026-08-07T11:06:00+00:00,Turkey,0.3197560818932606,0,1,ko,MED,Asia
 '11c1de7197',extremes,Drought,#edc291,edo,가뭄 북한,2026-08-02T05:42:00+00:00,North Korea,0.3141400835894148,3,1,ko,EAS,Asia
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-07-17T05:27:00+00:00,United States,0.3140923124259449,3,2,ko,CNA,North-America
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-07-26T05:46:00+00:00,South Korea,0.3003556035663839,3,1,ko,EAS,Asia
@@ -54,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,기록적인 더위,2026-08-06T05:33:00+00:00,,0.2808787374917385,1,1,ko,,
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-07-22T05:35:00+00:00,South Korea,0.2776687728604705,3,1,ko,EAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-08-02T05:41:00+00:00,,0.2726588007531212,2,1,ko,,
+'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,레바논 산불,2026-08-07T11:06:00+00:00,Lebanon,0.2717932233775344,1,1,ko,MED,Asia
 'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,산불 나비 youcheaa 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.2717927884012103,1,1,ko,MED,Asia
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,루마니아 산불 툴체아,2026-08-07T09:56:00+00:00,Romania,0.2717927879560476,1,1,ko,MED,Europe
 '81a6886100',extremes,Wildfire,#d60d2b,effis,산불 osječko baranjska županija croatia,2026-08-07T11:06:00+00:00,Croatia,0.2717927859436645,1,1,ko,WCE,Europe
