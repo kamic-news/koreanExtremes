@@ -35,6 +35,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7aef40d766',extremes,Wildfire,#d60d2b,effis,모로코 산불,2026-08-07T09:56:00+00:00,Morocco,0.319750505514849,0,1,ko,MED,Africa
 '793ba29f43',extremes,Wildfire,#d60d2b,effis,산불 레바논 sarafend n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197501114697303,0,1,ko,MED,Asia
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,루마니아 산불,2026-08-07T09:56:00+00:00,Romania,0.3197496432537038,0,1,ko,MED,Europe
+'d33e4146b6',extremes,Wildfire,#d60d2b,effis,산불 türkiye kilis n.a.,2026-08-07T11:06:00+00:00,Syria,0.3197487447859642,0,1,ko,MED,Asia
+'1f50df77c2',extremes,Wildfire,#d60d2b,effis,불가리아 산불,2026-08-07T09:56:00+00:00,Bulgaria,0.3197486139955544,0,1,ko,MED,Europe
+'a23c450be4',extremes,Wildfire,#d60d2b,effis,산불 모로코 bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.3197484390345784,0,1,ko,MED,Africa
+'f93df854ee',extremes,Wildfire,#d60d2b,effis,북마케도니아 산불,2026-08-07T11:06:00+00:00,North Macedonia,0.31974822229509164,0,1,ko,MED,Europe
+'14a41389eb',extremes,Wildfire,#d60d2b,effis,북마케도니아 산불,2026-08-07T09:56:00+00:00,North Macedonia,0.31974753263212163,0,1,ko,MED,Europe
+'3438303391',extremes,Wildfire,#d60d2b,effis,산불 몬테네그로,2026-08-07T11:06:00+00:00,Montenegro,0.3197471167543358,0,1,ko,MED,Europe
+'4ff9a5d897',extremes,Wildfire,#d60d2b,effis,세르비아 산불,2026-08-07T09:56:00+00:00,Serbia,0.31974701337302014,0,1,ko,MED,Europe
+'56c99f5cea',extremes,Wildfire,#d60d2b,effis,산불 레바논 niha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.319746803707472,0,1,ko,MED,Asia
+'3267f5413d',extremes,Wildfire,#d60d2b,effis,산불 türkiye mardin n.a.,2026-08-07T11:06:00+00:00,Turkey,0.3197467715600904,0,1,ko,WCA,Asia
+'7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,아일랜드 산불,2026-08-07T09:56:00+00:00,Ireland,0.3197467636900591,0,1,ko,NEU,Europe
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-07-17T05:27:00+00:00,United States,0.3140923124259449,3,2,ko,CNA,North-America
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-07-26T05:46:00+00:00,South Korea,0.3003556035663839,3,1,ko,EAS,Asia
 '3a67915e02',extremes,Earthquake,#870007,usgs,페루 지진,2026-07-18T05:10:00+00:00,Peru,0.2936069970332809,3,1,ko,SAM,South-America
