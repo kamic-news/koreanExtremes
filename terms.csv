@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-08-12T04:23:00+00:00,South Korea,0.6619919067084403,0,1,ko,EAS,Asia
+'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-08-12T04:23:00+00:00,South Korea,0.5626931207021743,1,1,ko,EAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-07T04:37:00+00:00,,0.53526553699716,6,2,ko,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,더위,2026-08-19T03:25:00+00:00,,0.44605773443007946,1,3,ko,,
 '560b05d603',extremes,Heat Wave,#c40202,random,폭염,2026-07-09T06:27:00+00:00,,0.4143036254325306,2,3,ko,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,강수량,2026-08-02T05:42:00+00:00,Ecuador,0.4122611412311518,3,2,ko,NWS,South-America
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-08-01T05:41:00+00:00,,0.4121171793095969,5,2,ko,,
@@ -20,21 +21,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db842ffadd',extremes,Drought,#edc291,edo,건조함 한국,2026-08-01T05:42:00+00:00,South Korea,0.3723082443337701,3,1,ko,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,화산 폭발,2026-07-25T05:28:00+00:00,,0.3690119453488672,4,1,ko,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-07-30T05:24:00+00:00,,0.3667315917656215,2,1,ko,,
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,더위,2026-08-19T03:25:00+00:00,,0.36407651380914335,0,1,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-08T03:51:00+00:00,,0.3575101454098988,2,1,ko,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-07-28T05:30:00+00:00,,0.3389503423726273,2,1,ko,,
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,지진 발생,2026-07-24T05:35:00+00:00,Alaska,0.3354937135957194,6,2,ko,NPO,Pacific Ocean
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,스페인 산불,2026-08-07T09:56:00+00:00,Spain,0.327155961066786,2,1,ko,MED,Europe
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,집중호우,2026-07-25T05:28:00+00:00,,0.3262566576133024,2,1,ko,,
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-08-18T03:24:00+00:00,North Korea,0.3240172716884337,3,1,ko,EAS,Asia
-'fdf0f3824e',extremes,Wildfire,#d60d2b,effis,산불 포르투갈 지역 메트로폴리타나 포르투 레보르도사,2026-08-07T11:06:00+00:00,Portugal,0.31970564130390866,0,1,ko,MED,Europe
 '5e9ec69dea',extremes,Wildfire,#d60d2b,effis,산불 españa cáceres plasencia,2026-08-07T09:56:00+00:00,Spain,0.3196887337309947,0,1,ko,MED,Europe
 'bf051bafdf',extremes,Wildfire,#d60d2b,effis,산불 보스니아 헤르체고비나 velika kladuša n.a.,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3196858870683085,0,1,ko,WCE,Europe
-'fbdca1d754',extremes,Wildfire,#d60d2b,effis,산불 hrvatska dubrovačko neretvanska županija metković,2026-08-07T11:06:00+00:00,Croatia,0.31968243167311694,0,1,ko,MED,Europe
+'fbdca1d754',extremes,Wildfire,#d60d2b,effis,산불 hrvatska dubrovačko neretvanska županija metković,2026-08-07T11:06:00+00:00,Croatia,0.3196824316731169,0,1,ko,MED,Europe
 'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,오스트리아 산불,2026-08-07T11:06:00+00:00,Austria,0.319674038325799,0,1,ko,WCE,Europe
 '83664f5027',extremes,Wildfire,#d60d2b,effis,산불 éire ireland mid west Templederry,2026-08-07T11:06:00+00:00,Ireland,0.3196711044677605,0,1,ko,NEU,Europe
 '8c1c4e1bd0',extremes,Wildfire,#d60d2b,effis,핀란드 산불,2026-08-07T09:56:00+00:00,Finland,0.3196493792932011,0,1,ko,NEU,Europe
-'8c8df8fd09',extremes,Wildfire,#d60d2b,effis,레바논 산불 majdel selm n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.31964871989630844,0,1,ko,MED,Asia
+'8c8df8fd09',extremes,Wildfire,#d60d2b,effis,레바논 산불 majdel selm n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3196487198963084,0,1,ko,MED,Asia
 '037bb37761',extremes,Flood,#030ba1,wmo,홍수 미국,2026-07-17T05:27:00+00:00,United States,0.3140923124259449,3,2,ko,CNA,North-America
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-07-26T05:46:00+00:00,South Korea,0.3003556035663839,3,1,ko,EAS,Asia
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-08-13T04:26:00+00:00,North Korea,0.2878997592361974,4,1,ko,EAS,Asia
@@ -43,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-08-02T05:41:00+00:00,,0.2726588007531212,2,1,ko,,
 'f04abe0f25',extremes,Wildfire,#d60d2b,effis,산불 포르투갈 알토 타메가 리베이라 데 페나 살바도르 에 산토 알레이소 데 알렘 타메가,2026-08-07T09:56:00+00:00,Portugal,0.271758104573977,1,1,ko,MED,Europe
 '8f1a6ba202',extremes,Wildfire,#d60d2b,effis,산불 türkiye isparta n.a.,2026-08-07T11:06:00+00:00,Turkey,0.2717580364034117,1,1,ko,MED,Asia
+'fdf0f3824e',extremes,Wildfire,#d60d2b,effis,산불 포르투갈 지역 메트로폴리타나 포르투 레보르도사,2026-08-07T11:06:00+00:00,Portugal,0.2717497951083223,1,1,ko,MED,Europe
 'a112e86854',extremes,Wildfire,#d60d2b,effis,산불 türkiye konya n.a.,2026-08-07T09:56:00+00:00,Turkey,0.2717482098281286,1,1,ko,MED,Asia
 '1bc9542f90',extremes,Wildfire,#d60d2b,effis,산불 보스니아 헤르체고비나,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2717456148446757,1,1,ko,WCE,Europe
 '125cbbcc8c',extremes,Wildfire,#d60d2b,effis,산불 포르투갈 지역 메트로폴리타나 포르투 레카레이,2026-08-07T11:06:00+00:00,Portugal,0.271744125569535,1,1,ko,MED,Europe
