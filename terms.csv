@@ -19,7 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-08T03:51:00+00:00,,0.354783713598414,3,1,ko,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,강수량,2026-08-02T05:42:00+00:00,Ecuador,0.350422105046479,4,1,ko,NWS,South-America
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-08-12T04:23:00+00:00,South Korea,0.3455639127512228,4,1,ko,EAS,Asia
-'0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-07-28T05:30:00+00:00,,0.3389503423726273,2,1,ko,,
+'0a8e5743d9',extremes,Landslide,#572c03,random,산사태,2026-07-28T05:30:00+00:00,,0.33306514387387604,3,1,ko,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,홍수,2026-08-02T05:41:00+00:00,,0.3317696071250492,4,1,ko,,
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,스페인 산불,2026-08-07T09:56:00+00:00,Spain,0.327155961066786,2,1,ko,MED,Europe
 '34ae55bb86',extremes,Drought,#edc291,edo,비 부족 북한,2026-08-18T03:24:00+00:00,North Korea,0.3240172716884337,3,1,ko,EAS,Asia
@@ -47,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c759e791c4',extremes,Wildfire,#d60d2b,effis,헝가리 산불,2026-08-07T11:06:00+00:00,Hungary,0.2312978914090102,2,1,ko,WCE,Europe
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,산불 나비 youcheaa 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.2310238848936767,2,1,ko,MED,Asia
 '84da2917b8',extremes,Wildfire,#d60d2b,effis,산불 마르딘 칠면조,2026-08-07T11:06:00+00:00,Turkey,0.231023883032285,2,1,ko,WCA,Asia
-'5400f1e65e',extremes,Wildfire,#d60d2b,effis,산불 킬리스 시리아,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,ko,MED,Asia
 '5fc209e2c8',extremes,Wildfire,#d60d2b,effis,산불 아인 자르파 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.2310238774977952,2,1,ko,MED,Asia
 '3b374ddaaa',extremes,Wildfire,#d60d2b,effis,산불 вардарски 북마케도니아,2026-08-07T11:06:00+00:00,North Macedonia,0.231023875889621,2,1,ko,MED,Europe
 '8d9d2cdcb4',extremes,Wildfire,#d60d2b,effis,산불 하렛 잔달 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.2310238747759816,2,1,ko,MED,Asia
@@ -301,6 +300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,산불 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.1963710835307598,3,1,ko,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,레바논 산불,2026-08-07T11:06:00+00:00,Lebanon,0.1963706038902685,3,1,ko,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,산불 사라펜드 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.1963703059181898,3,1,ko,MED,Asia
+'5400f1e65e',extremes,Wildfire,#d60d2b,effis,산불 킬리스 시리아,2026-08-07T11:06:00+00:00,Syria,0.19637030054215704,3,1,ko,MED,Asia
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,산불 하부쉬 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.1963702998445468,3,1,ko,MED,Asia
 '7bc6211e3c',extremes,Wildfire,#d60d2b,effis,산불 n.a. 시리아,2026-08-07T11:06:00+00:00,Syria,0.196370298741618,3,1,ko,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,산불 n.a. 튀니지,2026-08-07T11:06:00+00:00,Tunisia,0.1963702980138311,3,1,ko,MED,Africa
@@ -338,9 +338,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd33e4146b6',extremes,Wildfire,#d60d2b,effis,산불 türkiye kilis n.a.,2026-08-07T11:06:00+00:00,Syria,0.1963656978916802,3,1,ko,MED,Asia
 'a23c450be4',extremes,Wildfire,#d60d2b,effis,산불 모로코 bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.1963655101221103,3,1,ko,MED,Africa
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,산불 türkiye mardin n.a.,2026-08-07T11:06:00+00:00,Turkey,0.1963644860843404,3,1,ko,WCA,Asia
-'313b8b380b',extremes,Wildfire,#d60d2b,effis,산불 시리아 n.a. 해당 없음,2026-08-07T11:06:00+00:00,Syria,0.19636420515473027,3,1,ko,MED,Asia
+'313b8b380b',extremes,Wildfire,#d60d2b,effis,산불 시리아 n.a. 해당 없음,2026-08-07T11:06:00+00:00,Syria,0.1963642051547302,3,1,ko,MED,Asia
 '5b302ce6b4',extremes,Wildfire,#d60d2b,effis,우크라이나 산불,2026-08-07T09:56:00+00:00,Ukraine,0.1963636442640753,3,1,ko,WCE,Europe
-'df6e516080',extremes,Wildfire,#d60d2b,effis,튀니지 산불,2026-08-07T11:06:00+00:00,Tunisia,0.19636227089874517,3,1,ko,MED,Africa
+'df6e516080',extremes,Wildfire,#d60d2b,effis,튀니지 산불,2026-08-07T11:06:00+00:00,Tunisia,0.1963622708987451,3,1,ko,MED,Africa
 '9f352d30ee',extremes,Wildfire,#d60d2b,effis,산불 레바논 machha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.1963592196993175,3,1,ko,MED,Asia
 '7caeebbe66',extremes,Wildfire,#d60d2b,effis,산불 türkiye isparta n.a.,2026-08-07T09:56:00+00:00,Turkey,0.1963573857639714,3,1,ko,MED,Asia
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,슈퍼 태풍 돌고래,2026-07-30T05:24:00+00:00,,0.1922253291184553,3,1,ko,NPO,Pacific Ocean
