@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-07-30T05:24:00+00:00,,0.672776223819728,6,2,ko,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,많은 비,2026-07-30T05:24:00+00:00,,0.7229098952467689,7,2,ko,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,태풍,2026-08-09T03:59:00+00:00,,0.4567653989794411,3,2,ko,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-08-23T03:30:00+00:00,,0.4147848127360968,4,1,ko,,
 '4d9577e33d',extremes,Volcano,#b83202,random,화산,2026-08-01T05:41:00+00:00,,0.4121171793095969,5,2,ko,,
@@ -57,11 +57,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f03e0c694',extremes,Wildfire,#d60d2b,effis,산불 n.a. 튀니지,2026-08-07T09:56:00+00:00,Tunisia,0.2310238676009867,2,1,ko,MED,Africa
 '9074be8300',extremes,Wildfire,#d60d2b,effis,터키 산불 이즈미르,2026-08-07T09:56:00+00:00,Turkey,0.2310238654759719,2,1,ko,MED,Asia
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,산불 앙카라 터키,2026-08-07T11:06:00+00:00,Turkey,0.2310238653451731,2,1,ko,MED,Asia
-'19e2e5e511',extremes,Wildfire,#d60d2b,effis,산불은 터키입니다,2026-08-07T09:56:00+00:00,Turkey,0.2310238640657563,2,1,ko,MED,Asia
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,불가리아 산불,2026-08-07T09:56:00+00:00,Bulgaria,0.2310238618650176,2,1,ko,MED,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,산불 рашка област 세르비아,2026-08-07T11:06:00+00:00,Serbia,0.2310238618226121,2,1,ko,MED,Europe
 'e7298fae8f',extremes,Wildfire,#d60d2b,effis,산불 btaaboura 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.2310238605945313,2,1,ko,MED,Asia
-'39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,산불 앙카라 터키,2026-08-07T11:06:00+00:00,Turkey,0.2310238604042394,2,1,ko,MED,Asia
 'd41602be9a',extremes,Wildfire,#d60d2b,effis,산불 알토 타메가 포르투갈,2026-08-07T09:56:00+00:00,Portugal,0.2310238585073397,2,1,ko,MED,Europe
 '8cbdb17397',extremes,Wildfire,#d60d2b,effis,산불 médio tejo portugal,2026-08-07T11:06:00+00:00,Portugal,0.2310238549317666,2,1,ko,MED,Europe
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,산불 스페인 바르셀로나,2026-08-07T11:06:00+00:00,Spain,0.2310238547645316,2,1,ko,MED,Europe
@@ -304,7 +302,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,산불 하부쉬 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.1963702998445468,3,1,ko,MED,Asia
 '7bc6211e3c',extremes,Wildfire,#d60d2b,effis,산불 n.a. 시리아,2026-08-07T11:06:00+00:00,Syria,0.196370298741618,3,1,ko,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,산불 n.a. 튀니지,2026-08-07T11:06:00+00:00,Tunisia,0.1963702980138311,3,1,ko,MED,Africa
-'9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,산불 바브 베레드 모로코,2026-08-07T09:56:00+00:00,Morocco,0.1963702979953197,3,1,ko,MED,Africa
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,산불 도루 포르투갈,2026-08-07T09:56:00+00:00,Portugal,0.1963702978874444,3,1,ko,MED,Europe
 'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,레바논 산불 bchatfine,2026-08-07T11:06:00+00:00,Lebanon,0.1963702960408045,3,1,ko,MED,Asia
 'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,산불 엘 메리 레바논,2026-08-07T11:06:00+00:00,Lebanon,0.1963702959540036,3,1,ko,MED,Asia
@@ -320,7 +317,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be6a55ce29',extremes,Wildfire,#d60d2b,effis,몬테네그로의 산불,2026-08-07T11:06:00+00:00,Montenegro,0.1963702871707761,3,1,ko,MED,Europe
 '52eade2718',extremes,Wildfire,#d60d2b,effis,모로코의 산불,2026-08-07T11:06:00+00:00,Morocco,0.1963702870629866,3,1,ko,MED,Africa
 '046de84cff',extremes,Wildfire,#d60d2b,effis,터키 산불 이즈미르,2026-08-07T09:56:00+00:00,Turkey,0.1963702866842852,3,1,ko,MED,Asia
+'19e2e5e511',extremes,Wildfire,#d60d2b,effis,산불은 터키입니다,2026-08-07T09:56:00+00:00,Turkey,0.19637028445589286,3,1,ko,MED,Asia
 '27290ff5eb',extremes,Wildfire,#d60d2b,effis,산불 kladanj 보스니아 헤르체고비나,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1963702814382497,3,1,ko,MED,Europe
+'39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,산불 앙카라 터키,2026-08-07T11:06:00+00:00,Turkey,0.1963702813436035,3,1,ko,MED,Asia
 '56932be330',extremes,Wildfire,#d60d2b,effis,산불은 터키에서 발생합니다.,2026-08-07T11:06:00+00:00,Turkey,0.1963702694195614,3,1,ko,MED,Asia
 'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,산불 ključ 보스니아 헤르체고비나,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.1963702683502585,3,1,ko,MED,Europe
 '0f5047d744',extremes,Wildfire,#d60d2b,effis,루마니아 산불 툴체아,2026-08-07T09:56:00+00:00,Romania,0.1963702680717631,3,1,ko,MED,Europe
@@ -350,3 +349,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1b8f4df40',extremes,Storm,#b3b2b1,wmo,폭풍 해일 해안 오타고,2026-07-29T05:37:00+00:00,New Zealand,0.1864787124333612,3,1,ko,NZ,Oceania
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,폭풍 해일 eastfjords,2026-07-31T05:51:00+00:00,Iceland,0.1857487830586239,3,1,ko,GIC,Europe
 '1364fc1e53',extremes,Snow&Ice,#d60d2b,wmo,스노우 레무타카 힐로드 sh2,2026-08-03T05:57:00+00:00,New Zealand,0.1851641306040266,3,1,ko,NZ,Oceania
+'9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,산불 바브 베레드 모로코,2026-08-07T09:56:00+00:00,Morocco,0.16691475329602173,4,1,ko,MED,Africa
