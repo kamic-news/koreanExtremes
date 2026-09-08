@@ -35,6 +35,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1bc9542f90',extremes,Wildfire,#d60d2b,effis,산불 보스니아 헤르체고비나,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3156276447678736,0,1,ko,MED,Europe
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,산불 n.a. 알제리,2026-08-27T13:00:00+00:00,Algeria,0.3155537337751957,0,1,ko,MED,Africa
 '2f03e0c694',extremes,Wildfire,#d60d2b,effis,산불 n.a. 튀니지,2026-08-27T13:00:00+00:00,Tunisia,0.3154689456568504,0,1,ko,MED,Africa
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,루마니아 산불,2026-08-27T13:00:00+00:00,Romania,0.31543381786825375,0,1,ko,WCE,Europe
+'14a41389eb',extremes,Wildfire,#d60d2b,effis,북마케도니아 산불,2026-08-27T13:00:00+00:00,North Macedonia,0.31533158436928965,0,1,ko,MED,Europe
+'f93df854ee',extremes,Wildfire,#d60d2b,effis,북마케도니아 산불,2026-08-27T13:00:00+00:00,North Macedonia,0.31528287847660563,0,1,ko,MED,Europe
+'8a66cd48ef',extremes,Wildfire,#d60d2b,effis,산불 알제리 n.a. 해당 없음,2026-08-27T13:00:00+00:00,Algeria,0.315232717290989,0,1,ko,MED,Africa
+'6d6528d836',extremes,Wildfire,#d60d2b,effis,산불 알바니아,2026-08-27T13:00:00+00:00,Albania,0.3151906320962867,0,1,ko,MED,Europe
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,루마니아 산불 툴체아,2026-08-27T13:00:00+00:00,Romania,0.3151728801406534,0,1,ko,WCE,Europe
+'1f50df77c2',extremes,Wildfire,#d60d2b,effis,불가리아 산불,2026-08-27T13:00:00+00:00,Bulgaria,0.3151531460558981,0,1,ko,MED,Europe
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,가장 추운 해,2026-09-07T07:29:00+00:00,,0.31514022033246564,0,1,ko,,
+'3bd8e103de',extremes,Wildfire,#d60d2b,effis,산불 튀니지 n.a. 해당 없음,2026-08-27T13:00:00+00:00,Tunisia,0.31496604620380403,0,1,ko,MED,Africa
+'4ff9a5d897',extremes,Wildfire,#d60d2b,effis,세르비아 산불,2026-08-27T13:00:00+00:00,Serbia,0.3147877139858354,0,1,ko,MED,Europe
 '3ea76ed422',extremes,Drought,#edc291,edo,한국의 가뭄,2026-08-17T03:28:00+00:00,South Korea,0.3084331927429493,3,1,ko,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-09-01T07:57:00+00:00,,0.2918357606060611,1,1,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-08-13T04:26:00+00:00,North Korea,0.2878997592361974,4,1,ko,EAS,Asia
