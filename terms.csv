@@ -8,7 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,태풍,2026-08-09T03:59:00+00:00,,0.4567653989794411,3,2,ko,,
 '82d648b882',extremes,Drought,#edc291,random,가뭄,2026-08-04T05:31:00+00:00,,0.4487735359611705,5,3,ko,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-09-02T07:16:00+00:00,,0.4387823138129624,4,1,ko,,
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,호우,2026-08-15T03:13:00+00:00,,0.43763913107200225,5,3,ko,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,호우,2026-08-15T03:13:00+00:00,,0.4376391310720022,5,3,ko,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-30T08:29:00+00:00,,0.4356142219438701,1,2,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-09-02T07:16:00+00:00,,0.4306871231408754,2,2,ko,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-08-23T03:30:00+00:00,,0.4147848127360968,4,1,ko,,
@@ -18,10 +18,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-09-02T07:17:00+00:00,North Korea,0.4043927012522754,2,1,ko,EAS,Asia
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-09-03T07:20:00+00:00,South Korea,0.3995825694656448,2,1,ko,EAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-07T04:37:00+00:00,,0.386879047937793,2,2,ko,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-29T09:18:00+00:00,,0.380467782975897,2,2,ko,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,더위,2026-08-19T03:25:00+00:00,,0.3791494642655675,2,2,ko,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,산사태,2026-08-08T03:51:00+00:00,,0.3782682192099513,4,2,ko,,
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-08-30T08:29:00+00:00,,0.377751077198751,2,2,ko,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-29T09:18:00+00:00,,0.3673048633866553,3,2,ko,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,가장 더운 해,2026-09-05T07:04:00+00:00,,0.3542326115598467,2,1,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-08-29T09:19:00+00:00,South Korea,0.3485582197080809,3,1,ko,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,증발산,2026-08-28T14:31:00+00:00,,0.3420560750944363,3,1,ko,,
@@ -210,7 +210,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '763dffce88',extremes,Wildfire,#d60d2b,effis,산불 северна македонија вардарски gradsko,2026-08-27T13:00:00+00:00,North Macedonia,0.2263973137414759,2,1,ko,MED,Europe
 '1212464e8d',extremes,Wildfire,#d60d2b,effis,산불 srbija сpбија јабланичка област lebane,2026-08-27T13:00:00+00:00,Serbia,0.2261119681811664,2,1,ko,MED,Europe
 '0b6c645097',extremes,Wildfire,#d60d2b,effis,핀란드 산불,2026-08-28T14:32:00+00:00,Finland,0.2260444603230789,2,1,ko,NEU,Europe
-'8199aa8c54',extremes,Wildfire,#d60d2b,effis,산불 알바니아,2026-08-28T14:32:00+00:00,Albania,0.22582433367371813,2,1,ko,MED,Europe
+'8199aa8c54',extremes,Wildfire,#d60d2b,effis,산불 알바니아,2026-08-28T14:32:00+00:00,Albania,0.2258243336737181,2,1,ko,MED,Europe
 'cbfcf75ee1',extremes,Drought,#edc291,emdat,가뭄 wajir,2026-08-27T13:01:00+00:00,Kenya,0.2251759289971296,2,1,ko,SEAF,Africa
 'a23bd4974c',extremes,Wildfire,#d60d2b,effis,산불 코소보,2026-08-29T09:18:00+00:00,Kosovo,0.2244810370421393,2,1,ko,MED,Europe
 'e720d59629',extremes,Wildfire,#d60d2b,effis,산불 튀니지 n.a. 해당 없음,2026-08-27T13:00:00+00:00,Tunisia,0.2244007219303065,2,1,ko,MED,Africa
