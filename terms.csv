@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-09-09T07:32:00+00:00,,0.5599132939145474,4,2,ko,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,빙하호 발생,2026-08-18T03:23:00+00:00,,0.462315334834474,4,2,ko,,
 '62084daeb0',extremes,Earthquake,#870007,random,지진,2026-09-05T07:04:00+00:00,,0.4576088158799956,3,3,ko,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,더위,2026-08-19T03:25:00+00:00,,0.452948683197161,3,2,ko,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,악천후,2026-08-23T03:30:00+00:00,,0.4147848127360968,4,1,ko,,
@@ -11,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-08-30T08:29:00+00:00,,0.377751077198751,2,2,ko,,
 '52af874334',extremes,Drought,#edc291,random,건조함,2026-09-03T07:20:00+00:00,,0.3714081433972929,3,2,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-29T09:18:00+00:00,,0.3673048633866553,3,2,ko,,
-'f4e1bf0fdf',extremes,Flood,#030ba1,random,빙하호 발생,2026-08-18T03:23:00+00:00,,0.3670768292170283,3,2,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-09-02T07:16:00+00:00,,0.3660840696697441,3,1,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-08-29T09:19:00+00:00,South Korea,0.3485582197080809,3,1,ko,EAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,눈사태,2026-09-10T07:28:00+00:00,,0.3466162784848806,3,1,ko,,
@@ -168,10 +168,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd01480bffd',extremes,Drought,#edc291,edo,온두라스 건기,2026-09-01T07:58:00+00:00,Honduras,0.2231526932613426,2,1,ko,SCA,North-America
 'ee76108475',extremes,Wildfire,#d60d2b,effis,그리스 산불,2026-08-31T08:51:00+00:00,Greece,0.2231474731529571,2,1,ko,MED,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-09-01T07:57:00+00:00,,0.2211742385486205,3,1,ko,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,빙하분리,2026-09-01T07:57:00+00:00,,0.21752020026529728,3,1,ko,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-08-25T03:27:00+00:00,,0.21409674509945845,3,1,ko,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,빙하분리,2026-09-01T07:57:00+00:00,,0.2175202002652972,3,1,ko,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,모래폭풍,2026-08-25T03:27:00+00:00,,0.2140967450994584,3,1,ko,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-08-30T08:29:00+00:00,,0.2113477900231357,3,1,ko,,
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-09-01T07:57:00+00:00,,0.21085133703787912,3,1,ko,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-09-01T07:57:00+00:00,,0.2108513370378791,3,1,ko,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,기록적인 추위,2026-08-22T03:22:00+00:00,,0.2106450557240786,3,1,ko,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-09-10T07:28:00+00:00,,0.2099784535344155,3,1,ko,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 에타우,2026-08-31T08:51:00+00:00,,0.1953879277216934,3,1,ko,NPO,Pacific Ocean
