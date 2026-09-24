@@ -6,10 +6,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 카리나,2026-08-31T08:51:00+00:00,,0.4437123860324469,4,2,ko,NPO,Pacific Ocean
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 마리,2026-09-04T07:23:00+00:00,,0.4424388249606745,4,2,ko,NPO,Pacific Ocean
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 마리,2026-09-03T07:20:00+00:00,,0.4423594635564061,4,2,ko,NPO,Pacific Ocean
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-30T08:29:00+00:00,,0.3906314546044461,3,2,ko,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-29T09:18:00+00:00,,0.388109223878657,4,2,ko,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,메뚜기,2026-09-02T07:16:00+00:00,,0.3864714892192825,4,2,ko,,
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-08-30T08:29:00+00:00,,0.377751077198751,2,2,ko,,
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,한파,2026-08-30T08:29:00+00:00,,0.37013679641377917,4,2,ko,,
 '9f0423d739',extremes,Drought,#edc291,random,건조함,2026-08-27T13:00:00+00:00,,0.3528498354105934,3,2,ko,,
 'c4d615f1b6',extremes,Drought,#edc291,edo,한국의 건기,2026-08-29T09:19:00+00:00,South Korea,0.3485582197080809,3,1,ko,EAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,눈사태,2026-09-10T07:28:00+00:00,,0.3466162784848806,3,1,ko,,
