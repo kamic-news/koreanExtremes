@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-09-09T07:32:00+00:00,,0.4714842902127714,7,1,ko,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,눈보라,2026-09-09T07:32:00+00:00,,0.5509116616808557,8,2,ko,,
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 로웰,2026-09-02T07:16:00+00:00,,0.470489262573879,6,2,ko,NPO,Pacific Ocean
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 카리나,2026-08-31T08:51:00+00:00,,0.4437123860324469,4,2,ko,NPO,Pacific Ocean
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 마리,2026-09-04T07:23:00+00:00,,0.4424388249606745,4,2,ko,NPO,Pacific Ocean
@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,눈사태,2026-09-10T07:28:00+00:00,,0.2950738817121485,4,1,ko,,
 'f956931882',extremes,Drought,#edc291,edo,건조함 북한,2026-09-02T07:17:00+00:00,North Korea,0.2921737266547689,4,1,ko,EAS,Asia
 'eb91a6c8f7',extremes,Drought,#edc291,edo,한국에는 비가 부족하다,2026-09-03T07:20:00+00:00,South Korea,0.2886984064389283,4,1,ko,EAS,Asia
-'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,폭탄 사이클론,2026-08-28T14:31:00+00:00,,0.2353622223012148,3,1,ko,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,강물이 범람함,2026-08-31T08:51:00+00:00,,0.2320669819368686,3,1,ko,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,눈이 날린다,2026-09-06T07:16:00+00:00,,0.231544635155053,3,1,ko,,
 '334e4129ea',extremes,Wildfire,#d60d2b,effis,산불 istočni stari grad 보스니아 헤르체고비나,2026-08-28T14:32:00+00:00,Bosnia and Herzegovina,0.2244950209578961,2,1,ko,MED,Europe
@@ -30,18 +29,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e57843925c',extremes,Drought,#edc291,edo,엘살바도르 건기,2026-08-30T08:30:00+00:00,El Salvador,0.2237828760346779,2,1,ko,SCA,North-America
 '945465874b',extremes,Drought,#edc291,edo,가뭄 지부티,2026-08-27T13:00:00+00:00,Djibouti,0.2237242563493788,2,1,ko,NEAF,Africa
 'c2ececbbb4',extremes,Drought,#edc291,edo,건기 벨리즈,2026-09-02T07:17:00+00:00,Belize,0.2234620977613864,2,1,ko,SCA,North-America
-'c92435bdaa',extremes,Drought,#edc291,edo,비 부족 엘살바도르,2026-09-08T07:23:00+00:00,El Salvador,0.223388808797437,2,1,ko,SCA,North-America
-'dbc7898410',extremes,Drought,#edc291,edo,가뭄 도미니카 공화국,2026-08-31T08:51:00+00:00,Dominican Republic,0.223153890470565,2,1,ko,CAR,North-America
-'d01480bffd',extremes,Drought,#edc291,edo,온두라스 건기,2026-09-01T07:58:00+00:00,Honduras,0.2231526932613426,2,1,ko,SCA,North-America
 'ee76108475',extremes,Wildfire,#d60d2b,effis,그리스 산불,2026-08-31T08:51:00+00:00,Greece,0.2231474731529571,2,1,ko,MED,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-09-01T07:57:00+00:00,,0.2211742385486205,3,1,ko,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,남극의 빙산,2026-08-30T08:29:00+00:00,,0.2113477900231357,3,1,ko,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,국립 허리케인 센터,2026-09-01T07:57:00+00:00,,0.2108513370378791,3,1,ko,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,눈 진창,2026-09-06T07:16:00+00:00,,0.2103516087887309,3,1,ko,,
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-09-10T07:28:00+00:00,,0.2099784535344155,3,1,ko,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,빙산 arctis,2026-09-08T07:23:00+00:00,,0.2053427364958379,4,1,ko,,
 '0053afc92f',extremes,Volcano,#b83202,random,라하르,2026-09-12T07:19:00+00:00,,0.2020919834519353,4,1,ko,,
-'a652c78afc',extremes,Drought,#edc291,random,대가뭄,2026-09-03T07:20:00+00:00,,0.19766561893658283,4,1,ko,,
+'a652c78afc',extremes,Drought,#edc291,random,대가뭄,2026-09-03T07:20:00+00:00,,0.1976656189365828,4,1,ko,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 에타우,2026-08-31T08:51:00+00:00,,0.1953879277216934,3,1,ko,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,열대폭풍 뱅랭,2026-08-31T08:51:00+00:00,,0.1946502590667652,3,1,ko,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,호주 뇌우,2026-09-01T07:58:00+00:00,Australia,0.1943916792634285,3,1,ko,EAU,Oceania
@@ -56,5 +51,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,가뭄 벨기에,2026-08-30T08:30:00+00:00,Belgium,0.1908173690931264,3,1,ko,WCE,Europe
 'c8e23931d5',extremes,Heat Wave,#c40202,acwe,호주 서부의 따뜻한 날씨,2026-09-02T07:17:00+00:00,Australia,0.1905409647128242,3,1,ko,CAU,Oceania
 'b4961558d0',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 에두아르,2026-09-03T07:20:00+00:00,,0.1903103475299156,3,1,ko,CNA,North-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-09-01T07:58:00+00:00,Argentina,0.19012895716530093,3,1,ko,SES,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,프로스트 아르헨티나,2026-09-01T07:58:00+00:00,Argentina,0.1901289571653009,3,1,ko,SES,South-America
+'c92435bdaa',extremes,Drought,#edc291,edo,비 부족 엘살바도르,2026-09-08T07:23:00+00:00,El Salvador,0.18988048747782144,3,1,ko,SCA,North-America
+'dbc7898410',extremes,Drought,#edc291,edo,가뭄 도미니카 공화국,2026-08-31T08:51:00+00:00,Dominican Republic,0.18968080689998024,3,1,ko,CAR,North-America
+'d01480bffd',extremes,Drought,#edc291,edo,온두라스 건기,2026-09-01T07:58:00+00:00,Honduras,0.1896797892721412,3,1,ko,SCA,North-America
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-09-10T07:28:00+00:00,,0.17848168550425317,4,1,ko,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,먼지폭풍,2026-09-05T07:04:00+00:00,,0.1773300493028587,4,1,ko,,
