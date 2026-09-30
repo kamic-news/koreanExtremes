@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'95b2881221',extremes,Precipitation,#d60d2b,random,대기 강,2026-09-01T07:57:00+00:00,,0.5220895428361715,6,2,ko,,
-'3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 마리,2026-09-03T07:20:00+00:00,,0.4423594635564061,4,2,ko,NPO,Pacific Ocean
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,허리케인 마리,2026-09-04T07:23:00+00:00,,0.3760730162165733,5,1,ko,NPO,Pacific Ocean
+'3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 마리,2026-09-03T07:20:00+00:00,,0.3760055590229452,5,1,ko,NPO,Pacific Ocean
 '20741ce7eb',extremes,Tsunami,#690191,random,쓰나미,2026-08-30T08:29:00+00:00,,0.3715384606189383,3,2,ko,,
 '9f0423d739',extremes,Drought,#edc291,random,건조함,2026-08-27T13:00:00+00:00,,0.3528498354105934,3,2,ko,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-09-02T07:16:00+00:00,,0.3349733938938617,4,1,ko,,
@@ -13,13 +12,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,빙산 arctis,2026-09-08T07:23:00+00:00,,0.2053427364958379,4,1,ko,,
 '0053afc92f',extremes,Volcano,#b83202,random,라하르,2026-09-12T07:19:00+00:00,,0.2020919834519353,4,1,ko,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,눈이 날린다,2026-09-06T07:16:00+00:00,,0.196812939881795,4,1,ko,,
-'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-09-08T07:23:00+00:00,,0.1943535740198209,3,1,ko,,
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,2016년 9월 호주 남부의 폭풍 기상 이변,2026-09-06T07:16:00+00:00,Australia,0.1917331597411325,3,1,ko,SAU,Oceania
 'c8e23931d5',extremes,Heat Wave,#c40202,acwe,호주 서부의 따뜻한 날씨,2026-09-02T07:17:00+00:00,Australia,0.1905409647128242,3,1,ko,CAU,Oceania
-'b4961558d0',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 에두아르,2026-09-03T07:20:00+00:00,,0.1903103475299156,3,1,ko,CNA,North-America
 'c2ececbbb4',extremes,Drought,#edc291,edo,건기 벨리즈,2026-09-02T07:17:00+00:00,Belize,0.1899427830971784,3,1,ko,SCA,North-America
 'c92435bdaa',extremes,Drought,#edc291,edo,비 부족 엘살바도르,2026-09-08T07:23:00+00:00,El Salvador,0.1898804874778214,3,1,ko,SCA,North-America
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,눈 진창,2026-09-06T07:16:00+00:00,,0.1787988674704212,4,1,ko,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-09-10T07:28:00+00:00,,0.1784816855042531,4,1,ko,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,먼지폭풍,2026-09-05T07:04:00+00:00,,0.1773300493028587,4,1,ko,,
+'ccefefc59e',extremes,Drought,#edc291,random,갑작스러운 가뭄,2026-09-08T07:23:00+00:00,,0.16520053791684775,4,1,ko,,
 'a36897c94e',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 노베르트,2026-09-11T07:26:00+00:00,,0.1634999886902123,4,1,ko,NPO,Pacific Ocean
