@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-09-02T07:16:00+00:00,,0.520073332588315,6,2,ko,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,최저 최저 기온,2026-09-02T07:16:00+00:00,,0.5923623627000677,7,2,ko,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,흰 서리,2026-09-10T07:28:00+00:00,,0.1784816855042531,4,1,ko,,
-'a36897c94e',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 노베르트,2026-09-11T07:26:00+00:00,,0.1634999886902123,4,1,ko,NPO,Pacific Ocean
 'c92435bdaa',extremes,Drought,#edc291,edo,비 부족 엘살바도르,2026-09-08T07:23:00+00:00,El Salvador,0.1613984143561481,4,1,ko,SCA,North-America
+'a36897c94e',extremes,Tropical Cyclone,#4f4f4f,eonet,열대성 폭풍 노베르트,2026-09-11T07:26:00+00:00,,0.13897499038668043,5,1,ko,NPO,Pacific Ocean
